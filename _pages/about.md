@@ -10,8 +10,8 @@ redirect_from:
 
 About
 ======
-I am a postdoctoral researcher at the Department of Engineering Science, University of Oxford (UK), working with [Prof. Maarten De Vos](https://cibim.eng.ox.ac.uk/). I defensed my PhD (Dr.-Ing. in German system) thesis at the Institute for Signal Processing, University of Lübeck (Germany), working with Prof. Alfred Mertins. The thesis received the grade "summa cum laude". I received my MEng degree in Computer Engineering from Nanyang Technological University, Singapore under the supervision of Prof. Ian McLoughlin and Prof. Tan Su Lim Forest, and my BSc degree in Computer Science from the University of Science at Ho Chi Minh City, Vietnam.
+I am a postdoctoral researcher at the Department of Engineering Science, University of Oxford (UK), working with [Prof. Maarten De Vos](https://cibim.eng.ox.ac.uk/). I defensed my PhD (Dr.-Ing. in German system) thesis at the [Institute for Signal Processing](https://www.isip.uni-luebeck.de/), [University of Lübeck](https://www.uni-luebeck.de/) (Germany), working with Prof. Alfred Mertins. The thesis received the grade "summa cum laude". I received my MEng degree in Computer Engineering from the [School of Computer Engineering](http://scse.ntu.edu.sg/), [Nanyang Technological University](http://ntu.edu.sg/), Singapore and my BSc degree in Computer Science from the [University of Science at Ho Chi Minh City](http://web.hcmus.edu.vn/en/), Vietnam.
 
-My research interests include signal processing, and machine learning with applications in environmental sound analysis and healthcare.
+My research interests include machine learning and signal processing with applications in environmental sound analysis and healthcare.
 
-My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?dl=1). You can also be found on [Linkedin](https://www.linkedin.com/in/pquochuy/).
+My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?dl=1).
