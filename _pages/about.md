@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Huy Phan"
+title: ""
 excerpt: "About"
 author_profile: true
 redirect_from: 
