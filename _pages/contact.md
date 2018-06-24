@@ -1,3 +1,10 @@
+---
+#layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
+
 Huy Phan
 Institute of Biomedical Engineering
 Department of Engineering Science
