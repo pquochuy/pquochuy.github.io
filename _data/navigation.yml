@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/
+    
   - title: "Research"
     url: /research/
     
@@ -16,7 +19,10 @@ main:
     url: /awards/    
     
   - title: "Service"
-    url: /service/    
+    url: /service/ 
+    
+  - title: "Contact"
+    url: /contact/ 
 #  - title: "Portfolio"
 #    url: /portfolio/
         
