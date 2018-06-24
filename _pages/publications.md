@@ -98,6 +98,13 @@ Radoslaw Mazur, **Huy Phan**, and Alfred Mertins. ___A Clustering Approach for S
 
 2014
 ------
+**Huy Phan**, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Acoustic Event Detection and Localization with Regression Forests___. In *Proceedings of 15th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 2524-2528, 2014 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2014c.pdf) [[DEMO]](https://www.youtube.com/watch?v=3tlB7IykrRw) <span style="color:red">*(Awarded ISCA Travel Grant)*</span>
+
+**Huy Phan** and Alfred Mertins. ___Exploring Superframe Co-occurrence for Acoustic Event Recognition___. In *Proceedings of 22nd European Signal Processing Conference (EUSIPCO)*, pp. 631-635, 2014 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2014b.pdf)
+
+Marco Maass, **Huy Phan**, and Alfred Mertins. ___Design of Cosine-Sine Modulated Filter Banks without DC Leakage___. In *Proceedings of 19th International Conference on Digital Signal Processing (DSP)*, pp. 486-491, 2014 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/195.pdf)
+
+**Huy Phan** and Alfred Mertins. ___A Voting-based Technique for Acoustic Event-Specific Detection___. In *Proceedings of 40th Annual German Congress on Acoustics (DAGA)*, 2014 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2014a.pdf)
 
 2013
 ------
