@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "  "
+title: "Teaching / Teaching Assistant"
 permalink: /teaching/
 author_profile: true
 ---
 
-Teaching / Teaching Assistant
-------
+<br/>
 
 **Signal Processing**<br/>TA: Graduate course (Fall 2014, Fall 2015, Fall 2016)<br/>*Institute for Signal Processing, University of Lübeck*
 
