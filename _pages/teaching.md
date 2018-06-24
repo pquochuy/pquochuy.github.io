@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <br/>
-
 **Signal Processing**<br/>TA: Graduate course (Fall 2014, Fall 2015, Fall 2016)<br/>*Institute for Signal Processing, University of Lübeck*
 
 **Fundamentals of Digital Systems**<br/>T: Undergraduate course (Spring 2013)<br/>*Department of Computer Engineering, University of Information Technology*
