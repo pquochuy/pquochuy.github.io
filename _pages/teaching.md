@@ -4,8 +4,8 @@ title: "Teaching / Teaching Assistant"
 permalink: /teaching/
 author_profile: true
 ---
-<br/>
 
+<br/>
 **Signal Processing**<br/>*Institute for Signal Processing, University of Lübeck*<br/>TA: Graduate course (Fall 2014, Fall 2015, Fall 2016)
 
 **Fundamentals of Digital Systems**<br/>*Department of Computer Engineering, University of Information Technology*<br/>T: Undergraduate course (Spring 2013)
