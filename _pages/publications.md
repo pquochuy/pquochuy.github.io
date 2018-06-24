@@ -36,7 +36,7 @@ Huy Phan, Martin Krawczyk-Becker, Timo Gerkmann, and Alfred Mertins. ___Weighted
 
 2017
 ------
-**Huy Phan**. ___Audio Event Detection, Classification, and Beyond___. *Ph.D. thesis, University of Lübeck*, August 2017 <span style="color:red">*(summa cum laude)*</span> <span style="color:red">*(to appear)*</span>
+**Quoc Huy Phan**. ___Audio Event Detection, Classification, and Beyond___. *Ph.D. thesis, University of Lübeck*, August 2017 <span style="color:red">*(summa cum laude)*</span> <span style="color:red">*(to appear)*</span>
 
 Ian McLoughlin, Haomin Zhang, Zhipeng Xie, Yan Song, Wei Xiao, and **Huy Phan**. ___Continuous Robust Sound Event Classification Using Time-Frequency Features and Deep Learning___. *PLoS ONE*: 12(9), Article ID e0182309, 2017 [[PDF]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182309)
 
@@ -108,9 +108,19 @@ Marco Maass, **Huy Phan**, and Alfred Mertins. ___Design of Cosine-Sine Modulate
 
 2013
 ------
+**Quoc-Huy Phan**, Su-Lim Tan, and Ian McLoughlin. ___GPS Multipath Mitigation: A Nonlinear Regression Approach___. *GPS Solutions*: 17(3), pp. 371-380, 2013 [[PDF]](https://www.dropbox.com/s/jti32ne6pe9hsm3/2012_MultipathRegression_GPSS_rev_2.0.pdf?dl=1)
+
 **Quoc-Huy Phan**, Su-Lim Tan, Ian McLoughlin, and Duc-Lung Vu. ___A Unified Framework for GPS Code and Carrier-Phase Multipath Mitigation using Support Vector Regression___. *Advances in Artificial Neural Systems*, 2013 [[PDF]](http://downloads.hindawi.com/journals/aans/2013/240564.pdf)
 
-**Quoc-Huy Phan**, Su-Lim Tan, and Ian McLoughlin. ___GPS Multipath Mitigation: A Nonlinear Regression Approach___. *GPS Solutions*: 17(3), pp. 371-380, 2013 [[PDF]](https://www.dropbox.com/s/jti32ne6pe9hsm3/2012_MultipathRegression_GPSS_rev_2.0.pdf?dl=1)
+Huy Phan, Quan Do, The-Luan Do, and Duc-Lung Vu. Metric Learning for Automatic Sleep Stage Classification. In Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 5025-5028, 2013 [[PDF]](https://www.dropbox.com/s/sgynd8n3wibgbtw/2013_EMBC2013_904.pdf?dl=1) [[CODE]](https://www.dropbox.com/s/uel9xuwtfml1dxg/2013_sleep_metric.zip?dl=1) 
+
+2012
+------
+**Quoc Huy Phan**. ___Nonlinear regression approach for GPS multipath mitigation: from code to carrier-phase measurements___. *M.Eng. Thesis, Nanyang Technological University*, 2012 [[PDF]](https://repository.ntu.edu.sg/handle/10356/50722)
+
+2011
+------
+**Quoc-Huy Phan** and Su-Lim Tan. ***Mitigation of GPS Periodic Multipath Using Nonlinear Regression***. In *Proceedings of 19th European Signal Processing Conference (EUSIPCO)*, pp. 1795-1799, 2011 [[PDF]](http://www.eurasip.org/Proceedings/Eusipco/Eusipco2011/papers/1569422911)
     
 {% include base_path %}
 
