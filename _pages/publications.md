@@ -32,7 +32,7 @@ Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, and Alfred Mertins. _
 
 **Huy Phan**, Philipp Koch, Ian McLoughlin, and Alfred Mertins. ___Enabling Early Audio Event Detection with Neural Networks___. In *Proceedings of 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2018 [[PDF]](https://arxiv.org/pdf/1712.02116)
 
-Huy Phan, Martin Krawczyk-Becker, Timo Gerkmann, and Alfred Mertins. ___Weighted and Multi-Task Loss for Rare Audio Event Detection___. In *Proceedings of 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2018 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2018b.pdf)
+**Huy Phan**, Martin Krawczyk-Becker, Timo Gerkmann, and Alfred Mertins. ___Weighted and Multi-Task Loss for Rare Audio Event Detection___. In *Proceedings of 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2018 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2018b.pdf)
 
 2017
 ------
