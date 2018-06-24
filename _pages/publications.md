@@ -84,6 +84,18 @@ Lars Hertel, **Huy Phan**, and Alfred Mertins. ___Classifying Variable-Length Au
 ------
 **Huy Phan**, Marco Maaß, Radoslaw Mazur, and Alfred Mertins. ___Random Regression Forests for Acoustic Event Detection and Classification___. *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*: 23(1), pp. 20-31, 2015 [[PDF]](http://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015_02.pdf) [[CODE]](https://github.com/pquochuy/regression_forest)
 
+Marco Maass, **Huy Phan**, Anita Möller, and Alfred Mertins. ___Cosine-Sine Modulated Filter Banks for Motion Estimation and Correction___. In *Proceedings of International Conference on Advanced Concepts for Intelligent Vision Systems (ACIVS)*, pp. 195-204, 2015 [[PDF]](http://link.springer.com/chapter/10.1007%2F978-3-319-25903-1_17)
+
+**Huy Phan**, Marco Maass, Lars Hertel, Radoslaw Mazur, and Alfred Mertins. ___A Multi-Channel Fusion Framework for Audio Event Detection___. In *Proceedings of IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, pp. 1-5, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015e.pdf)
+
+**Huy Phan**, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Representing Nonspeech Audio Signals through Speech Classification Models___. In **Proceedings of 16th Annual Conference of the International Speech Communication Association (INTERSPEECH)**, pp. 3441-3445, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015d.pdf) <span style="color:red">*(Best Student Paper Award Finalist)*</span>
+
+**Huy Phan**, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Audio Phrases for Audio Event Recognition___. In *Proceedings of 23rd European Signal Processing Conference (EUSIPCO)*, pp. 2546-2550, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015c.pdf)
+
+Radoslaw Mazur, **Huy Phan**, and Alfred Mertins. ___A Clustering Approach for Solving the Spatial Aliasing Problem in Convolutive Blind Source Separation___. In *Proceedings of 20th International Conference on Digital Signal Processing (DSP)*, pp. 679-683, 2015
+
+**Huy Phan**, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Early Event Detection in Audio Streams___. In *Proceedings of IEEE International Conference on Multimedia and Expo (ICME)*, pp. 1-6, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015b_02.pdf) <span style="color:red">*(Top 15% paper)*</span>
+
 2014
 ------
 
