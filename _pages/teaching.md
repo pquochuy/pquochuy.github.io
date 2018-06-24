@@ -17,7 +17,7 @@ Teaching / Teaching Assistant
 
 **Microprocessors & Microcontrollers**<br/>*Department of Computer Engineering, University of Information Technology*<br/>TA: Undergraduate course (Fall 2008)
 
-Teaching / Teaching Assistant
+Supervised Theses
 ------
 Momen Al Msalma. ___Methods for acoustic cough counting___. *Master Thesis, University of Lübeck*, 2017 (in German)
 
