@@ -4,7 +4,6 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-
 <br/>
 
 ___Temporal Structure Modelling for Audio Event Detection___<br/>*School of Computing, University of Kent (Medway)*<br/>31 January 2018
