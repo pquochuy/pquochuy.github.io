@@ -9,7 +9,7 @@ author_profile: true
 
 Preprints
 ------
-**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. __[Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification](https://arxiv.org/pdf/1805.06546)__. *arXiv Preprint arXiv:1805.06546*, 2018
+**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. __Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification__. *arXiv Preprint arXiv:1805.06546*, 2018 [[PDF]](https://arxiv.org/pdf/1805.06546)
     
 {% include base_path %}
 
