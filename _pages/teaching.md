@@ -4,7 +4,6 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-
 Teaching / Teaching Assistant
 ------
 **Signal Processing**<br/>*Institute for Signal Processing, University of Lübeck*<br/>TA: Graduate course (Fall 2014, Fall 2015, Fall 2016)
