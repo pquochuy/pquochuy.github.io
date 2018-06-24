@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-
+<br/>
+<br/>
 ___Temporal Structure Modelling for Audio Event Detection___<br/>*School of Computing, University of Kent (Medway)*<br/>31 January 2018
 
 ___Some Perspectives on Audio Event Detection___<br/>*Pattern Recognition in Embedded Systems Group, Technical University Dortmund*<br/>02 December 2016
