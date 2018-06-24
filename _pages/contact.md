@@ -5,10 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-Huy Phan
-Institute of Biomedical Engineering
-Department of Engineering Science
-Old Road Campus Research Building
-University of Oxford
-Oxford OX3 7DQ, United Kingdom
+**Huy Phan**<br/>Institute of Biomedical Engineering<br/>Department of Engineering Science<br/>Old Road Campus Research Building<br/>University of Oxford<br/>Oxford OX3 7DQ, United Kingdom<br/>
+
 Email: huy[dot]phan[at]eng.ox.ac.uk
