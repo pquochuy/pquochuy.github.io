@@ -5,9 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-#<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+___Temporal Structure Modelling for Audio Event Detection___. *School of Computing, University of Kent (Medway)*, January 2018
 
-**Huy Phan**.  ___Temporal Structure Modelling for Audio Event Detection___. *School of Computing, University of Kent (Medway)*, January 2018
+___Some Perspectives on Audio Event Detection___. *Pattern Recognition in Embedded Systems Group, Technical University Dortmund*, December 2016
+
+___Audio Event Detection, Classification, and Beyond___. *Institute for Natural Language Processing, University of Stuttgart*, May 2016
+
+___Acoustic Event Detection with Random Regression Forests___. *Department of Medical Physics and Acoustics, Carl von Ossietzky University of Oldenburg*, June 2015
+
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
