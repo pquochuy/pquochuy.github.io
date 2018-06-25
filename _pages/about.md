@@ -4,7 +4,9 @@ title: "About"
 excerpt: "About"
 permalink: /about/
 author_profile: true
-redirect_from: /about.html
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 <br/>
