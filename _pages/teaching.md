@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+_"Develop a passion for learning. If you do, you will never cease to grow."_ - Anthony J. D'Angelo
+
 Teaching / Teaching Assistant
 ------
 * **Signal Processing**<br/>*Institute for Signal Processing, University of Lübeck*<br/>TA: Graduate course (Fall 2014, Fall 2015, Fall 2016)
