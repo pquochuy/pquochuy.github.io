@@ -12,3 +12,5 @@ I am a postdoctoral researcher at the [Department of Engineering Science](http:/
 My research interests include machine learning and signal processing with applications in environmental sound analysis and healthcare.
 
 My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?dl=1).
+
+_“We do not have knowledge of a thing until we have grasped its why”_ - Aristotle
