@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huy Phan / Homepage"
+title                    : "Huy Phan"
 title_separator          : "-"
 name                     : &name "Huy Phan"
 description              : &description "Huy Phan"
