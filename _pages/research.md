@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+_“We do not have knowledge of a thing until we have grasped its why”_ - Aristotle
 
 My current research activities are related to the following topics:
 
