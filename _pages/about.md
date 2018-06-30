@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "Huy Phan - About"
+excerpt: "Huy Phan - About"
 author_profile: true
 redirect_from: /about/
 ---
