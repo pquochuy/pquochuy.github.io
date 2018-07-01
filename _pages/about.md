@@ -12,3 +12,16 @@ I am a postdoctoral researcher at the [Department of Engineering Science](http:/
 My research interests include machine learning and signal processing with applications in environmental sound analysis and healthcare.
 
 My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?dl=1).
+
+News
+---
+* **16 May 2018:** Preprint of our [recent work](http://arxiv.org/abs/1805.06546) on automatic sleep staging available in arXiv
+* **04 May 2018:** My PhD thesis approved for "summa cum laude"
+* **03 May 2018:** I will serve as a session co-chair at EMBC 2018
+* **08 April 2018:** Four papers accepted for EMBC 2018
+* 29 Jan 2018: Two papers accepted for ICASSP 2018
+* 16 Oct 2017: Start working at the University of Oxford
+* 23 Aug 2017: Successfully defended my PhD thesis, entitled "Audio Event Detection, Classification, and Beyond"
+* 02 Dec 2016: Just gave a talk about some perspectives on AED at TU Dortmund this morning
+* 18 Jul 2016: Matlab code for random regression forests is now available
+
