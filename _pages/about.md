@@ -19,9 +19,10 @@ News
 * **04 May 2018:** My PhD thesis approved for "summa cum laude"
 * **03 May 2018:** I will serve as a session co-chair at EMBC 2018
 * **08 April 2018:** Four papers accepted for EMBC 2018
+* 31 Jan 2018: Gave a talk on "Temporal Structure Modelling for Audio Event Detection" at Univesity of Kent (Medway)
 * 29 Jan 2018: Two papers accepted for ICASSP 2018
 * 16 Oct 2017: Joined the University of Oxford as a postdoctoral researcher
 * 23 Aug 2017: Successfully defended my PhD thesis, entitled "Audio Event Detection, Classification, and Beyond"
-* 02 Dec 2016: Just gave a talk about some perspectives on AED at TU Dortmund this morning
+* 02 Dec 2016: Gave a talk on "Some Perspectives on Audio Event Detection" at TU Dortmund
 * 18 Jul 2016: [Matlab code](https://github.com/pquochuy/regression_forest) for random regression forests is now available
 
