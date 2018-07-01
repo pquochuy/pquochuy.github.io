@@ -23,5 +23,5 @@ News
 * 16 Oct 2017: Start working at the University of Oxford
 * 23 Aug 2017: Successfully defended my PhD thesis, entitled "Audio Event Detection, Classification, and Beyond"
 * 02 Dec 2016: Just gave a talk about some perspectives on AED at TU Dortmund this morning
-* 18 Jul 2016: Matlab code for random regression forests is now available
+* 18 Jul 2016: [Matlab code](https://github.com/pquochuy/regression_forest) for random regression forests is now available
 
