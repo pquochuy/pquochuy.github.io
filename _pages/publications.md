@@ -20,7 +20,7 @@ Ian McLoughlin, Yan Song, Lam Pham, Ramaswany Palaniappan, **Huy Phan**, Yue Lan
 
 Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, Radoslaw Mazur, and Alfred Mertins. ___Recurrent Neural Networks with Weighting Loss for Early Prediction of Hand Movements___. In *Proceedings of 26th European Signal Processing Conference (EUSIPCO)*, 2018 <span style="color:red">*(accepted)*</span>
 
-Fernando Andreotti, **Huy Phan**, Maarten De Vos. ___Visualising Convolutional Neural Network Decisions in Automatic Sleep Scoring___. In *Proceedings of Joint Workshop on Artificial Intelligence in Health (AIH)*, 2018
+Fernando Andreotti, **Huy Phan**, Maarten De Vos. ___Visualising Convolutional Neural Network Decisions in Automatic Sleep Scoring___. In *Proceedings of Joint Workshop on Artificial Intelligence in Health (AIH)*, 2018 [[PDF]](http://ceur-ws.org/Vol-2142/paper5.pdf)
 
 **Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018
 
