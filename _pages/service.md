@@ -19,6 +19,7 @@ Journal Review
 
 Conference Review
 ------
+* DCASE 2018
 * INTERSPEECH 2018
 * AH 2018
 * EUSIPCO 2017
