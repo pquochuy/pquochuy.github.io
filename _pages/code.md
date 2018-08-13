@@ -1,0 +1,14 @@
+---
+#layout: archive
+title: "Source Code"
+permalink: /code/
+author_profile: true
+---
+
+Source code of some of my works are available:
+------
+* [Random Regression Forests](https://github.com/pquochuy/regression_forest) for audio event detection
+* [1-Max Pooling CNN](https://github.com/pquochuy/regression_forest) for audio event recognition
+* [Label Tree Embedding](https://github.com/pquochuy/Label-Tree-Embedding) for acoustic scene classification
+* [CNN-LTE](https://github.com/pquochuy/CNN-RNN-LTE) (1-max pooling CNN with Label Tree Embedding) for acoustic scene classification
+* [RNN-LTE](https://github.com/pquochuy/CNN-RNN-LTE) (Deep RNN with Label Tree Embedding) for acoustic scene classification
