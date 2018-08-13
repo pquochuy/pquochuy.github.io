@@ -40,17 +40,17 @@ Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, and Alfred Mertins. _
 
 Ian McLoughlin, Haomin Zhang, Zhipeng Xie, Yan Song, Wei Xiao, and **Huy Phan**. ___Continuous Robust Sound Event Classification Using Time-Frequency Features and Deep Learning___. *PLoS ONE*: 12(9), Article ID e0182309, 2017 [[PDF]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182309)
 
-**Huy Phan**, Lars Hertel, Marco Maass, Philipp Koch, Radoslaw Mazur, and Alfred Mertins. ___Improved Audio Scene Classification based on Label-Tree Embeddings and Convolutional Neural Networks___. *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*: 25(6), pp. 1278-1290, 2017 [[PDF]](http://ieeexplore.ieee.org/document/7933052/)
+**Huy Phan**, Lars Hertel, Marco Maass, Philipp Koch, Radoslaw Mazur, and Alfred Mertins. ___Improved Audio Scene Classification based on Label-Tree Embeddings and Convolutional Neural Networks___. *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*: 25(6), pp. 1278-1290, 2017 [[PDF]](http://ieeexplore.ieee.org/document/7933052/) [[CODE]](https://github.com/pquochuy/CNN-RNN-LTE)
 
 Marco Maass, Mandy Ahlborg, Anna Bakenecker, Fabrice Katzberg, **Huy Phan**, Thorsten M. Buzug, and Alfred Mertins. ___A Trajectory Study for Obtaining MPI System Matrices in a Compressed-Sensing Framework___. *International Journal on Magnetic Particle Imaging (IJMPI)*: 3(2), Article ID 1706005, 2017 [[PDF]](https://journal.iwmpi.org/index.php/iwmpi/article/view/85/117)
 
 **Huy Phan**, Philipp Koch, Fabrice Katzberg, Marco Maass, Radoslaw Mazur, Ian McLoughlin, and Alfred Mertins. ___What Makes Audio Event Detection Harder than Classification?___ In *Proceedings of 25th European Signal Processing Conference (EUSIPCO)*, pp. 2739-2743, 2017 [[PDF]](https://arxiv.org/pdf/1612.09089)
 
-**Huy Phan**, Philipp Koch, Fabrice Katzberg, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Audio Scene Classification with Deep Recurrent Neural Networks___. In *Proceedings of 18th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3043-3047, 2017 [[PDF]](https://arxiv.org/pdf/1703.04770)
+**Huy Phan**, Philipp Koch, Fabrice Katzberg, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Audio Scene Classification with Deep Recurrent Neural Networks___. In *Proceedings of 18th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3043-3047, 2017 [[PDF]](https://arxiv.org/pdf/1703.04770) [[CODE]](https://github.com/pquochuy/CNN-RNN-LTE)
 
 Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, and Alfred Mertins. ___Early Prediction of Future Hand Movements Using sEMG Data___. In *Proceedings of 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 54-57, 2017 [[PDF]](http://www.isip.uni-luebeck.de/fileadmin/files/publications/koch2017a.pdf)
 
-**Huy Phan**, Philipp Koch, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___CNN-LTE: A Class of 1-X Pooling Convolutional Neural Networks on Label Tree Embeddings for Audio Scene Classification___. In *Proceedings of 42nd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 136-140, 2017 [[PDF]](http://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2017a.pdf)
+**Huy Phan**, Philipp Koch, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___CNN-LTE: A Class of 1-X Pooling Convolutional Neural Networks on Label Tree Embeddings for Audio Scene Classification___. In *Proceedings of 42nd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 136-140, 2017 [[PDF]](http://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2017a.pdf) [[CODE]](https://github.com/pquochuy/CNN-RNN-LTE)
 
 Radowslaw Mazur, Fabrice Katzberg, **Huy Phan**, and Alfred Mertins. ___Room Equalization Based on Measurements of Moving Microphones___. In *Proceedings of 5th Joint Workshop on Hands-free Speech Communication and Microphone Arrays (HSCMA)*, pp. 121-125, 2017
 
@@ -64,7 +64,7 @@ Radowslaw Mazur, Fabrice Katzberg, **Huy Phan**, and Alfred Mertins. ___Room Equ
 
 Marco Maass, Klaas Bente, Mandy Ahlborg, Hanne Medimagh, **Huy Phan**, Thorsten M. Buzug, and Alfred Mertins. ___Optimized Compression of MPI System Matrices Using a Symmetry-Preserving Secondary Orthogonal Transform___. *International Journal on Magnetic Particle Imaging (IJMPI)*: 2(1), Article ID 1607002, 2016 [[PDF]](https://journal.iwmpi.org/index.php/iwmpi/article/download/30/22)
 
-**Huy Phan**, Lars Hertel, Marco Maass, Philipp Koch, and Alfred Mertins. ___Label Tree Embeddings for Acoustic Scene Classification___. In *Proceedings of 24th ACM Multimedia (ACMMM)*, pp. 486-490, 2016 [[PDF]](http://arxiv.org/abs/1606.07908)
+**Huy Phan**, Lars Hertel, Marco Maass, Philipp Koch, and Alfred Mertins. ___Label Tree Embeddings for Acoustic Scene Classification___. In *Proceedings of 24th ACM Multimedia (ACMMM)*, pp. 486-490, 2016 [[PDF]](http://arxiv.org/abs/1606.07908) [[CODE]](https://github.com/pquochuy/Label-Tree-Embedding)
 
 **Huy Phan**, Lars Hertel, Marco Maass, and Alfred Mertins. ___Robust Audio Event Recognition with 1-Max Pooling Convolutional Neural Networks___. In *Proceedings of 17th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3653-3657, 2016 [[PDF]](http://arxiv.org/pdf/1604.06338v2.pdf) [[CODE]](https://github.com/pquochuy/1MaxCNN)
 
