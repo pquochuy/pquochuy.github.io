@@ -66,7 +66,7 @@ Marco Maass, Klaas Bente, Mandy Ahlborg, Hanne Medimagh, **Huy Phan**, Thorsten 
 
 **Huy Phan**, Lars Hertel, Marco Maass, Philipp Koch, and Alfred Mertins. ___Label Tree Embeddings for Acoustic Scene Classification___. In *Proceedings of 24th ACM Multimedia (ACMMM)*, pp. 486-490, 2016 [[PDF]](http://arxiv.org/abs/1606.07908)
 
-**Huy Phan**, Lars Hertel, Marco Maass, and Alfred Mertins. ___Audio Event Recognition with 1-Max Pooling Convolutional Neural Networks___. In *Proceedings of 17th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3653-3657, 2016 [[PDF]](http://arxiv.org/pdf/1604.06338v2.pdf)
+**Huy Phan**, Lars Hertel, Marco Maass, and Alfred Mertins. ___Robust Audio Event Recognition with 1-Max Pooling Convolutional Neural Networks___. In *Proceedings of 17th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3653-3657, 2016 [[PDF]](http://arxiv.org/pdf/1604.06338v2.pdf)
 
 Lars Hertel, **Huy Phan**, and Alfred Mertins. ___Comparing Time and Frequency Domain for Audio Event Recognition Using Deep Learning___. In *Proceedings of IEEE International Joint Conference on Neural Networks (IJCNN)*, pp. 3407-3411, 2016 [[PDF]](http://arxiv.org/pdf/1603.05824v1.pdf)
 
