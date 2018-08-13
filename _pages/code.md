@@ -5,8 +5,8 @@ permalink: /code/
 author_profile: true
 ---
 
-Source code of some of my works are available:
-------
+Source code of some of my works can be found below
+
 * [Random Regression Forests](https://github.com/pquochuy/regression_forest) for audio event detection
 * [1-Max Pooling CNN](https://github.com/pquochuy/regression_forest) for audio event recognition
 * [Label Tree Embedding](https://github.com/pquochuy/Label-Tree-Embedding) for acoustic scene classification
