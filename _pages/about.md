@@ -15,6 +15,9 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 
 News
 ---
+* **31 August 2018:** Awarded the Bernd Fisher award, University of Lübeck, for best PhD thesis
+* **31 August 2018:** MultitaskSleepNet source code for automatic sleep staging available
+* **31 August 2018:** New preprint version of our [recent work](http://arxiv.org/abs/1805.06546) on automatic sleep staging available
 * **16 May 2018:** Preprint of our [recent work](http://arxiv.org/abs/1805.06546) on automatic sleep staging available in arXiv
 * **04 May 2018:** My PhD thesis approved for "summa cum laude"
 * **03 May 2018:** I will serve as a session co-chair at EMBC 2018
