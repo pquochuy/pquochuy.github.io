@@ -18,10 +18,10 @@ News
 * **31 August 2018:** Awarded the Bernd Fisher award, University of Lübeck, for best PhD thesis
 * **31 August 2018:** MultitaskSleepNet source code for automatic sleep staging available
 * **31 August 2018:** New preprint version of our [recent work](http://arxiv.org/abs/1805.06546) on automatic sleep staging available
-* **16 May 2018:** Preprint of our [recent work](http://arxiv.org/abs/1805.06546) on automatic sleep staging available in arXiv
-* **04 May 2018:** My PhD thesis approved for "summa cum laude"
-* **03 May 2018:** I will serve as a session co-chair at EMBC 2018
-* **08 April 2018:** Four papers accepted for EMBC 2018
+* 16 May 2018: Preprint of our [recent work](http://arxiv.org/abs/1805.06546) on automatic sleep staging available in arXiv
+* 04 May 2018: My PhD thesis approved for "summa cum laude"
+* 03 May 2018: I will serve as a session co-chair at EMBC 2018
+* 08 April 2018: Four papers accepted for EMBC 2018
 * 31 Jan 2018: Giving a talk on "Temporal Structure Modelling for Audio Event Detection" at Univesity of Kent (Medway)
 * 29 Jan 2018: Two papers accepted for ICASSP 2018
 * 16 Oct 2017: Joining the University of Oxford as a postdoctoral researcher
