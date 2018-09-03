@@ -5,6 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Huy Phan"
@@ -48,13 +52,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
-plugins:
-  - jekyll-seo-tag
 
 # Social Sharing
 twitter:
