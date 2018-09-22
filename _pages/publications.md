@@ -15,9 +15,9 @@ author_profile: true
 **Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification___. *IEEE Transactions on Biomedical Engineering*, 2018
 [[PDF]](https://arxiv.org/pdf/1805.06546)[[CODE]](https://github.com/pquochuy/MultitaskSleepNet) <span style="color:red">*(accepted)*</span>
 
-Ian McLoughlin, Yan Song, Lam Pham, Ramaswany Palaniappan, **Huy Phan**, Yue Lang. ___Early Detection of Continuous and Partial Audio Events Using CNN___. In *Proceedings of 19th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2018 <span style="color:red">*(accepted)*</span>
+Ian McLoughlin, Yan Song, Lam Pham, Ramaswany Palaniappan, **Huy Phan**, Yue Lang. ___Early Detection of Continuous and Partial Audio Events Using CNN___. In *Proceedings of 19th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3314-3318, 2018
 
-Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, Radoslaw Mazur, and Alfred Mertins. ___Recurrent Neural Networks with Weighting Loss for Early Prediction of Hand Movements___. In *Proceedings of 26th European Signal Processing Conference (EUSIPCO)*, 2018 <span style="color:red">*(accepted)*</span>
+Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, Radoslaw Mazur, and Alfred Mertins. ___Recurrent Neural Networks with Weighting Loss for Early Prediction of Hand Movements___. In *Proceedings of 26th European Signal Processing Conference (EUSIPCO)*, 2018
 
 Fernando Andreotti, **Huy Phan**, Maarten De Vos. ___Visualising Convolutional Neural Network Decisions in Automatic Sleep Scoring___. In *Proceedings of Joint Workshop on Artificial Intelligence in Health (AIH)*, 2018 [[PDF]](http://ceur-ws.org/Vol-2142/paper5.pdf)
 
@@ -29,9 +29,9 @@ Fernando Andreotti, **Huy Phan**, Navin Cooray, Christine Lo, Michele T.M. Hu, a
 
 Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, and Alfred Mertins. ___Recurrent Neural Network Based Early Prediction of Future Hand Movements___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018
 
-**Huy Phan**, Philipp Koch, Ian McLoughlin, and Alfred Mertins. ___Enabling Early Audio Event Detection with Neural Networks___. In *Proceedings of 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2018 [[PDF]](https://arxiv.org/pdf/1712.02116)
+**Huy Phan**, Philipp Koch, Ian McLoughlin, and Alfred Mertins. ___Enabling Early Audio Event Detection with Neural Networks___. In *Proceedings of 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 141-145, 2018 [[PDF]](https://arxiv.org/pdf/1712.02116)
 
-**Huy Phan**, Martin Krawczyk-Becker, Timo Gerkmann, and Alfred Mertins. ___Weighted and Multi-Task Loss for Rare Audio Event Detection___. In *Proceedings of 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2018 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2018b.pdf)
+**Huy Phan**, Martin Krawczyk-Becker, Timo Gerkmann, and Alfred Mertins. ___Weighted and Multi-Task Loss for Rare Audio Event Detection___. In *Proceedings of 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 336-340, 2018 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2018b.pdf)
 
 2017
 ------
