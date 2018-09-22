@@ -8,14 +8,13 @@ author_profile: true
   _<u>Note:</u> PDF is for personal use only. Copyrights are reserved by Publishers_
   
   You can find my Google Scholar profile [here](https://scholar.google.com/citations?hl=en&user=RegoACcAAAAJ).
-
-Preprint(s)
-------
-**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification___. *arXiv Preprint arXiv:1805.06546*, 2018
-[[PDF]](https://arxiv.org/pdf/1805.06546)[[CODE]](https://github.com/pquochuy/MultitaskSleepNet)
+  
 
 2018
 ------
+**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification___. *IEEE Transactions on Biomedical Engineering*, 2018
+[[PDF]](https://arxiv.org/pdf/1805.06546)[[CODE]](https://github.com/pquochuy/MultitaskSleepNet) <span style="color:red">*(accepted)*</span>
+
 Ian McLoughlin, Yan Song, Lam Pham, Ramaswany Palaniappan, **Huy Phan**, Yue Lang. ___Early Detection of Continuous and Partial Audio Events Using CNN___. In *Proceedings of 19th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2018 <span style="color:red">*(accepted)*</span>
 
 Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, Radoslaw Mazur, and Alfred Mertins. ___Recurrent Neural Networks with Weighting Loss for Early Prediction of Hand Movements___. In *Proceedings of 26th European Signal Processing Conference (EUSIPCO)*, 2018 <span style="color:red">*(accepted)*</span>
