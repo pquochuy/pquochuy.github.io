@@ -15,9 +15,9 @@ author_profile: true
 **Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2018
 [[PDF]](https://arxiv.org/pdf/1805.06546)[[CODE]](https://github.com/pquochuy/MultitaskSleepNet) <span style="color:red">*(accepted)*</span>
 
-Ian McLoughlin, Yan Song, Lam Pham, Ramaswany Palaniappan, **Huy Phan**, Yue Lang. ___Early Detection of Continuous and Partial Audio Events Using CNN___. In *Proceedings of 19th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3314-3318, 2018
+Ian McLoughlin, Yan Song, Lam Pham, Ramaswany Palaniappan, **Huy Phan**, Yue Lang. ___Early Detection of Continuous and Partial Audio Events Using CNN___. In *Proceedings of 19th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3314-3318, 2018 [[PDF]](https://kar.kent.ac.uk/67448/1/machine_hearing_v3.pdf.pdf)
 
-Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, Radoslaw Mazur, and Alfred Mertins. ___Recurrent Neural Networks with Weighting Loss for Early Prediction of Hand Movements___. In *Proceedings of 26th European Signal Processing Conference (EUSIPCO)*, 2018
+Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, Radoslaw Mazur, and Alfred Mertins. ___Recurrent Neural Networks with Weighting Loss for Early Prediction of Hand Movements___. In *Proceedings of 26th European Signal Processing Conference (EUSIPCO)*, 2018 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/koch2018b.pdf)
 
 Fernando Andreotti, **Huy Phan**, Maarten De Vos. ___Visualising Convolutional Neural Network Decisions in Automatic Sleep Scoring___. In *Proceedings of Joint Workshop on Artificial Intelligence in Health (AIH)*, 2018 [[PDF]](http://ceur-ws.org/Vol-2142/paper5.pdf)
 
@@ -27,7 +27,7 @@ Fernando Andreotti, **Huy Phan**, Maarten De Vos. ___Visualising Convolutional N
 
 Fernando Andreotti, **Huy Phan**, Navin Cooray, Christine Lo, Michele T.M. Hu, and Maarten De Vos. ___Multichannel Sleep Stage Classification and Transfer Learning Using Convolutional Neural Networks___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018
 
-Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, and Alfred Mertins. ___Recurrent Neural Network Based Early Prediction of Future Hand Movements___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018
+Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, and Alfred Mertins. ___Recurrent Neural Network Based Early Prediction of Future Hand Movements___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/koch2018a.pdf)
 
 **Huy Phan**, Philipp Koch, Ian McLoughlin, and Alfred Mertins. ___Enabling Early Audio Event Detection with Neural Networks___. In *Proceedings of 43rd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 141-145, 2018 [[PDF]](https://arxiv.org/pdf/1712.02116)
 
