@@ -7,6 +7,7 @@ author_profile: true
 
 Source code of some of my works can be found below
 
+* [SeqSleepNet](https://github.com/pquochuy/SeqSleepNet): End-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging 
 * [MultitaskSleepNet](https://github.com/pquochuy/MultitaskSleepNet): Joint classification and prediction CNN framework for automatic sleep stage classification 
 * [Random Regression Forests](https://github.com/pquochuy/regression_forest) for audio event detection in continuous audio streams
 * [1-Max Pooling CNN](https://github.com/pquochuy/regression_forest) for audio event recognition
