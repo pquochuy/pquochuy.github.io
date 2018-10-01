@@ -9,6 +9,10 @@ author_profile: true
   
   You can find my Google Scholar profile [here](https://scholar.google.com/citations?hl=en&user=RegoACcAAAAJ&view_op=list_works&sortby=pubdate).
   
+Preprint(s)
+------
+**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *arXiv Preprint arXiv:1809.10932*, 2018
+[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)
 
 2018
 ------
