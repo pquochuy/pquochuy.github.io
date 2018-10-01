@@ -17,7 +17,6 @@ News
 ---
 * **1 October 2018:** Our work, [SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for
   Sequence-to-Sequence Automatic Sleep Staging](https://arxiv.org/abs/1809.10932), available on arXiv. Source code will be available shortly at https://github.com/pquochuy/SeqSleepNet
-Our [preprint](http://arxiv.org/abs/1805.06546) on automatic sleep staging accepted to be published in IEEE Trans. Biomedical Engineering (TBME).
 * **22 September 2018:** Our [preprint](http://arxiv.org/abs/1805.06546) on automatic sleep staging accepted to be published in IEEE Trans. Biomedical Engineering (TBME).
 * **31 August 2018:** Awarded the Bernd Fisher award, University of Lübeck, for best PhD thesis
 * **31 August 2018:** [MultitaskSleepNet](https://github.com/pquochuy/MultitaskSleepNet) source code for automatic sleep staging available
