@@ -3,6 +3,7 @@
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
 _"Develop a passion for learning. If you do, you will never cease to grow."_ - Anthony J. D'Angelo
