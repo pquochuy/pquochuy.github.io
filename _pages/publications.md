@@ -3,6 +3,7 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
   _<u>Note:</u> PDF is for personal use only. Copyrights are reserved by Publishers_
