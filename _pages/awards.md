@@ -3,6 +3,7 @@
 title: "Awards"
 permalink: /awards/
 author_profile: true
+google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
 * Bernd Fischer Award for best PhD thesis, University of Lübeck, 2018
