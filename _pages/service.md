@@ -3,6 +3,7 @@
 title: "Service"
 permalink: /service/
 author_profile: true
+google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
 Journal Review
