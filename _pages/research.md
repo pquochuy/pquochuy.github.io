@@ -3,6 +3,7 @@
 title: "Research"
 permalink: /research/
 author_profile: true
+google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 _“We do not have knowledge of a thing until we have grasped its why”_ - Aristotle
 
