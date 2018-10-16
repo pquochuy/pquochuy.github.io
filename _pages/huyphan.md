@@ -4,6 +4,7 @@ title: "Huy Phan"
 excerpt: "Huy Phan"
 author_profile: true
 redirect_from: /huyphan/
+google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
 <br/>
