@@ -18,7 +18,7 @@ Preprint(s)
 2018
 ------
 **Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2018
-[[PDF]](https://arxiv.org/pdf/1805.06546)[[CODE]](https://github.com/pquochuy/MultitaskSleepNet) <span style="color:red">*(accepted)*</span>
+[[PDF]](https://arxiv.org/pdf/1805.06546)[[CODE]](https://github.com/pquochuy/MultitaskSleepNet) <span style="color:red">*(in press)*</span>
 
 Ian McLoughlin, Yan Song, Lam Pham, Ramaswany Palaniappan, **Huy Phan**, Yue Lang. ___Early Detection of Continuous and Partial Audio Events Using CNN___. In *Proceedings of 19th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3314-3318, 2018 [[PDF]](https://kar.kent.ac.uk/67448/1/machine_hearing_v3.pdf.pdf)
 
