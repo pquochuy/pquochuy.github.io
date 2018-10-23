@@ -74,7 +74,7 @@ Marco Maass, Klaas Bente, Mandy Ahlborg, Hanne Medimagh, **Huy Phan**, Thorsten 
 
 Lars Hertel, **Huy Phan**, and Alfred Mertins. ___Comparing Time and Frequency Domain for Audio Event Recognition Using Deep Learning___. In *Proceedings of IEEE International Joint Conference on Neural Networks (IJCNN)*, pp. 3407-3411, 2016 [[PDF]](http://arxiv.org/pdf/1603.05824v1.pdf)
 
-**Huy Phan**, Marco Maass, Lars Hertel, Radoslaw Mazur, Ian McLoughlin, and Alfred Mertins. ___Learning Compact Structural Representations for Audio Events Using Regressor Banks___. In *Proceedings of 41st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 211-215, 2016 [[PDF]](http://arxiv.org/pdf/1604.08716v1.pdf)  <span style="color:red">*(Awarded SPS Travel Grant)*</span>
+**Huy Phan**, Marco Maass, Lars Hertel, Radoslaw Mazur, Ian McLoughlin, and Alfred Mertins. ___Learning Compact Structural Representations for Audio Events Using Regressor Banks___. In *Proceedings of 41st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 211-215, 2016 [[PDF]](http://arxiv.org/pdf/1604.08716v1.pdf)  <span style="color:red">*(SPS Travel Grant)*</span>
 
 Marco Maass, Klaas Bente, Mandy Ahlborg, Hanne Medimagh, **Huy Phan**, Thorsten M. Buzug, and Alfred Mertins. ___Compression of FFP System Matrix with a Special Sampling Rate on the Lissajous Trajectory___. In *Proceedings of 6th International Workshop on Magnetic Particle Imaging (IWMPI)*, 2016
 
@@ -92,7 +92,7 @@ Marco Maass, **Huy Phan**, Anita Möller, and Alfred Mertins. ___Cosine-Sine Mod
 
 **Huy Phan**, Marco Maass, Lars Hertel, Radoslaw Mazur, and Alfred Mertins. ___A Multi-Channel Fusion Framework for Audio Event Detection___. In *Proceedings of IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, pp. 1-5, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015e.pdf)
 
-**Huy Phan**, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Representing Nonspeech Audio Signals through Speech Classification Models___. In **Proceedings of 16th Annual Conference of the International Speech Communication Association (INTERSPEECH)**, pp. 3441-3445, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015d.pdf)  <span style="color:red">*(Best Student Paper Award Finalist)*</span> <span style="color:red">*(Awarded ISCA Travel Grant)*</span>
+**Huy Phan**, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Representing Nonspeech Audio Signals through Speech Classification Models___. In **Proceedings of 16th Annual Conference of the International Speech Communication Association (INTERSPEECH)**, pp. 3441-3445, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015d.pdf)  <span style="color:red">*(Best Student Paper Award Finalist)*</span> <span style="color:red">*(ISCA Travel Grant)*</span>
 
 **Huy Phan**, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Audio Phrases for Audio Event Recognition___. In *Proceedings of 23rd European Signal Processing Conference (EUSIPCO)*, pp. 2546-2550, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015c.pdf)
 
@@ -102,7 +102,7 @@ Radoslaw Mazur, **Huy Phan**, and Alfred Mertins. ___A Clustering Approach for S
 
 2014
 ------
-**Huy Phan**, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Acoustic Event Detection and Localization with Regression Forests___. In *Proceedings of 15th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 2524-2528, 2014 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2014c.pdf) [[DEMO]](https://www.youtube.com/watch?v=3tlB7IykrRw)  <span style="color:red">*(Awarded ISCA Travel Grant)*</span>
+**Huy Phan**, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Acoustic Event Detection and Localization with Regression Forests___. In *Proceedings of 15th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 2524-2528, 2014 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2014c.pdf) [[DEMO]](https://www.youtube.com/watch?v=3tlB7IykrRw)  <span style="color:red">*(ISCA Travel Grant)*</span>
 
 **Huy Phan** and Alfred Mertins. ___Exploring Superframe Co-occurrence for Acoustic Event Recognition___. In *Proceedings of 22nd European Signal Processing Conference (EUSIPCO)*, pp. 631-635, 2014 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2014b.pdf)
 
