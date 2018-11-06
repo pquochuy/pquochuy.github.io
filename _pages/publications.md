@@ -12,9 +12,9 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
   
 Preprint(s)
 ------
-**Huy Phan**, Oliver Y. Chén, Philipp Koch, Lam Pham, Ian McLoughlin, Alfred Mertins, and Maarten De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *arXiv Preprint*, 2018 [PDF]
+**Huy Phan**, Oliver Y. Chén, Philipp Koch, Lam Pham, Ian McLoughlin, Alfred Mertins, and Maarten De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *arXiv Preprint arXiv:1811.01092*, 2018 [[PDF]](https://arxiv.org/pdf/1811.01092)
 
-**Huy Phan**, Oliver Y. Chén, Philipp Koch, Lam Pham, Ian McLoughlin, Alfred Mertins, and Maarten De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *arXiv Preprint*, 2018 [PDF]
+**Huy Phan**, Oliver Y. Chén, Philipp Koch, Lam Pham, Ian McLoughlin, Alfred Mertins, and Maarten De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *arXiv Preprint arXiv:1811.01095*, 2018 [[PDF]](https://arxiv.org/pdf/1811.01095)
 
 **Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *arXiv Preprint arXiv:1809.10932*, 2018
 [[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)
