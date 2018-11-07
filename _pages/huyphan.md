@@ -19,6 +19,8 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 
 News
 ---
+* **6 November 2018:** New preprint, [Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks](https://arxiv.org/pdf/1811.01092), available on arXiv.
+* **6 November 2018:** New preprint, [Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?](https://arxiv.org/pdf/1811.01095), available on arXiv.
 * **1 October 2018:** Our work, [SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for
   Sequence-to-Sequence Automatic Sleep Staging](https://arxiv.org/abs/1809.10932), available on arXiv. Source code will be available shortly [here](https://github.com/pquochuy/SeqSleepNet)
 * **22 September 2018:** Our [preprint](http://arxiv.org/abs/1805.06546) on automatic sleep staging accepted to be published in IEEE Trans. Biomedical Engineering (TBME).
