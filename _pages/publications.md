@@ -96,7 +96,7 @@ Marco Maass, **Huy Phan**, Anita Möller, and Alfred Mertins. ___Cosine-Sine Mod
 
 **Huy Phan**, Marco Maass, Lars Hertel, Radoslaw Mazur, and Alfred Mertins. ___A Multi-Channel Fusion Framework for Audio Event Detection___. In *Proceedings of IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, pp. 1-5, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015e.pdf)
 
-**Huy Phan**, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Representing Nonspeech Audio Signals through Speech Classification Models___. In **Proceedings of 16th Annual Conference of the International Speech Communication Association (INTERSPEECH)**, pp. 3441-3445, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015d.pdf)<br/><span style="color:red">*(Best Student Paper Award Finalist)*</span> <span style="color:red">*(ISCA Travel Grant)*</span>
+**Huy Phan**, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Representing Nonspeech Audio Signals through Speech Classification Models___. In *Proceedings of 16th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, pp. 3441-3445, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015d.pdf)<br/><span style="color:red">*(Best Student Paper Award Finalist)*</span> <span style="color:red">*(ISCA Travel Grant)*</span>
 
 **Huy Phan**, Lars Hertel, Marco Maass, Radoslaw Mazur, and Alfred Mertins. ___Audio Phrases for Audio Event Recognition___. In *Proceedings of 23rd European Signal Processing Conference (EUSIPCO)*, pp. 2546-2550, 2015 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2015c.pdf)
 
