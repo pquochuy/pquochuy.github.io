@@ -19,6 +19,7 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 
 News
 ---
+* **14 November 2018:** News about the University of Lübeck's Awards 2018 online [here](https://www.uni-luebeck.de/aktuelles/nachricht/artikel/die-preise-der-universitaet-2018.html).
 * **6 November 2018:** New preprint on [Unifying Isolated and Overlapping Audio Event Detection](https://arxiv.org/pdf/1811.01092) available on arXiv.
 * **6 November 2018:** New preprint, [Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?](https://arxiv.org/pdf/1811.01095), available on arXiv.
 * **1 October 2018:** Our work, [SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for
