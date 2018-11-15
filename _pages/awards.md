@@ -6,7 +6,7 @@ author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
-* Bernd Fischer Award for best PhD thesis, University of Lübeck, 2018
+* [Bernd Fischer Award](https://www.uni-luebeck.de/aktuelles/nachricht/artikel/die-preise-der-universitaet-2018.html) for best PhD thesis, University of Lübeck, 2018
 * Signal Processing Society (SPS) Travel Grant, ICASSP 2016
 * Best Student Paper Award Finalist, Interspeech 2015
 * International Speech Communication Association (ISCA) travel grant for Interspeech 2015
