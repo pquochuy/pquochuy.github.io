@@ -12,6 +12,7 @@ My current research activities involve in the following topics:
 * Deep learning/machine learning for temporal signal analysis
 * Audio event detection/classification
 * Audio scene classification
+* Speech analysis
 * Automatic sleep staging
 * sEMG-based hand movement recognition/prediction
 * Voice analysis for mental health monitoring
