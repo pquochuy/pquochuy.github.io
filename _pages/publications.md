@@ -44,7 +44,7 @@ Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, and Alfred Mertins. _
 
 2017
 ------
-**Quoc Huy Phan**. ___Audio Event Detection, Classification, and Beyond___. *Ph.D. Thesis, University of Lübeck*, August 2017<br/><span style="color:red">*(summa cum laude)*</span> <span style="color:red">*(Bernd Fischer award)*</span> 
+**Quoc Huy Phan**. ___Audio Event Detection, Classification, and Beyond___. *Ph.D. Thesis, University of Lübeck*, August 2017 [[PDF]](https://www.zhb.uni-luebeck.de/epubs/ediss2016.pdf)<br/><span style="color:red">*(summa cum laude)*</span> <span style="color:red">*(Bernd Fischer award)*</span> 
 
 Ian McLoughlin, Haomin Zhang, Zhipeng Xie, Yan Song, Wei Xiao, and **Huy Phan**. ___Continuous Robust Sound Event Classification Using Time-Frequency Features and Deep Learning___. *PLoS ONE*: 12(9), Article ID e0182309, 2017 [[PDF]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182309)
 
