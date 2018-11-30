@@ -30,11 +30,11 @@ Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, Radoslaw Mazur, and A
 
 Fernando Andreotti, **Huy Phan**, Maarten De Vos. ___Visualising Convolutional Neural Network Decisions in Automatic Sleep Scoring___. In *Proceedings of Joint Workshop on Artificial Intelligence in Health (AIH)*, 2018 [[PDF]](http://ceur-ws.org/Vol-2142/paper5.pdf)
 
-**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018
+**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 1452-1455, 2018 [[PDF]](https://ieeexplore.ieee.org/document/8512480/)
 
-**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___DNN Filter Bank Improves 1-Max Pooling CNN for Single-Channel EEG Automatic Sleep Stage Classification___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018
+**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___DNN Filter Bank Improves 1-Max Pooling CNN for Single-Channel EEG Automatic Sleep Stage Classification___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 453-456, 2018 [[PDF]](https://ieeexplore.ieee.org/document/8512480)
 
-Fernando Andreotti, **Huy Phan**, Navin Cooray, Christine Lo, Michele T.M. Hu, and Maarten De Vos. ___Multichannel Sleep Stage Classification and Transfer Learning Using Convolutional Neural Networks___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018
+Fernando Andreotti, **Huy Phan**, Navin Cooray, Christine Lo, Michele T.M. Hu, and Maarten De Vos. ___Multichannel Sleep Stage Classification and Transfer Learning Using Convolutional Neural Networks___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 171-174, 2018 [[PDF]](https://ieeexplore.ieee.org/document/8512214/)
 
 Philipp Koch, **Huy Phan**, Marco Maass, Fabrice Katzberg, and Alfred Mertins. ___Recurrent Neural Network Based Early Prediction of Future Hand Movements___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2018 [[PDF]](https://www.isip.uni-luebeck.de/fileadmin/files/koch2018a.pdf)
 
