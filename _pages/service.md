@@ -15,11 +15,13 @@ Journal Review
 * EURASIP Journal on Audio, Speech, and Music Processing (JASM)
 * Elservier Digital Signal Processing (DSP)
 * MDPI Sensors
+* MDPI Applied Sciences
 * Acta Acustica united with Acustica (AAA)
 * International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI)
 
 Conference Review
 ------
+* ICASSP 2019
 * DCASE 2018
 * INTERSPEECH 2018
 * AH 2018
