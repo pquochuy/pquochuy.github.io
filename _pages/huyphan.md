@@ -8,9 +8,12 @@ google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
 <br/>
-__Welcome!__ I am a postdoctoral researcher at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/) (UK), working with [Prof. Maarten De Vos](https://cibim.eng.ox.ac.uk/). 
+I am a Lecturer (roughly equivalent to Assistant Professor) in the [School of Computing](https://www.cs.kent.ac.uk/) at [University of Kent](https://www.kent.ac.uk/). Before, I was 
+a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/) (UK), working with [Prof. Maarten De Vos](https://cibim.eng.ox.ac.uk/). I obtained my Ph.D. (Dr.-Ing. in German system) with summa cum laude in the [Institute for Signal Processing](https://www.isip.uni-luebeck.de/), [University of Lübeck](https://www.uni-luebeck.de/) (Germany) under the supervision of [Prof. Alfred Mertins](https://www.isip.uni-luebeck.de/people/alfred-mertins.html). I received University of Lübeck’s Doctoral Scholarship for my PhD studies and [the Bernd Fischer award] (https://www.uni-luebeck.de/en/graduation/graduate-service/doctoral-awards/professor-bernd-fischer-preis-mint.html) for my Ph.D. thesis. In 2012, I received my M.Eng. (by research) in Computer Engineering from the [School of Computer Engineering](http://scse.ntu.edu.sg/), [Nanyang Technological University](http://ntu.edu.sg/) (Singapore) and my B.Sc. in Computer Science from the [University of Science at Ho Chi Minh City](http://web.hcmus.edu.vn/en/) (Vietnam).
+
 <!---I defended my Ph.D. (Dr.-Ing. in German system) thesis at the [Institute for Signal Processing](https://www.isip.uni-luebeck.de/), [University of Lübeck](https://www.uni-luebeck.de/) (Germany), working with [Prof. Alfred Mertins](https://www.isip.uni-luebeck.de/people/alfred-mertins.html). The thesis was awarded the grade "summa cum laude" and the [Bernd Fischer award](https://www.uni-luebeck.de/en/graduation/graduate-service/doctoral-awards/professor-bernd-fischer-preis-mint.html) for the best PhD thesis. I received my M.Eng. (by research) in Computer Engineering from the [School of Computer Engineering](http://scse.ntu.edu.sg/), [Nanyang Technological University](http://ntu.edu.sg/) (Singapore) and my B.Sc. in Computer Science from the [University of Science at Ho Chi Minh City](http://web.hcmus.edu.vn/en/) (Vietnam).-->
-I investigate topics in the fields of machine learning/deep learning and signal processing for temporal signal analysis. I am particularly interested in speech analysis, audio event detection, acoustic scene recognition, and biosignal analysis for sleep studies.
+
+I investigate topics in the fields of machine learning/deep learning and signal processing. I am particularly interested in speech analysis, environmental sound analysis, and biosignal analysis, and healthcare.
 <!---
 My research interests include machine learning and signal processing with applications in environmental sound analysis and healthcare.
 -->
@@ -19,6 +22,7 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 
 News
 ---
+* **January 2019:** Joined the School of Computing, University of Kent as a Lecturer
 * **14 November 2018:** Received the Bernd Fischer award. News about the University of Lübeck's 2018 Awards online [here](https://www.uni-luebeck.de/aktuelles/nachricht/artikel/die-preise-der-universitaet-2018.html) and [here](http://www.ln-online.de/Lokales/Luebeck/Luebecker-Universitaet-vergibt-Wissenschaftspreis-an-Nachwuchsforscher)
 * **6 November 2018:** New preprint on [Unifying Isolated and Overlapping Audio Event Detection](https://arxiv.org/pdf/1811.01092) available on arXiv.
 * **6 November 2018:** New preprint, [Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?](https://arxiv.org/pdf/1811.01095), available on arXiv.
