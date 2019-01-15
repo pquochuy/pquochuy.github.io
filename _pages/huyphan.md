@@ -14,7 +14,7 @@ a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the
 -->
 <br/>
 <br/>
-I investigate topics in the fields of machine learning/deep learning and signal processing. I am particularly interested in speech analysis, environmental sound analysis, and biosignal analysis, and healthcare.
+I investigate topics in the fields of machine learning/deep learning and signal processing. I am particularly interested in speech analysis, environmental sound analysis, and biosignal analysis, and healthcare applications.
 <!---
 My research interests include machine learning and signal processing with applications in environmental sound analysis and healthcare.
 -->
