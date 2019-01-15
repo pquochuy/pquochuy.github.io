@@ -13,10 +13,12 @@ a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the
 <!---I defended my Ph.D. (Dr.-Ing. in German system) thesis at the [Institute for Signal Processing](https://www.isip.uni-luebeck.de/), [University of Lübeck](https://www.uni-luebeck.de/) (Germany), working with [Prof. Alfred Mertins](https://www.isip.uni-luebeck.de/people/alfred-mertins.html). The thesis was awarded the grade "summa cum laude" and the [Bernd Fischer award](https://www.uni-luebeck.de/en/graduation/graduate-service/doctoral-awards/professor-bernd-fischer-preis-mint.html) for the best PhD thesis. I received my M.Eng. (by research) in Computer Engineering from the [School of Computer Engineering](http://scse.ntu.edu.sg/), [Nanyang Technological University](http://ntu.edu.sg/) (Singapore) and my B.Sc. in Computer Science from the [University of Science at Ho Chi Minh City](http://web.hcmus.edu.vn/en/) (Vietnam).
 -->
 <br/>
+<br/>
 I investigate topics in the fields of machine learning/deep learning and signal processing. I am particularly interested in speech analysis, environmental sound analysis, and biosignal analysis, and healthcare.
 <!---
 My research interests include machine learning and signal processing with applications in environmental sound analysis and healthcare.
 -->
+<br/>
 <br/>
 My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?dl=1).
 
