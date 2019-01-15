@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Huy Phan"
 title_separator          : "-"
 name                     : &name "Huy Phan"
-description              : &description "Huy Phan"
+description              : &description "Personal Website"
 url                      : https://pquochuy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pquochuy/pquochuy.github.io"
@@ -85,7 +85,7 @@ author:
   name             : "Huy Phan"
   avatar           : "DSC_0196_crop.jpg"
   bio              : "Machine learning, signal processing, environmental sound analysis, biosignal analysis"
-  location         : "Oxford, United Kingdom"
+  location         : "Kent, United Kingdom"
   employer         :
   googlescholar    : "http://scholar.google.com/citations?hl=en&user=RegoACcAAAAJ"
   email            :
