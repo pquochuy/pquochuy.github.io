@@ -16,9 +16,12 @@ Preprint(s)
 
 **Huy Phan**, Oliver Y. Chén, Philipp Koch, Lam Pham, Ian McLoughlin, Alfred Mertins, and Maarten De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *arXiv Preprint arXiv:1811.01095*, 2018 [[PDF]](https://arxiv.org/pdf/1811.01095)
 
-**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *arXiv Preprint arXiv:1809.10932*, 2018
+
+2019
+------
+**Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*, 2019
 [[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)
-<br/><span style="color:red">*(under minor revision for TNSRE)*</span>
+<br/><span style="color:red">*(accepted)*</span>
 
 2018
 ------
