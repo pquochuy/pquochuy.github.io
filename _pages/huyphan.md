@@ -25,6 +25,7 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 
 News
 ---
+* **28 January 2019:** Our work [SeqSleepNet](https://arxiv.org/abs/1809.10932) accepted to be published in IEEE Trans. Neural Systems and Rehabilitation Engineering (TNSRE). Source code available [here](https://github.com/pquochuy/SeqSleepNet)
 * **January 2019:** I am now a Lecturer in the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK)
 * **14 November 2018:** Received the Bernd Fischer award. News about the University of Lübeck's 2018 Awards online [here](https://www.uni-luebeck.de/aktuelles/nachricht/artikel/die-preise-der-universitaet-2018.html) and [here](http://www.ln-online.de/Lokales/Luebeck/Luebecker-Universitaet-vergibt-Wissenschaftspreis-an-Nachwuchsforscher)
 * **6 November 2018:** New preprint on [Unifying Isolated and Overlapping Audio Event Detection](https://arxiv.org/pdf/1811.01092) available on arXiv.
