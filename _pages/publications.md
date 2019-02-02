@@ -20,7 +20,7 @@ Preprint(s)
 ------
 **Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*, 2019
 [[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)
-<br/><span style="color:red">*(accepted)*</span>
+<br/><span style="color:red">*(in press)*</span>
 
 **Huy Phan**, Oliver Y. Chén, Philipp Koch, Lam Pham, Ian McLoughlin, Alfred Mertins, and Maarten De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *Proceedings of 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01092)
 <br/><span style="color:red">*(accepted)*</span>
