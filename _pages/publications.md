@@ -18,6 +18,9 @@ Preprint(s)
 
 2019
 ------
+Oliver Y. Chén, Hengyi Cao, Jenna Reinen, Tianchen Qian, Jiangtao Gou, **Huy Phan**, Maarten De Vos, and Tyrone Cannon. ___Resting-State Brain Information Flow Predicts Cognitive Flexibility in Humans___. *Nature Scientific Reports*, 2019
+<br/><span style="color:red">*(accepted)*</span>
+
 **Huy Phan**, Fernando Andreotti, Navin Cooray, Oliver Y. Chén, and Maarten De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*, 2019
 [[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)
 <br/><span style="color:red">*(in press)*</span>
