@@ -18,8 +18,6 @@ Preprint(s)
 
 2019
 ------
-O. Y. Chén, H. Cao, J. Reinen, T. Qian, J. Gou, **H. Phan**, M. De Vos, and T. Cannon. ___Resting-State Brain Information Flow Predicts Cognitive Flexibility in Humans___. *Nature Scientific Reports*, 2019
-<br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*, 2019
 [[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)
@@ -30,6 +28,8 @@ O. Y. Chén, H. Cao, J. Reinen, T. Qian, J. Gou, **H. Phan**, M. De Vos, and T. 
 
 P. Koch, N. Brügge, **H. Phan**, M. Maass, and A. Mertins. ___Forked Recurrent Neural Network for Hand Gesture Classification Using Inertial Measurement Data___. *Proceedings of 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019
 <br/><span style="color:red">*(accepted)*</span>
+
+O. Y. Chén, H. Cao, J. Reinen, T. Qian, J. Gou, **H. Phan**, M. De Vos, and T. Cannon. ___Resting-State Brain Information Flow Predicts Cognitive Flexibility in Humans___. *Nature Scientific Reports*: 9, Article number 3879, 2019 [[PDF]](https://www.nature.com/articles/s41598-019-40345-8.pdf)
 
 2018
 ------
