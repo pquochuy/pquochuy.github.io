@@ -18,6 +18,7 @@ Journal Review
 * MDPI Applied Sciences
 * Acta Acustica united with Acustica (AAA)
 * International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI)
+* Physiological Measurement
 
 Conference Review
 ------
