@@ -12,13 +12,15 @@ Journal Review
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Signal Processing Letters (SPL)
 * IEEE Access
+* PLOS ONE
 * EURASIP Journal on Audio, Speech, and Music Processing (JASM)
 * Elservier Digital Signal Processing (DSP)
 * MDPI Sensors
 * MDPI Applied Sciences
+* Physiological Measurement
 * Acta Acustica united with Acustica (AAA)
 * International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI)
-* Physiological Measurement
+
 
 Conference Review
 ------
