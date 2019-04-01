@@ -21,7 +21,6 @@ Journal Review
 * Acta Acustica united with Acustica (AAA)
 * International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI)
 
-
 Conference Review
 ------
 * ICASSP 2019
@@ -29,6 +28,11 @@ Conference Review
 * INTERSPEECH 2018
 * AH 2018
 * EUSIPCO 2017
+
+Technical Committee 
+------
+* INTERSPEECH 2019
+* INTERSPEECH 2018
 
 Session Chair/Co-Chair
 ------
