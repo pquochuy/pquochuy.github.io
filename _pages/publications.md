@@ -18,7 +18,7 @@ Preprint(s)
 
 2019
 ------
-**H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *AES Audio Forensics Conference*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01095) <br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *2019 AES International Conference on Audio Forensics*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01095) <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *Proceedings of 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01092)
 <br/><span style="color:red">*(accepted)*</span>
