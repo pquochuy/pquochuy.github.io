@@ -25,6 +25,8 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 
 News
 ---
+* **3 April 2019:** One paper accepted for 2019 AES International Conf. Audio Forensics
+* **11 February 2019:** Work on "Resting-state brain information flow predicts cognitive flexibility in humans" accepted for  Nature Scientific Reports. Congrat~ O. Y. Chén
 * **1 February 2019:** Two papers accepted for ICASSP 2019
 * **January 2019:** I am now a Lecturer in the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK)
 * **28 January 2019:** Our work [SeqSleepNet](https://arxiv.org/abs/1809.10932) accepted to be published in IEEE Trans. Neural Systems and Rehabilitation Engineering (TNSRE). Source code available [here](https://github.com/pquochuy/SeqSleepNet)
