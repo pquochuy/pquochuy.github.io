@@ -16,16 +16,16 @@ Preprint(s)
 
 2019
 ------
-**H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging___. In *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging___. *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
 
-P. Koch, M. Dreier, M. Maass, M. Böhme, **H. Phan**, and A. Mertins. ___Recurrent Neural Network for Hand Gesture Recognition based on Accelerometer Data___. In *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
+P. Koch, M. Dreier, M. Maass, M. Böhme, **H. Phan**, and A. Mertins. ___Recurrent Neural Network for Hand Gesture Recognition based on Accelerometer Data___. *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *2019 AES Conference on Audio Forensics*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01095) <br/><span style="color:red">*(accepted)*</span>
 
-**H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *Proceedings of 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01092)
+**H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01092)
 <br/><span style="color:red">*(accepted)*</span>
 
-P. Koch, N. Brügge, **H. Phan**, M. Maass, and A. Mertins. ___Forked Recurrent Neural Network for Hand Gesture Classification Using Inertial Measurement Data___. *Proceedings of 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019
+P. Koch, N. Brügge, **H. Phan**, M. Maass, and A. Mertins. ___Forked Recurrent Neural Network for Hand Gesture Classification Using Inertial Measurement Data___. *44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019
 <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*: 27(3), pp. 400-410, 2019
