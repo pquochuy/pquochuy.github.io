@@ -12,6 +12,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
   
 Preprint(s)
 ------
+**H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch___, 2019
+
 **H. Phan**, O. Y. Chén, L. Pham, P. Koch, M. De Vos, I. McLoughlin, and A. Mertins. ___Spatio-Temporal Attention Pooling for Audio Scene Classification___. *arXiv preprint arXiv:1904.03543*, 2019 [[PDF]](https://arxiv.org/pdf/1904.03543)
 
 2019
