@@ -24,6 +24,7 @@ Journal Review
 
 Conference Review
 ------
+* INTERSPEECH 2019
 * ICASSP 2019
 * DCASE 2018
 * INTERSPEECH 2018
