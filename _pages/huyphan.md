@@ -26,7 +26,7 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 News
 ---
 * **10 April 2019:** <span style="color:#B22222">(New)</span> Two papers accepted for EMBC 2019
-* **3 April 2019:** <span style="color:#B22222">(New)</span> One paper accepted for 2019 AES Conf. Audio Forensics
+* **3 April 2019:** <span style="color:#B22222">(New)</span> Two papers accepted for 2019 AES Conf. Audio Forensics
 * **11 February 2019:** Work on "Resting-state brain information flow predicts cognitive flexibility in humans" accepted for  Nature Scientific Reports. Congrat~ O. Y. Chén
 * **1 February 2019:** Two papers accepted for ICASSP 2019
 * **January 2019:** I am now a Lecturer in the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK)
