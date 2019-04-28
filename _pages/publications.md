@@ -33,7 +33,8 @@ P. Koch, N. Brügge, **H. Phan**, M. Maass, and A. Mertins. ___Forked Recurrent 
 <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*: 27(3), pp. 400-410, 2019
-[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)
+[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)<br/><span style="color:red">*(Highlighted in the publish issue: [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672791))*</span>
+
 
 O. Y. Chén, H. Cao, J. Reinen, T. Qian, J. Gou, **H. Phan**, M. De Vos, and T. Cannon. ___Resting-State Brain Information Flow Predicts Cognitive Flexibility in Humans___. *Nature Scientific Reports*: 9, Article number 3879, 2019 [[PDF]](https://www.nature.com/articles/s41598-019-40345-8.pdf)
 
