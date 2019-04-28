@@ -26,15 +26,12 @@ P. Koch, M. Dreier, M. Maass, M. Böhme, **H. Phan**, and A. Mertins. ___Recurre
 
 L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, and Y. Lang. ___Bag-of-Features Models Based on C-DNN Network for Acoustic Scene Classification___. *2019 AES Conference on Audio Forensics*, 2019 <br/><span style="color:red">*(accepted)*</span>
 
-**H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01092)
-<br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *Proc. 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 51-55, 2019 [[PDF]](https://arxiv.org/pdf/1811.01092)
 
-P. Koch, N. Brügge, **H. Phan**, M. Maass, and A. Mertins. ___Forked Recurrent Neural Network for Hand Gesture Classification Using Inertial Measurement Data___. *44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2019
-<br/><span style="color:red">*(accepted)*</span>
+P. Koch, N. Brügge, **H. Phan**, M. Maass, and A. Mertins. ___Forked Recurrent Neural Network for Hand Gesture Classification Using Inertial Measurement Data___. *Proc. 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 2877-2881, 2019
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*: 27(3), pp. 400-410, 2019
 [[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)<br/><span style="color:red">*(Highlighted in the publish issue: [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672791))*</span>
-
 
 O. Y. Chén, H. Cao, J. Reinen, T. Qian, J. Gou, **H. Phan**, M. De Vos, and T. Cannon. ___Resting-State Brain Information Flow Predicts Cognitive Flexibility in Humans___. *Nature Scientific Reports*: 9, Article number 3879, 2019 [[PDF]](https://www.nature.com/articles/s41598-019-40345-8.pdf)
 
