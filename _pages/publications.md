@@ -48,7 +48,7 @@ F. Andreotti, **H. Phan**, M. De Vos. ___Visualising Convolutional Neural Networ
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 1452-1455, 2018 [[PDF]](https://ieeexplore.ieee.org/document/8512480/)
 
-**H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___DNN Filter Bank Improves 1-Max Pooling CNN for Single-Channel EEG Automatic Sleep Stage Classification___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 453-456, 2018 [[PDF]](https://ieeexplore.ieee.org/document/8512480)
+**H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___DNN Filter Bank Improves 1-Max Pooling CNN for Single-Channel EEG Automatic Sleep Stage Classification___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 453-456, 2018 [[PDF]](https://ieeexplore.ieee.org/document/8512286)
 
 F. Andreotti, **H. Phan**, N. Cooray, C. Lo, M. T. M. Hu, and M. De Vos. ___Multichannel Sleep Stage Classification and Transfer Learning Using Convolutional Neural Networks___. In *Proceedings of 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 171-174, 2018 [[PDF]](https://ieeexplore.ieee.org/document/8512214/)
 
