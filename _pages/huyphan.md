@@ -25,6 +25,7 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 
 News
 ---
+* **4 June 2019:** <span style="color:#B22222">(New)</span> Two papers accepted for EUSIPCO 2019
 * **10 April 2019:** <span style="color:#B22222">(New)</span> Two papers accepted for EMBC 2019
 * **3 April 2019:** <span style="color:#B22222">(New)</span> Two papers accepted for 2019 AES Conf. Audio Forensics
 * **11 February 2019:** Work on "Resting-state brain information flow predicts cognitive flexibility in humans" accepted for  Nature Scientific Reports. Congrat~ O. Y. Chén
