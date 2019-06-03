@@ -12,12 +12,15 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
   
 Preprint(s)
 ------
-**H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch___. *arXiv preprint arXiv:1904.05945*, 2019 [[PDF]](https://arxiv.org/pdf/1904.05945.pdf)
 
 **H. Phan**, O. Y. Chén, L. Pham, P. Koch, M. De Vos, I. McLoughlin, and A. Mertins. ___Spatio-Temporal Attention Pooling for Audio Scene Classification___. *arXiv preprint arXiv:1904.03543*, 2019 [[PDF]](https://arxiv.org/pdf/1904.03543)
 
 2019
 ------
+**H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch___. *27th European Signal Processing Conference (EUSIPCO)*, 2019 [[PDF]](https://arxiv.org/pdf/1904.05945.pdf) <br/><span style="color:red">*(accepted)*</span>
+
+P. Koch, M. Dreier, M. Böhme, M. Maass, **H. Phan**, and A. Mertins. ___Inhomogeneously Stacked RNN for Recognizing Hand Gestures from Magnetometer Data___. *27th European Signal Processing Conference (EUSIPCO)*, 2019 [[PDF]](https://arxiv.org/pdf/1904.05945.pdf) <br/><span style="color:red">*(accepted)*</span>
+
 **H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
 
 P. Koch, M. Dreier, M. Maass, M. Böhme, **H. Phan**, and A. Mertins. ___A Recurrent Neural Network for Hand Gesture Recognition based on Accelerometer Data___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
