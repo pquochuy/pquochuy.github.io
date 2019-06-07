@@ -10,13 +10,14 @@ _"Develop a passion for learning. If you do, you will never cease to grow."_ - A
 
 Convening
 ------
-* **Project module**<br/>*School of Computing, University of Kebt*<br/>
+* **Project module**<br/>*School of Computing, University of Kent*<br/>
+Undergraduate
 
 Teaching / Teaching Assistant
 ------
-* **Software Project**<br/>*School of Computing, University of Kebt*<br/>Lecture: Undergraduate (Spring 2019)
+* **Software Project**<br/>*School of Computing, University of Kent*<br/>Lecture: Undergraduate (Spring 2019)
 
-* **Healthcare Computing**<br/>*School of Computing, University of Kebt*<br/>Lecture: Undergraduate (Spring 2019)
+* **Healthcare Computing**<br/>*School of Computing, University of Kent*<br/>Lecture: Undergraduate (Spring 2019)
 
 * **Signal Processing**<br/>*Institute for Signal Processing, University of Lübeck*<br/>TA: Graduate course (Fall 2014, Fall 2015, Fall 2016)
 
