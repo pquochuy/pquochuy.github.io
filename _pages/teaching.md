@@ -10,7 +10,7 @@ _"Develop a passion for learning. If you do, you will never cease to grow."_ - A
 
 Convening
 ------
-* **Project module**<br/>*School of Computing, University of Kent*<br/>
+* **Project Module**<br/>*School of Computing, University of Kent*<br/>
 Undergraduate
 
 Teaching / Teaching Assistant
