@@ -15,7 +15,7 @@ My current research activities involve in the following topics:
 
 * **Brain monitoring**<br/>*Automatic sleep staging, sleep micro-event detection, mobile EEG*
 
-* **Pathological voice analysis**<br/>*Parkinson's disease, personality disorder, etc.*
+* **Pathological voice/speech/language analysis**<br/>*Parkinson's disease, personality disorder, etc.*
 
 * **Hand prosthetics**<br/>*sEMG-based low-latency hand movement recognition/prediction, low-cost alternative sensors*
 
