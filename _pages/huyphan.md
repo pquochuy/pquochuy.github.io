@@ -6,7 +6,9 @@ author_profile: true
 redirect_from: /huyphan/
 google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
+<!--- 
 <span style="color:#B22222">I am looking for students interested in doing a Ph.D. with me at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK). The research topics should focus on machine learning/deep learning for audio and/or biosignal analysis. Please get in touch in case you have any questions. Full scholarships are available for EU/UK students. Note to international students, in the UK an international student needs to pay international fee.</span>
+-->
 
 <br/>
 I am a Lecturer (roughly equivalent to Assistant Professor) in the [School of Computing](https://www.cs.kent.ac.uk/) at [University of Kent](https://www.kent.ac.uk/) (UK). Before, I was 
