@@ -23,7 +23,7 @@ My current research activities involve in the following topics:
 
 * **Digital biomarkers for mental health monitoring**<br/>
 
-<!--
+<!--- 
 * Building biomarkers for brain diseases
 * Deep learning/machine learning for temporal signal analysis
 * Machine hearing, e.g. audio event detection/classification, audio scene analysis
@@ -33,4 +33,4 @@ My current research activities involve in the following topics:
 * Voice analysis for mental health monitoring
 * Building biomarkers for brain diseases (e.g. Parkinson’s disease and psychosis)
 * mHealth
---!>
+-->
