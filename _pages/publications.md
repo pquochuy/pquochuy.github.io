@@ -16,7 +16,7 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 
 **H. Phan**, O. Y. Chén, L. Pham, P. Koch, M. De Vos, I. McLoughlin, and A. Mertins. ___Spatio-Temporal Attention Pooling for Audio Scene Classification___. *20th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2019 [[PDF]](https://arxiv.org/pdf/1904.03543) <br/><span style="color:red">*(accepted)*</span>
 
-L. Pham, I. McLoughlin, **H. Phan**, and R. Palaniappan. ___Spatio-Temporal Attention Pooling for Audio Scene Classification___. *20th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2019 <br/><span style="color:red">*(accepted)*</span>
+L. Pham, I. McLoughlin, **H. Phan**, and R. Palaniappan. ___A Robust Framework For Acoustic Scene Classification___. *20th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2019 <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch___. *27th European Signal Processing Conference (EUSIPCO)*, 2019 [[PDF]](https://arxiv.org/pdf/1904.05945.pdf) <br/><span style="color:red">*(accepted)*</span>
 
