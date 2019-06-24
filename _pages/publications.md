@@ -29,9 +29,9 @@ P. Koch, M. Dreier, M. Böhme, M. Maass, **H. Phan**, and A. Mertins. ___Inhomog
 
 P. Koch, M. Dreier, M. Maass, M. Böhme, **H. Phan**, and A. Mertins. ___A Recurrent Neural Network for Hand Gesture Recognition based on Accelerometer Data___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
 
-**H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *2019 AES Conference on Audio Forensics*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01095) <br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *2019 AES Conference on Audio Forensics*, 2019 [[PDF]](https://arxiv.org/pdf/1811.01095)
 
-L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, and Y. Lang. ___Bag-of-Features Models Based on C-DNN Network for Acoustic Scene Classification___. *2019 AES Conference on Audio Forensics*, 2019 <br/><span style="color:red">*(accepted)*</span>
+L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, and Y. Lang. ___Bag-of-Features Models Based on C-DNN Network for Acoustic Scene Classification___. *2019 AES Conference on Audio Forensics*, 2019
 
 **H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *Proc. 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 51-55, 2019 [[PDF]](https://arxiv.org/pdf/1811.01092)
 
