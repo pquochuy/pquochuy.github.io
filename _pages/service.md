@@ -11,6 +11,7 @@ Journal Review
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
 * IEEE Transactions on Multimedia (TMM)
 * IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE)
+* IEEE Journal of Biomedical and Health Informatics (JBHI)
 * IEEE Signal Processing Letters (SPL)
 * IEEE Access
 * PLOS ONE
