@@ -14,9 +14,6 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 2019
 ------
 
-I. McLoughlin, Z. Xie, Y. Song, **H. Phan**, and P. Ramaswamy. ___Time-frequency feature fusion for noise-robust audio
-event classification___. *Circuits, Systems, and Signal Processing (CSSP)*, 2019 <br/><span style="color:red">*(accepted)*</span>
-
 **H. Phan**, O. Y. Chén, L. Pham, P. Koch, M. De Vos, I. McLoughlin, and A. Mertins. ___Spatio-Temporal Attention Pooling for Audio Scene Classification___. *20th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2019 [[PDF]](https://arxiv.org/pdf/1904.03543) <br/><span style="color:red">*(accepted)*</span>
 
 L. Pham, I. McLoughlin, **H. Phan**, and R. Palaniappan. ___A Robust Framework For Acoustic Scene Classification___. *20th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2019 <br/><span style="color:red">*(accepted)*</span>
@@ -28,6 +25,9 @@ P. Koch, M. Dreier, M. Böhme, M. Maass, **H. Phan**, and A. Mertins. ___Inhomog
 **H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
 
 P. Koch, M. Dreier, M. Maass, M. Böhme, **H. Phan**, and A. Mertins. ___A Recurrent Neural Network for Hand Gesture Recognition based on Accelerometer Data___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
+
+I. McLoughlin, Z. Xie, Y. Song, **H. Phan**, and P. Ramaswamy. ___Time-frequency feature fusion for noise-robust audio
+event classification___. *Circuits, Systems, and Signal Processing (CSSP)*, 2019
 
 **H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?___ *2019 AES Conference on Audio Forensics*, no. 16, 2019 [[PDF]](https://arxiv.org/pdf/1811.01095)
 
