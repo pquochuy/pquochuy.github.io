@@ -22,9 +22,9 @@ L. Pham, I. McLoughlin, **H. Phan**, and R. Palaniappan. ___A Robust Framework F
 
 P. Koch, M. Dreier, M. Böhme, M. Maass, **H. Phan**, and A. Mertins. ___Inhomogeneously Stacked RNN for Recognizing Hand Gestures from Magnetometer Data___. *27th European Signal Processing Conference (EUSIPCO)*, 2019 [[PDF]](https://arxiv.org/pdf/1904.05945.pdf) <br/><span style="color:red">*(accepted)*</span>
 
-**H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos. ___Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019
 
-P. Koch, M. Dreier, M. Maass, M. Böhme, **H. Phan**, and A. Mertins. ___A Recurrent Neural Network for Hand Gesture Recognition based on Accelerometer Data___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019 <br/><span style="color:red">*(accepted)*</span>
+P. Koch, M. Dreier, M. Maass, M. Böhme, **H. Phan**, and A. Mertins. ___A Recurrent Neural Network for Hand Gesture Recognition based on Accelerometer Data___. *41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2019
 
 I. McLoughlin, Z. Xie, Y. Song, **H. Phan**, and P. Ramaswamy. ___Time-frequency feature fusion for noise-robust audio
 event classification___. *Circuits, Systems, and Signal Processing (CSSP)*, 2019 [[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs00034-019-01203-0.pdf)
