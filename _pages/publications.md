@@ -42,7 +42,7 @@ L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, and Y. Lang. ___Bag-of-Feat
 P. Koch, N. Brügge, **H. Phan**, M. Maass, and A. Mertins. ___Forked Recurrent Neural Network for Hand Gesture Classification Using Inertial Measurement Data___. *Proc. 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 2877-2881, 2019
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*: 27(3), pp. 400-410, 2019
-[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)<br/><span style="color:red">*(Highlighted in the published issue: [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672791))*</span>
+[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)<br/><span style="color:red">*(Featured in the published issue: [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672791))*</span>
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification___. *IEEE Transactions on Biomedical Engineering (TBME)*: 66(5), pp. 1285-1296, 2019
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8502139)[[CODE]](https://github.com/pquochuy/MultitaskSleepNet)
