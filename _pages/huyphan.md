@@ -11,7 +11,7 @@ google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 -->
 
 <br/>
-<span style="color:red">*I am moving*</span>
+<span style="color:red">*Note: I am moving to take up a position at another university in 2020.*</span>
 <br/>
 I am a Lecturer (roughly equivalent to Assistant Professor) in the [School of Computing](https://www.cs.kent.ac.uk/) at [University of Kent](https://www.kent.ac.uk/) (UK). Before, I was 
 a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/) (UK), working with [Prof. Maarten De Vos](https://cibim.eng.ox.ac.uk/). I obtained my Ph.D. (Dr.-Ing. in German system) with summa cum laude in the [Institute for Signal Processing](https://www.isip.uni-luebeck.de/), [University of Lübeck](https://www.uni-luebeck.de/) (Germany) under the supervision of [Prof. Alfred Mertins](https://www.isip.uni-luebeck.de/people/alfred-mertins.html). I received University of Lübeck’s Doctoral Scholarship for my PhD studies and the [Bernd Fischer award](https://www.uni-luebeck.de/en/graduation/graduate-service/doctoral-awards/professor-bernd-fischer-preis-mint.html) for my Ph.D. thesis. I received my M.Eng. (by research) in Computer Engineering from the [School of Computer Engineering](http://scse.ntu.edu.sg/), [Nanyang Technological University](http://ntu.edu.sg/) (Singapore) and my B.Sc. in Computer Science from the [University of Science at Ho Chi Minh City](http://web.hcmus.edu.vn/en/) (Vietnam).
