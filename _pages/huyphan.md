@@ -11,7 +11,7 @@ google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 -->
 <!--- 
 <br/>
-<span style="color:red">*Note: I am moving to take up a position at another university in 2020.*</span>
+<span style="color:red">*Note: I am moving.*</span>
 <br/>
 -->
 <br/>
