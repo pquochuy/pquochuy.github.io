@@ -15,6 +15,12 @@ Preprint(s)
 
 **H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *arXiv preprint arXiv:1907.13177*, 2019 [[PDF]](https://arxiv.org/pdf/1907.13177.pdf) [[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
 
+2020
+------
+
+Viet-Dung Nguyen, **Huy Phan**, Ali Mansour, and Arnaud Coatanhay. ___VoglerNet: Multiple Knife-Edge Diffraction Using Deep Neural Network___. *14th European Conference on Antennas and Propagation (EuCAP 2020)*, 2020
+<br/><span style="color:red">*(accepted)*</span>
+
 2019
 ------
 
