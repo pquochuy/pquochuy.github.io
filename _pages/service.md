@@ -14,9 +14,11 @@ Journal Review
 * IEEE Journal of Biomedical and Health Informatics (JBHI)
 * IEEE Signal Processing Letters (SPL)
 * IEEE Access
+* IEEE Transactions on Emerging Topics in Computing (TETC)
 * PLOS ONE
 * EURASIP Journal on Audio, Speech, and Music Processing (JASM)
 * Elservier Digital Signal Processing (DSP)
+* Elservier Biomedical Signal Processing and Control (BSPC)
 * MDPI Sensors
 * MDPI Applied Sciences
 * Physiological Measurement
