@@ -15,7 +15,7 @@ google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 <br/>
 
 <br/>
-<span style="color:red">**PhD opportunity**</span> in deep learning for joint audio and ear-EEG processing, working with [Preben Kidmose](https://eng.au.dk/en/research/research-programs-and-centres/center-for-ear-eeg/), [Kaare Mikkelsen](https://eng.au.dk/en/research/research-programs-and-centres/center-for-ear-eeg/) and myself. This position is based in Aarhus University. More detail can be found [HERE](https://eng.au.dk/fileadmin/DJF/ENG/Billeder/ECE/CenterforEarEEG/PhDPosition2_DeepLearningForJointProcessingOfAudioAndEEGSignals.pdf)
+<span style="color:red">**PhD opportunity**</span> in deep learning for joint audio and ear-EEG processing, working with [Preben Kidmose](https://eng.au.dk/en/research/research-programs-and-centres/center-for-ear-eeg/), [Kaare Mikkelsen](https://eng.au.dk/en/research/research-programs-and-centres/center-for-ear-eeg/) and myself. This position is based in Aarhus University. More detail can be found [HERE](https://eng.au.dk/fileadmin/DJF/ENG/Billeder/ECE/CenterforEarEEG/PhDPosition2_DeepLearningForJointProcessingOfAudioAndEEGSignals.pdf). <span style="color:red">* The position is still open until filled. *</span>
 <br/>
 
 <br/>
