@@ -5,17 +5,34 @@ permalink: /talks/
 author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
-Invited Talks
+
+Talks
 ------
-* __Machine Learning for Home-based Healthcare Monitoring__<br/>*Department of Electronics and Computer Science, University of Southampton*<br/>28 May 2019
+* *Department of Electronics and Computer Science, University of Southampton.* Southampton, UK. November 2019
 
-* __Temporal Structure Modelling for Audio Event Detection__<br/>*School of Computing, University of Kent (Medway)*<br/>31 January 2018
+* *Surrey Sleep Research Centre, University of Surrey.* Surrey, UK. November 2019
 
-* __Some Perspectives on Audio Event Detection__<br/>*Pattern Recognition in Embedded Systems Group, Technical University Dortmund*<br/>02 December 2016
+* *Amazon R&D.* Cambridge, UK. November 2019
 
-* __Audio Event Detection, Classification, and Beyond__<br/>*Institute for Natural Language Processing, University of Stuttgart*<br/>23 May 2016
+* *School of Electronic Engineering and Computer Science, Queen Mary University of London.* London, UK. October 2019
 
-* __Acoustic Event Detection with Random Regression Forests__<br/>*Department of Medical Physics and Acoustics, Carl von Ossietzky University of Oldenburg*<br/>02 June 2015
+* *Department of Engineering, Aarhus University.* Aarhus, Denmark. September 2019
+
+* *Department of Electronics and Computer Science, University of Southampton.* Southampton, UK. May 2019
+
+* *John von Neumann Institute, Vietnam National University.* Ho Chi Minh City, Vietnam. December, 2018
+
+* *Institute of Biomedical Engineering, University of Oxford.* Oxford, UK. June, 2018
+
+* *School of Computing, University of Kent.* Kent, UK. January 2018
+
+* *Amazon R&D.* Aachen, Germany. January 2017
+
+* *Pattern Recognition in Embedded Systems Group, Technical University Dortmund*. Dortmund, Germany. December 2016
+
+* *Institute for Natural Language Processing, University of Stuttgart.* Stuttgart, Germany. May 2016
+
+* *Department of Medical Physics and Acoustics, Carl von Ossietzky University of Oldenburg.* Oldenburg, Germnay. June 2015
 
 
 {% for post in site.talks reversed %}
