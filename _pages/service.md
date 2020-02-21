@@ -16,6 +16,7 @@ Journal Review
 * IEEE Access
 * IEEE Transactions on Emerging Topics in Computing (TETC)
 * PLOS ONE
+* SLEEP
 * EURASIP Journal on Audio, Speech, and Music Processing (JASM)
 * Elservier Digital Signal Processing (DSP)
 * Elservier Biomedical Signal Processing and Control (BSPC)
@@ -27,6 +28,7 @@ Journal Review
 
 Conference Review
 ------
+* INTERSPEECH 2020
 * INTERSPEECH 2019
 * ICASSP 2019
 * DCASE 2018
@@ -36,6 +38,7 @@ Conference Review
 
 Technical Committee 
 ------
+* INTERSPEECH 2020
 * INTERSPEECH 2019
 * INTERSPEECH 2018
 
