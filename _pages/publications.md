@@ -13,6 +13,14 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
+
+L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *arXiv preprint arXiv:2002.03894*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
+
+L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *arXiv preprint arXiv:2002.04502*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)
+
+L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, A. Mertins. ___Deep Feature Embedding and Hierarchical Classification for Audio Scene Classification___. *arXiv preprint arXiv:2002.04857*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04857.pdf)
+
 **H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *arXiv preprint arXiv:2001.05532*, 2020 [[PDF]](https://arxiv.org/pdf/2001.05532.pdf) [[CODE]](https://github.com/pquochuy/idsegan)
 
 **H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *arXiv preprint arXiv:1907.13177*, 2019 [[PDF]](https://arxiv.org/pdf/1907.13177.pdf) [[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
