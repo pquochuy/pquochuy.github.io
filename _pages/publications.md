@@ -28,7 +28,7 @@ L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, A. Mertins. ___Deep Feature
 2020
 ------
 
-Viet-Dung Nguyen, **Huy Phan**, Ali Mansour, and Arnaud Coatanhay. ___VoglerNet: Multiple Knife-Edge Diffraction Using Deep Neural Network___. *14th European Conference on Antennas and Propagation (EuCAP 2020)*, 2020
+V.-D. Nguyen, **H. Phan**, A. Mansour, and A. Coatanhay. ___VoglerNet: Multiple Knife-Edge Diffraction Using Deep Neural Network___. *14th European Conference on Antennas and Propagation (EuCAP 2020)*, 2020
 <br/><span style="color:red">*(accepted)*</span>
 
 2019
