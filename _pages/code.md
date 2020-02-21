@@ -8,6 +8,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 
 Source code of some of my works can be found below
 
+* [idsegan](https://github.com/pquochuy/idsegan): Improving GANs for speech enhancement
+* [sleep_transfer_learning](https://github.com/pquochuy/sleep_transfer_learning): Towards more accurate automatic sleep staging via deep transfer learning 
 * [SeqSleepNet](https://github.com/pquochuy/SeqSleepNet): End-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging 
 * [MultitaskSleepNet](https://github.com/pquochuy/MultitaskSleepNet): Joint classification and prediction CNN framework for automatic sleep stage classification 
 * [Random Regression Forests](https://github.com/pquochuy/regression_forest) for audio event detection in continuous audio streams
