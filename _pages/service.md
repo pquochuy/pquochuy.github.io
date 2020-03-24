@@ -15,14 +15,16 @@ Journal Review
 * IEEE Signal Processing Letters (SPL)
 * IEEE Access
 * IEEE Transactions on Emerging Topics in Computing (TETC)
+* Nature Scientific Reports
 * PLOS ONE
 * SLEEP
+* Physiological Measurement
+* Biomedical Engineering/Biomedizinische Technik
 * EURASIP Journal on Audio, Speech, and Music Processing (JASM)
 * Elservier Digital Signal Processing (DSP)
 * Elservier Biomedical Signal Processing and Control (BSPC)
 * MDPI Sensors
 * MDPI Applied Sciences
-* Physiological Measurement
 * Acta Acustica united with Acustica (AAA)
 * International Journal of Pattern Recognition and Artificial Intelligence (IJPRAI)
 
