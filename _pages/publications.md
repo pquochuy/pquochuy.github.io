@@ -39,7 +39,6 @@ L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, A. Mertins. ___Deep Feature
 <br/><span style="color:red">*(accepted)*</span>
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, and A. Coatanhay. ___VoglerNet: Multiple Knife-Edge Diffraction Using Deep Neural Network___. *14th European Conference on Antennas and Propagation (EuCAP 2020)*, 2020
-<br/><span style="color:red">*(accepted)*</span>
 
 I. McLoughlin, Z. Xie, Y. Song, **H. Phan**, and P. Ramaswamy. ___Time-frequency feature fusion for noise-robust audio
 event classification___. *Circuits, Systems, and Signal Processing (CSSP)*: 39(3), pp. 1672–1687, 2020 [[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs00034-019-01203-0.pdf)
