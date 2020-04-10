@@ -15,8 +15,6 @@ Preprint(s)
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
-L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *arXiv preprint arXiv:2002.03894*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
-
 L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *arXiv preprint arXiv:2002.04502*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)
 
 **H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *arXiv preprint arXiv:2001.05532*, 2020 [[PDF]](https://arxiv.org/pdf/2001.05532.pdf) [[CODE]](https://github.com/pquochuy/idsegan)
@@ -25,6 +23,15 @@ L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___R
 
 2020
 ------
+
+L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *2nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
+
+P. Koch, M. Dreier, A. Larsen, T. J. Parbs, M. Maaß, **H. Phan**, Alfred Mertins. ___Regression of Hand Movements from sEMG Data with Recurrent Neural Networks___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020
+<br/><span style="color:red">*(accepted)*</span>
+
+P. Koch, M. Dreier, A. Larsen, T. J. Parbs, M. Maaß, **H. Phan**, Alfred Mertins. ___Regression of Hand Movements from sEMG Data with Recurrent Neural Networks___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020
+<br/><span style="color:red">*(accepted)*</span>
+
 O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions Biomedical Engineering (TBME)*, 2020
 <br/><span style="color:red">*(accepted)*</span>
 
