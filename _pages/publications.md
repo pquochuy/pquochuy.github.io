@@ -30,9 +30,6 @@ L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robu
 P. Koch, M. Dreier, A. Larsen, T. J. Parbs, M. Maaß, **H. Phan**, Alfred Mertins. ___Regression of Hand Movements from sEMG Data with Recurrent Neural Networks___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020
 <br/><span style="color:red">*(accepted)*</span>
 
-P. Koch, M. Dreier, A. Larsen, T. J. Parbs, M. Maaß, **H. Phan**, Alfred Mertins. ___Regression of Hand Movements from sEMG Data with Recurrent Neural Networks___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020
-<br/><span style="color:red">*(accepted)*</span>
-
 O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions Biomedical Engineering (TBME)*, 2020
 <br/><span style="color:red">*(accepted)*</span>
 
