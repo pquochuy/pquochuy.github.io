@@ -13,7 +13,7 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
-H. Phan, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *arXiv preprint	arXiv:2004.11349*, 2020 [[PDF]](https://arxiv.org/pdf/2004.11349)
+**H. Phan**, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *arXiv preprint	arXiv:2004.11349*, 2020 [[PDF]](https://arxiv.org/pdf/2004.11349)
 
 O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *bioRxiv*, 2020 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2020/04/16/2020.04.15.043034.full.pdf)
 
