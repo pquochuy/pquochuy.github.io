@@ -35,11 +35,10 @@ L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robu
 P. Koch, M. Dreier, A. Larsen, T. J. Parbs, M. Maaß, **H. Phan**, Alfred Mertins. ___Regression of Hand Movements from sEMG Data with Recurrent Neural Networks___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020
 <br/><span style="color:red">*(accepted)*</span>
 
-O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions Biomedical Engineering (TBME)*, 2020
-<br/><span style="color:red">*(accepted)*</span>
-
 L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, A. Mertins. ___Deep Feature Embedding and Hierarchical Classification for Audio Scene Classification___. *2020 International Joint Conference on Neural Networks (IJCNN)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04857.pdf)
 <br/><span style="color:red">*(accepted)*</span>
+
+O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, and A. Coatanhay. ___VoglerNet: Multiple Knife-Edge Diffraction Using Deep Neural Network___. *14th European Conference on Antennas and Propagation (EuCAP 2020)*, 2020
 
