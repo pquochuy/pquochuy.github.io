@@ -13,8 +13,6 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
-**H. Phan**, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *arXiv preprint	arXiv:2004.11349*, 2020 [[PDF]](https://arxiv.org/pdf/2004.11349)
-
 O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *bioRxiv*, 2020 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2020/04/16/2020.04.15.043034.full.pdf)
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
@@ -27,6 +25,9 @@ L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___R
 
 2020
 ------
+
+**H. Phan**, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *Physiological Measurement*, 2020 [[PDF]](https://arxiv.org/pdf/2004.11349)
+<br/><span style="color:red">*(accepted)*</span>
 
 L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
 <br/><span style="color:red">*(accepted)*</span>
