@@ -26,9 +26,6 @@ L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___R
 2020
 ------
 
-**H. Phan**, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *Physiological Measurement*, 2020 [[PDF]](https://arxiv.org/pdf/2004.11349)
-<br/><span style="color:red">*(accepted)*</span>
-
 L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
 <br/><span style="color:red">*(accepted)*</span>
 
@@ -38,7 +35,9 @@ P. Koch, M. Dreier, A. Larsen, T. J. Parbs, M. Maaß, **H. Phan**, Alfred Mertin
 L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, A. Mertins. ___Deep Feature Embedding and Hierarchical Classification for Audio Scene Classification___. *2020 International Joint Conference on Neural Networks (IJCNN)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04857.pdf)
 <br/><span style="color:red">*(accepted)*</span>
 
-O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020
+**H. Phan**, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *Physiological Measurement*, 2020 [[PDF]](https://arxiv.org/pdf/2004.11349)
+
+O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9072527/)
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, and A. Coatanhay. ___VoglerNet: Multiple Knife-Edge Diffraction Using Deep Neural Network___. *14th European Conference on Antennas and Propagation (EuCAP 2020)*, 2020
 
