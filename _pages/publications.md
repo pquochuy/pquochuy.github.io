@@ -26,6 +26,9 @@ L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___R
 2020
 ------
 
+P. Koch, M. Dreier, M. Maass, **H. Phan**, and A. Mertins. ___RNN with Stacked Architecture for sEMG based Sequence-to-Sequence Hand Gesture Recognition___.  *28th European Signal Processing Conference (EUSIPCO 2020)*, 2020 [[PDF]]
+<br/><span style="color:red">*(accepted)*</span>
+
 L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
 <br/><span style="color:red">*(accepted)*</span>
 
