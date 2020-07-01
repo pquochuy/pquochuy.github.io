@@ -38,7 +38,7 @@ P. Koch, M. Dreier, A. Larsen, T. J. Parbs, M. Maaß, **H. Phan**, Alfred Mertin
 L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, A. Mertins. ___Deep Feature Embedding and Hierarchical Classification for Audio Scene Classification___. *2020 International Joint Conference on Neural Networks (IJCNN)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04857.pdf)
 <br/><span style="color:red">*(accepted)*</span>
 
-**H. Phan**, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *Physiological Measurement*, 2020 [[PDF]](https://arxiv.org/pdf/2004.11349)
+**H. Phan**, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *Physiological Measurement*, vol. 41, Article ID 064004, 2020 [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6579/ab921e)
 
 O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9072527/)
 
