@@ -20,6 +20,8 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 
 L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *arXiv preprint arXiv:2002.04502*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)
 
+L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *arXiv preprint arXiv:2004.04072*, 2020 [[PDF]](https://arxiv.org/pdf/2004.04072.pdf)
+
 **H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *arXiv preprint arXiv:2001.05532*, 2020 [[PDF]](https://arxiv.org/pdf/2001.05532.pdf) [[CODE]](https://github.com/pquochuy/idsegan)
 
 **H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *arXiv preprint arXiv:1907.13177*, 2019 [[PDF]](https://arxiv.org/pdf/1907.13177.pdf) [[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
@@ -31,13 +33,10 @@ P. Koch, M. Dreier, M. Maass, **H. Phan**, and A. Mertins. ___RNN with Stacked A
 <br/><span style="color:red">*(accepted)*</span>
 
 L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
-<br/><span style="color:red">*(accepted)*</span>
 
 P. Koch, M. Dreier, A. Larsen, T. J. Parbs, M. Maaß, **H. Phan**, Alfred Mertins. ___Regression of Hand Movements from sEMG Data with Recurrent Neural Networks___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020
-<br/><span style="color:red">*(accepted)*</span>
 
 L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, A. Mertins. ___Deep Feature Embedding and Hierarchical Classification for Audio Scene Classification___. *2020 International Joint Conference on Neural Networks (IJCNN)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04857.pdf)
-<br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, L. Pham, P. Koch, N. Q. K. Duong, I. McLoughlin, A. Mertins. ___Audio Event Detection and Localization with Multitask Regression Network___. *Detection and Classification of Acoustic Scenes and Events (DCASE 2020) Technical Report*, 2020 [[PDF]](http://dcase.community/documents/challenge2020/technical_reports/DCASE2020_Phan_117.pdf)
 
