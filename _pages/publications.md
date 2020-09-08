@@ -25,19 +25,19 @@ L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___R
 
 L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *arXiv preprint arXiv:2004.04072*, 2020 [[PDF]](https://arxiv.org/pdf/2004.04072.pdf)
 
-**H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *arXiv preprint arXiv:2001.05532*, 2020 [[PDF]](https://arxiv.org/pdf/2001.05532.pdf) [[CODE]](https://github.com/pquochuy/idsegan)
-
 2020
 ------
+
+**H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *arXiv preprint arXiv:2001.05532*, 2020 [[PDF]](IEEE Signal Processing Letters) [[CODE]](https://github.com/pquochuy/idsegan)
+<br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, L. Pham, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___On Multitask Loss Function for Audio Event Detection and Localization___. *5th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2020)*, 2020
 <br/><span style="color:red">*(accepted)*</span>
 
-**H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020 [[PDF]](https://arxiv.org/pdf/1907.13177.pdf) [[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
-<br/><span style="color:red">*(accepted)*</span>
-
 P. Koch, M. Dreier, M. Maass, **H. Phan**, and A. Mertins. ___RNN with Stacked Architecture for sEMG based Sequence-to-Sequence Hand Gesture Recognition___.  *28th European Signal Processing Conference (EUSIPCO 2020)*, 2020 [[PDF]]
 <br/><span style="color:red">*(accepted)*</span>
+
+**H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020 [[PDF]](https://arxiv.org/pdf/1907.13177.pdf) [[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
 
 L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
 
