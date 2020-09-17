@@ -16,6 +16,7 @@ Journal Review
 * IEEE Access
 * IEEE Transactions on Emerging Topics in Computing (TETC)
 * Nature Scientific Reports
+* Speech Communication
 * PLOS ONE
 * SLEEP
 * Physiological Measurement
@@ -30,6 +31,7 @@ Journal Review
 
 Conference Review
 ------
+* AAAI 2020
 * INTERSPEECH 2020
 * INTERSPEECH 2019
 * ICASSP 2019
