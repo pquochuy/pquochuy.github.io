@@ -13,6 +13,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+H. Phan, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___.*arXiv preprint arXiv:2010.09132*, 2020 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)
+
 N. Banluesombatkul, P. Ouppaphan, P. Leelaarporn, P. Lakhan, B. Chaitusaney, N. Jaimchariyatam, E. Chuangsuwanich, W. Chen, **H. Phan**, N. Dilokthanakul, T. Wilaiprasitporn. ___MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning___. *arXiv preprint arXiv:2004.04157*, 2020 [[PDF]](https://arxiv.org/abs/2004.04157)
 
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
@@ -30,16 +32,15 @@ L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE base
 2020
 ------
 
-V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and Thierry Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020
+V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020
 <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, L. Pham, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___On Multitask Loss Function for Audio Event Detection and Localization___. *5th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2009.05527)
 <br/><span style="color:red">*(accepted)*</span>
 
-P. Koch, M. Dreier, M. Maass, **H. Phan**, and A. Mertins. ___RNN with Stacked Architecture for sEMG based Sequence-to-Sequence Hand Gesture Recognition___.  *28th European Signal Processing Conference (EUSIPCO 2020)*, 2020 [[PDF]]
-<br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *IEEE Signal Processing Letters*, vol. 27, pp. 1700-1704, 2020 [[PDF]](https://arxiv.org/pdf/2001.05532) [[CODE]](https://github.com/pquochuy/idsegan)
 
-**H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *IEEE Signal Processing Letters*, 2020 [[PDF]](https://arxiv.org/pdf/2001.05532) [[CODE]](https://github.com/pquochuy/idsegan)
+P. Koch, M. Dreier, M. Maass, **H. Phan**, and A. Mertins. ___RNN with Stacked Architecture for sEMG based Sequence-to-Sequence Hand Gesture Recognition___.  *28th European Signal Processing Conference (EUSIPCO 2020)*, 2020
 
 **H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020 [[PDF]](https://arxiv.org/pdf/1907.13177.pdf) [[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
 
