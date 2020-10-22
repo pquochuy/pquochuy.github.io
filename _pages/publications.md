@@ -21,8 +21,6 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 
 **H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *arXiv preprint arXiv:2007.05492*, 2020 [[PDF]](https://arxiv.org/abs/2007.05492)
 
-O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *bioRxiv*, 2020 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2020/04/16/2020.04.15.043034.full.pdf)
-
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
 L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *arXiv preprint arXiv:2002.04502*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)
@@ -31,6 +29,9 @@ L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE base
 
 2020
 ------
+
+O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *NeuroImage*, 2020 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2020/04/16/2020.04.15.043034.full.pdf)
+<br/><span style="color:red">*(accepted)*</span>
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020
 <br/><span style="color:red">*(accepted)*</span>
