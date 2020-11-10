@@ -38,7 +38,6 @@ V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the 
 <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, L. Pham, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___On Multitask Loss Function for Audio Event Detection and Localization___. *5th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2009.05527)
-<br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *IEEE Signal Processing Letters*, vol. 27, pp. 1700-1704, 2020 [[PDF]](https://arxiv.org/pdf/2001.05532) [[CODE]](https://github.com/pquochuy/idsegan)
 
