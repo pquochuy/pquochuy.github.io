@@ -8,6 +8,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 
 Talks
 ------
+* *The Artificial Intelligence in Medicine Laboratory, Technion-IIT.* Haifa, Israel. November 2020
+
 * *Department of Electronics and Computer Science, University of Southampton.* Southampton, UK. November 2019
 
 * *Surrey Sleep Research Centre, University of Surrey.* Surrey, UK. November 2019
