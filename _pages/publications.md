@@ -15,8 +15,6 @@ Preprint(s)
 
 **H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___.*arXiv preprint arXiv:2010.09132*, 2020 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)
 
-N. Banluesombatkul, P. Ouppaphan, P. Leelaarporn, P. Lakhan, B. Chaitusaney, N. Jaimchariyatam, E. Chuangsuwanich, W. Chen, **H. Phan**, N. Dilokthanakul, T. Wilaiprasitporn. ___MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning___. *arXiv preprint arXiv:2004.04157*, 2020 [[PDF]](https://arxiv.org/abs/2004.04157)
-
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 **H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *arXiv preprint arXiv:2007.05492*, 2020 [[PDF]](https://arxiv.org/abs/2007.05492)
@@ -29,6 +27,9 @@ L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE base
 
 2020
 ------
+
+N. Banluesombatkul, P. Ouppaphan, P. Leelaarporn, P. Lakhan, B. Chaitusaney, N. Jaimchariyatam, E. Chuangsuwanich, W. Chen, **H. Phan**, N. Dilokthanakul, T. Wilaiprasitporn. ___MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2020 [[PDF]](https://arxiv.org/abs/2004.04157)
+<br/><span style="color:red">*(accepted)*</span>
 
 O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *NeuroImage*, 2020 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2020/04/16/2020.04.15.043034.full.pdf)
 <br/><span style="color:red">*(accepted)*</span>
