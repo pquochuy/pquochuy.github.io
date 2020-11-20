@@ -13,9 +13,9 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
-T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. Gan. ___A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network___.*arXiv preprint arXiv:2011.07859*, 2020 [[PDF]](https://arxiv.org/abs/2011.07859)[[CODE]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection)
+T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. Gan. ___A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network___. *arXiv preprint arXiv:2011.07859*, 2020 [[PDF]](https://arxiv.org/abs/2011.07859)[[CODE]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection)
 
-**H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___.* arXiv preprint arXiv:2010.09132*, 2020 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)
+**H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___. *arXiv preprint arXiv:2010.09132*, 2020 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)
 
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
@@ -30,8 +30,7 @@ L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE base
 2020
 ------
 
-O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *NeuroImage*, 2020 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2020/04/16/2020.04.15.043034.full.pdf)
-<br/><span style="color:red">*(accepted)*</span>
+O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *NeuroImage*, 2020 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1053811920309939)
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9263367)
 
