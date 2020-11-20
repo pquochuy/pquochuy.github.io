@@ -8,6 +8,7 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 
 Source code of some of my works can be found below
 
+* [sasegan](https://github.com/pquochuy/sasegan): Self-attention GAN for speech enhancement
 * [idsegan](https://github.com/pquochuy/idsegan): Improving GANs for speech enhancement
 * [sleep_transfer_learning](https://github.com/pquochuy/sleep_transfer_learning): Towards more accurate automatic sleep staging via deep transfer learning 
 * [SeqSleepNet](https://github.com/pquochuy/SeqSleepNet): End-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging 
