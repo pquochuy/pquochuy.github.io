@@ -20,6 +20,7 @@ Journal Review
 * PLOS ONE
 * SLEEP
 * Physiological Measurement
+* Frontiers in Computational Neuroscience
 * Biomedical Engineering/Biomedizinische Technik
 * EURASIP Journal on Audio, Speech, and Music Processing (JASM)
 * Elservier Digital Signal Processing (DSP)
@@ -31,6 +32,7 @@ Journal Review
 
 Conference Review
 ------
+* ICASSP 2021
 * AAAI 2020
 * INTERSPEECH 2020
 * INTERSPEECH 2019
