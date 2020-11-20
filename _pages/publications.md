@@ -33,8 +33,7 @@ L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE base
 O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *NeuroImage*, 2020 [[PDF]](https://www.biorxiv.org/content/biorxiv/early/2020/04/16/2020.04.15.043034.full.pdf)
 <br/><span style="color:red">*(accepted)*</span>
 
-V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020
-<br/><span style="color:red">*(accepted)*</span>
+V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9263367)
 
 N. Banluesombatkul, P. Ouppaphan, P. Leelaarporn, P. Lakhan, B. Chaitusaney, N. Jaimchariyatam, E. Chuangsuwanich, W. Chen, **H. Phan**, N. Dilokthanakul, T. Wilaiprasitporn. ___MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2020 [[PDF]](https://arxiv.org/abs/2004.04157)
 
