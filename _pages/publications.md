@@ -23,14 +23,17 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
-L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *arXiv preprint arXiv:2002.04502*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)
-
 L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *arXiv preprint arXiv:2004.04072*, 2020 [[PDF]](https://arxiv.org/pdf/2004.04072.pdf)
+
+2021
+------
+
+O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *NeuroImage*, vol. 226, Article ID 117508, 2021 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1053811920309939)
 
 2020
 ------
 
-O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *NeuroImage*, 2020 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1053811920309939)
+L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *Digital Signal Processing*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9263367)
 
@@ -54,7 +57,7 @@ L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, A. Mertins. ___Deep Feature
 
 **H. Phan**, K. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, P. Kidmose, M. De Vos.  ___Personalized Automatic Sleep Staging with Single-Night Data: a Pilot Study with KL-Divergence Regularization___. *Physiological Measurement*, vol. 41, Article ID 064004, 2020 [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6579/ab921e)
 
-O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9072527/)
+O. Y. Chén, F. Lipsmeier, **H. Phan**, J. Prince, K. I. Taylor, C. Gossens, M. Lindemann, and M. De Vos. ___Building a Machine-learning Framework to Remotely Assess Parkinson’s Disease Using Smartphones___. *IEEE Transactions on Biomedical Engineering (TBME)*, vol. 67, no. 12, pp. 3491-3500, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9072527/)
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, and A. Coatanhay. ___VoglerNet: Multiple Knife-Edge Diffraction Using Deep Neural Network___. *14th European Conference on Antennas and Propagation (EuCAP 2020)*, 2020
 
