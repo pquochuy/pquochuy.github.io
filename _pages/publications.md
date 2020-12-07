@@ -33,7 +33,7 @@ O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. D
 2020
 ------
 
-L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *Digital Signal Processing*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)
+L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *Digital Signal Processing*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)<br/><span style="color:red">*(accepted)*</span>
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9263367)
 
