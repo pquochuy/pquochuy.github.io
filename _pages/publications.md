@@ -28,12 +28,12 @@ L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE base
 2021
 ------
 
+L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *Digital Signal Processing*, vol. 110, Article. ID 102943, 2021 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200420302888)<br/><span style="color:red">*(accepted)*</span>
+
 O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. Di, J. Prince, T. D. Cannon, M. de Vos.  ___Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis___. *NeuroImage*, vol. 226, Article ID 117508, 2021 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1053811920309939)
 
 2020
 ------
-
-L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *Digital Signal Processing*, 2020 [[PDF]](https://arxiv.org/pdf/2002.04502.pdf)<br/><span style="color:red">*(accepted)*</span>
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9263367)
 
