@@ -25,6 +25,8 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 
 L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *arXiv preprint arXiv:2004.04072*, 2020 [[PDF]](https://arxiv.org/pdf/2004.04072.pdf)
 
+L. Pham, **H. Phan**, R. King, A. Mertins, I. McLoughlin. ___Inception-Based Network and Multi-Spectrogram Ensemble Applied For Predicting Respiratory Anomalies and Lung Diseases___. *arXiv preprint arXiv:2012.13699*, 2020 [[PDF]](https://arxiv.org/pdf/2012.13699.pdf)
+
 2021
 ------
 
@@ -67,6 +69,9 @@ event classification___. *Circuits, Systems, and Signal Processing (CSSP)*: 39(3
 2019
 ------
 
+**H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*: 27(3), pp. 400-410, 2019
+[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)<br/><span style="color:red">*(IEEE-EMBS Best Paper Award 2019-2020)*</span><span style="color:red">*(Featured in the published issue: [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672791))*</span>
+
 **H. Phan**, O. Y. Chén, L. Pham, P. Koch, M. De Vos, I. McLoughlin, and A. Mertins. ___Spatio-Temporal Attention Pooling for Audio Scene Classification___. *20th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2019 [[PDF]](https://arxiv.org/pdf/1904.03543)
 
 L. Pham, I. McLoughlin, **H. Phan**, and R. Palaniappan. ___A Robust Framework For Acoustic Scene Classification___. *20th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2019
@@ -86,9 +91,6 @@ L. Pham, I. McLoughlin, **H. Phan**, R. Palaniappan, and Y. Lang. ___Bag-of-Feat
 **H. Phan**, O. Y. Chén, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. De Vos. ___Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks___. *Proc. 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 51-55, 2019 [[PDF]](https://arxiv.org/pdf/1811.01092)
 
 P. Koch, N. Brügge, **H. Phan**, M. Maass, and A. Mertins. ___Forked Recurrent Neural Network for Hand Gesture Classification Using Inertial Measurement Data___. *Proc. 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 2877-2881, 2019
-
-**H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*: 27(3), pp. 400-410, 2019
-[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)<br/><span style="color:red">*(Featured in the published issue: [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672791))*</span>
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification___. *IEEE Transactions on Biomedical Engineering (TBME)*: 66(5), pp. 1285-1296, 2019
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8502139)[[CODE]](https://github.com/pquochuy/MultitaskSleepNet)
