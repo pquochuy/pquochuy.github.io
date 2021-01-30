@@ -13,10 +13,6 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
-T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. Gan. ___A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network___. *arXiv preprint arXiv:2011.07859*, 2020 [[PDF]](https://arxiv.org/abs/2011.07859)[[CODE]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection)
-
-**H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___. *arXiv preprint arXiv:2010.09132*, 2020 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)
-
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 **H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *arXiv preprint arXiv:2007.05492*, 2020 [[PDF]](https://arxiv.org/abs/2007.05492)
@@ -29,6 +25,12 @@ L. Pham, **H. Phan**, R. King, A. Mertins, I. McLoughlin. ___Inception-Based Net
 
 2021
 ------
+
+**H. Phan**, H. L. Nguyen, O. Y. Chén, L. Pham, P. Koch, I. McLoughlin, and A. Mertins. ___Multi-view Audio and Music Classification___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021
+
+**H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)
+
+T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. Gan. ___A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2011.07859)[[CODE]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection)
 
 L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *Digital Signal Processing*, vol. 110, Article ID 102943, 2021 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200420302888)
 
