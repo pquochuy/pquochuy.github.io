@@ -13,6 +13,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N. Dilokthanakul, G. Bhakdisongkhram, **H. Phan**, C. Guan, and T. Wilaiprasitporn. ___MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification___. *arXiv preprint arXiv:2102.03814* 2021 [[PDF]](https://arxiv.org/abs/2102.03814)
+
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 **H. Phan**, O. Y. Chén, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *arXiv preprint arXiv:2007.05492*, 2020 [[PDF]](https://arxiv.org/abs/2007.05492)
