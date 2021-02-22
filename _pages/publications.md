@@ -21,12 +21,12 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
-L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *arXiv preprint arXiv:2004.04072*, 2020 [[PDF]](https://arxiv.org/pdf/2004.04072.pdf)
-
 L. Pham, **H. Phan**, R. King, A. Mertins, I. McLoughlin. ___Inception-Based Network and Multi-Spectrogram Ensemble Applied For Predicting Respiratory Anomalies and Lung Diseases___. *arXiv preprint arXiv:2012.13699*, 2020 [[PDF]](https://arxiv.org/pdf/2012.13699.pdf)
 
 2021
 ------
+
+L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2021 [[PDF]](https://arxiv.org/pdf/2004.04072.pdf)<br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, H. L. Nguyen, O. Y. Chén, L. Pham, P. Koch, I. McLoughlin, and A. Mertins. ___Multi-view Audio and Music Classification___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021<br/><span style="color:red">*(accepted)*</span>
 
