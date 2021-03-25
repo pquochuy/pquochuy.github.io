@@ -32,6 +32,7 @@ My CV is available [here](https://www.dropbox.com/s/g4ub8vbslvb3zfc/CV_Huy.pdf?d
 
 News
 ---
+* **25 Mar 2021:** <span style="color:#B22222">(New)</span> XSleepNet paper accepted in IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)
 * **29 Jan 2021:** <span style="color:#B22222">(New)</span> SeqSleepNet paper awarded Benelux's IEEE-EMBS Best Paper Award 2019-20
 * 17 Jun 2019: Two papers accepted for Interspeech 2019
 * 04 Jun 2019: Two papers accepted for EUSIPCO 2019
