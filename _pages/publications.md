@@ -24,13 +24,13 @@ L. Pham, **H. Phan**, R. King, A. Mertins, I. McLoughlin. ___Inception-Based Net
 2021
 ------
 
-**H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
-
 **H. Phan**, H. L. Nguyen, O. Y. Chén, L. Pham, P. Koch, I. McLoughlin, and A. Mertins. ___Multi-view Audio and Music Classification___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/pdf/2103.02420.pdf)<br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)<br/><span style="color:red">*(accepted)*</span>
 
 T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. Gan. ___A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2011.07859)[[CODE]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection)<br/><span style="color:red">*(accepted)*</span>
+
+**H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
 
 L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2021 [[Preprint]](https://arxiv.org/pdf/2004.04072.pdf) [[PDF]](https://ieeexplore.ieee.org/document/9372748)
 
