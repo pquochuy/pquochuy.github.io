@@ -24,8 +24,7 @@ L. Pham, **H. Phan**, R. King, A. Mertins, I. McLoughlin. ___Inception-Based Net
 2021
 ------
 
-**H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021 [[Preprint]](https://arxiv.org/abs/2007.05492)
-<br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
 
 **H. Phan**, H. L. Nguyen, O. Y. Chén, L. Pham, P. Koch, I. McLoughlin, and A. Mertins. ___Multi-view Audio and Music Classification___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/pdf/2103.02420.pdf)<br/><span style="color:red">*(accepted)*</span>
 
