@@ -9,22 +9,22 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 PhD students
 ------
 
-* Shubhr Singh, *Audio applications of novel mathematical methods in deep learning*, QMUL, 2020-present<br/>*(jointly with Emmanouil Benetos and Dan Stowell)*
-* Marco Comunità, *Machine learning applied to sound synthesis models*, QMUL, 2020-present<br/>*(jointly with Joshua Reiss)*
-* Christian Steinmetz, *End-to-end generative modeling of multitrack mixing with non-parallel data and adversarial networks*, QMUL, 2020-present<br/>*(jointly with Joshua Reiss)*
-* Jiachen Luo, *Voice and language analysis for personality disorder detection*, QMUL, 2020-present<br/>*(jointly with Joshua Reiss)*
-* Inês de Almeida Nolasco, *Automatic acoustic identification of individual animals in the wild*, QMUL, 2020-present<br/>*(jointly with Emmanouil Benetos and Dan Stowell)*
-* Iacopo Ginassi, *Semantic understanding of TV programme content and structure to enable automatic enhancement and adjustment*, QMUL, 2020-present<br/>*(jointly with Matthew Purver)*
-* Harnick Khera, *Informed source separation for multi-mic production*, QMUL, 2020-present<br/>*(jointly with Mark Sandler)*
+* ___Shubhr Singh___, *Audio applications of novel mathematical methods in deep learning*<br/>QMUL, 2020-present *(jointly with Emmanouil Benetos and Dan Stowell)*
+* ___Marco Comunità___, *Machine learning applied to sound synthesis models*<br/>QMUL, 2020-present *(jointly with Joshua Reiss)*
+* ___Christian Steinmetz___, *End-to-end generative modeling of multitrack mixing with non-parallel data and adversarial networks*<br/>QMUL, 2020-present *(jointly with Joshua Reiss)*
+* ___Jiachen Luo___, *Voice and language analysis for personality disorder detection*<br/>QMUL, 2020-present *(jointly with Joshua Reiss)*
+* ___Inês de Almeida Nolasco___, *Automatic acoustic identification of individual animals in the wild*<br/>QMUL, 2020-present *(jointly with Emmanouil Benetos and Dan Stowell)*
+* ___Iacopo Ginassi___, *Semantic understanding of TV programme content and structure to enable automatic enhancement and adjustment*<br/>QMUL, 2020-present *(jointly with Matthew Purver)*
+* ___Harnick Khera___, *Informed source separation for multi-mic production*<br/>QMUL, 2020-present *(jointly with Mark Sandler)*
 
 MSc students
 ------
-* Daniel Starr, *Personalized AI for improving quality of sleep*, QMUL, 2021 (in progress)
-* Minh-Hai Nguyen, *Early seizure detection*, QMUL, 2021 (in progress)
-* Marsela Gavrilova, *Voice analysis for personality disorder detection*, QMUL, 2021 (in progress)
-* Peiheng Yang, *Small-footprint deep learning for audio event detection*, QMUL, 2021 (in progress)
-* Thomas Mason, *Deep learning for sleep micro-event detection*, QMUL, 2021 (in progress)
-* Momen Al Msalma, *Methods for acoustic cough counting*, University of Lübeck, 2017 *(in German)*
+* ___Daniel Starr___, *Personalized AI for improving quality of sleep*<br/>QMUL, 2021 (in progress)
+* ___Minh-Hai Nguyen___, *Early seizure detection*, QMUL, 2021 (in progress)
+* ___Marsela Gavrilova___, *Voice analysis for personality disorder detection*<br/>QMUL, 2021 (in progress)
+* ___Peiheng Yang___, *Small-footprint deep learning for audio event detection*<br/>QMUL, 2021 (in progress)
+* ___Thomas Mason___, *Deep learning for sleep micro-event detection*<br/>QMUL, 2021 (in progress)
+* ___Momen Al Msalma___, *Methods for acoustic cough counting*<br/>University of Lübeck, 2017 *(in German)*
 
 Collaborators
 ------
