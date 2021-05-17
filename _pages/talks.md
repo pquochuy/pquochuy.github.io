@@ -6,8 +6,10 @@ author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
-Talks
+Invited Talks
 ------
+* *Institute of Applied Data Science, Queen Mary University of London.* London, UK, May 2021
+
 * *Advanced Institute of Engineering and Technology (AVITECH), VNU University of Engineering and Technology.* Hanoi, Vietnam. November 2020
 
 * *The Artificial Intelligence in Medicine Laboratory, Technion-IIT.* Haifa, Israel. November 2020
