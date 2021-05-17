@@ -1,10 +1,18 @@
 ---
 #layout: archive
-title: "Awards"
+title: "Grants & Awards"
 permalink: /awards/
 author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
+
+Grant(s)
+------
+
+* **NVIDIA Seeding Grants for Researchers**, £4k equivalent, 2019
+
+Awards
+------
 
 * IEEE-EMBS Best Paper Award 2019-20, 2021
 * [Bernd Fischer Award](https://www.uni-luebeck.de/aktuelles/nachricht/artikel/die-preise-der-universitaet-2018.html) for best PhD thesis, University of Lübeck, 2018
