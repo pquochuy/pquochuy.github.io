@@ -20,7 +20,7 @@ PhD students
 MSc students
 ------
 * ___Daniel Starr___, *Personalized AI for improving quality of sleep*<br/>QMUL, 2021 (in progress)
-* ___Minh-Hai Nguyen___, *Early seizure detection*, QMUL, 2021 (in progress)
+* ___Minh-Hai Nguyen___, *Early seizure detection*<br/>QMUL, 2021 (in progress)
 * ___Marsela Gavrilova___, *Voice analysis for personality disorder detection*<br/>QMUL, 2021 (in progress)
 * ___Peiheng Yang___, *Small-footprint deep learning for audio event detection*<br/>QMUL, 2021 (in progress)
 * ___Thomas Mason___, *Deep learning for sleep micro-event detection*<br/>QMUL, 2021 (in progress)
