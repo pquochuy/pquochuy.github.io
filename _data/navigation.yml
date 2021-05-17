@@ -21,8 +21,8 @@ main:
   - title: "Awards"
     url: /awards/    
     
-  - title: "Grants"
-    url: /grants/
+#  - title: "Grants"
+#    url: /grants/
     
   - title: "Service"
     url: /service/ 
