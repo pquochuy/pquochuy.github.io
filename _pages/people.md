@@ -9,13 +9,13 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 PhD students
 ------
 
-* Shubhr Singh, *Audio applications of novel mathematical methods in deep learning*, QMUL, 2020-present<br/><span style="color:red">*(jointly with Emmanouil Benetos and Dan Stowell)*</span>
-* Marco Comunità, *Machine learning applied to sound synthesis models*, QMUL, 2020-present<br/><span style="color:red">*(jointly with Joshua Reiss)*</span>
-* Christian Steinmetz, *End-to-end generative modeling of multitrack mixing with non-parallel data and adversarial networks*, QMUL, 2020-present<br/><span style="color:red">*(jointly with Joshua Reiss)*</span>
-* Jiachen Luo, *Voice and language analysis for personality disorder detection*, QMUL, 2020-present<br/><span style="color:red">*(jointly with Joshua Reiss)*</span>
-* Inês de Almeida Nolasco, *Automatic acoustic identification of individual animals in the wild*, QMUL, 2020-present<br/><span style="color:red">*(jointly with Emmanouil Benetos and Dan Stowell)*</span>
-* Iacopo Ginassi, *Semantic understanding of TV programme content and structure to enable automatic enhancement and adjustment*, QMUL, 2020-present<br/><span style="color:red">*(jointly with Matthew Purver)*</span> 
-* Harnick Khera, *Informed source separation for multi-mic production*, QMUL, 2020-present<br/><span style="color:red">*(jointly with Mark Sandler)*</span> 
+* Shubhr Singh, *Audio applications of novel mathematical methods in deep learning*, QMUL, 2020-present<br/>*(jointly with Emmanouil Benetos and Dan Stowell)*
+* Marco Comunità, *Machine learning applied to sound synthesis models*, QMUL, 2020-present<br/>*(jointly with Joshua Reiss)*
+* Christian Steinmetz, *End-to-end generative modeling of multitrack mixing with non-parallel data and adversarial networks*, QMUL, 2020-present<br/>*(jointly with Joshua Reiss)*
+* Jiachen Luo, *Voice and language analysis for personality disorder detection*, QMUL, 2020-present<br/>*(jointly with Joshua Reiss)*
+* Inês de Almeida Nolasco, *Automatic acoustic identification of individual animals in the wild*, QMUL, 2020-present<br/>*(jointly with Emmanouil Benetos and Dan Stowell)*
+* Iacopo Ginassi, *Semantic understanding of TV programme content and structure to enable automatic enhancement and adjustment*, QMUL, 2020-present<br/>*(jointly with Matthew Purver)*
+* Harnick Khera, *Informed source separation for multi-mic production*, QMUL, 2020-present<br/>*(jointly with Mark Sandler)*
 
 MSc students
 ------
