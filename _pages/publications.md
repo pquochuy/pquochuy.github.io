@@ -13,6 +13,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *arXiv preprint arXiv:2105.11043* 2021 [[PDF]](https://arxiv.org/abs/2105.11043)
+
 K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Light-weight sleep monitoring: electrode distance matters more than placement for automatic scoring___. *arXiv preprint arXiv:2104.04567* 2021 [[PDF]](https://arxiv.org/abs/2104.04567)
 
 P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N. Dilokthanakul, G. Bhakdisongkhram, **H. Phan**, C. Guan, and T. Wilaiprasitporn. ___MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification___. *arXiv preprint arXiv:2102.03814* 2021 [[PDF]](https://arxiv.org/abs/2102.03814)
@@ -26,15 +28,17 @@ L. Pham, **H. Phan**, R. King, A. Mertins, I. McLoughlin. ___Inception-Based Net
 2021
 ------
 
-**H. Phan**, H. L. Nguyen, O. Y. Chén, L. Pham, P. Koch, I. McLoughlin, and A. Mertins. ___Multi-view Audio and Music Classification___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/pdf/2103.02420.pdf)<br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, H. L. Nguyen, O. Y. Chén, L. Pham, P. Koch, I. McLoughlin, and A. Mertins. ___Multi-view Audio and Music Classification___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/pdf/2103.02420.pdf)
 
-**H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)<br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)
 
-T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. Gan. ___A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2011.07859)[[CODE]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection)<br/><span style="color:red">*(accepted)*</span>
+T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. Gan. ___A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2011.07859)[[CODE]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection)
 
 **H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
 
 L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2021 [[Preprint]](https://arxiv.org/pdf/2004.04072.pdf) [[PDF]](https://ieeexplore.ieee.org/document/9372748)
+
+**H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *IEEE Transactions on Biomedical Engineering (TBME)*, vol. 68, no. 6, pp. 1787-1798, 2021 [[Preprint]](https://arxiv.org/abs/1907.13177)[[PDF]](https://arxiv.org/pdf/1907.13177.pdf)[[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
 
 L. Pham, **H. Phan**, T. Nguyen, R. Palaniappan, A. Mertins, I. McLoughlin. ___Robust Acoustic Scene Classification using a Multi-Spectrogram Encoder-Decoder Framework___. *Digital Signal Processing*, vol. 110, Article ID 102943, 2021 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1051200420302888)
 
@@ -52,8 +56,6 @@ N. Banluesombatkul, P. Ouppaphan, P. Leelaarporn, P. Lakhan, B. Chaitusaney, N. 
 **H. Phan**, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins. ___Improving GANs for Speech Enhancement___. *IEEE Signal Processing Letters*, vol. 27, pp. 1700-1704, 2020 [[PDF]](https://arxiv.org/pdf/2001.05532) [[CODE]](https://github.com/pquochuy/idsegan)
 
 P. Koch, M. Dreier, M. Maass, **H. Phan**, and A. Mertins. ___RNN with Stacked Architecture for sEMG based Sequence-to-Sequence Hand Gesture Recognition___.  *28th European Signal Processing Conference (EUSIPCO 2020)*, 2020
-
-**H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2020 [[PDF]](https://arxiv.org/pdf/1907.13177.pdf) [[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
 
 L. Pham, I. McLoughlin, **H. Phan**, M. Tran, T. Nguyen, R. Palaniappan. ___Robust Deep Learning Framework For Predicting Respiratory Anomalies and Diseases___. *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2002.03894.pdf)
 
