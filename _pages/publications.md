@@ -36,6 +36,10 @@ T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. 
 
 **H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
 
+V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, vol. 69, no. 9, pp. 3617-3622, 2021 [[PDF]](https://ieeexplore.ieee.org/document/9263367)
+
+N. Banluesombatkul, P. Ouppaphan, P. Leelaarporn, P. Lakhan, B. Chaitusaney, N. Jaimchariyatam, E. Chuangsuwanich, W. Chen, **H. Phan**, N. Dilokthanakul, T. Wilaiprasitporn. ___MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 25, no. 6, pp. 1949-1963, 2021 [[PDF]](https://arxiv.org/abs/2004.04157)
+
 L. Pham, **H. Phan**, R. Palaniappan, A. Mertins, I. McLoughlin. ___CNN-MoE based framework for classification of respiratory anomalies and lung disease detection___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2021 [[Preprint]](https://arxiv.org/pdf/2004.04072.pdf) [[PDF]](https://ieeexplore.ieee.org/document/9372748)
 
 **H. Phan**, O. Y. Chén, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. De Vos. ___Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning___. *IEEE Transactions on Biomedical Engineering (TBME)*, vol. 68, no. 6, pp. 1787-1798, 2021 [[Preprint]](https://arxiv.org/abs/1907.13177)[[PDF]](https://arxiv.org/pdf/1907.13177.pdf)[[CODE]](https://github.com/pquochuy/sleep_transfer_learning)
@@ -46,10 +50,6 @@ O. Y. Chén, H. Cao, **H. Phan**, G. Nagels, J. M. Reinen, J. Gou, T. Qian, J. D
 
 2020
 ------
-
-V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, 2020 [[PDF]](https://ieeexplore.ieee.org/document/9263367)
-
-N. Banluesombatkul, P. Ouppaphan, P. Leelaarporn, P. Lakhan, B. Chaitusaney, N. Jaimchariyatam, E. Chuangsuwanich, W. Chen, **H. Phan**, N. Dilokthanakul, T. Wilaiprasitporn. ___MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2020 [[PDF]](https://arxiv.org/abs/2004.04157)
 
 **H. Phan**, L. Pham, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___On Multitask Loss Function for Audio Event Detection and Localization___. *5th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2020)*, 2020 [[PDF]](https://arxiv.org/pdf/2009.05527)
 
