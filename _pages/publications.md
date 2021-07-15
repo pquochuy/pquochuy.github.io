@@ -23,10 +23,11 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
-L. Pham, **H. Phan**, R. King, A. Mertins, I. McLoughlin. ___Inception-Based Network and Multi-Spectrogram Ensemble Applied For Predicting Respiratory Anomalies and Lung Diseases___. *arXiv preprint arXiv:2012.13699*, 2020 [[PDF]](https://arxiv.org/pdf/2012.13699.pdf)
-
 2021
 ------
+P. Koch, K. Mohammad-Zadeh, M. Maass, M. Dreier, O. Thomsen, T. J. Parbs, **H. Phan**, and A. Mertins. ___sEMG-Based Hand Movement Regression via Prediction of Joint Angles___. *Proc. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
+
+L. Pham, **H. Phan**, A. Schindler, R. King, A. Mertins, and I. McLoughlin. ___Inception-Based Network and Multi-Spectrogram Ensemble Applied to Predicting Respiratory Anomalies and Lung Diseases___. *Proc. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2021 [[PDF]](https://arxiv.org/pdf/2012.13699.pdf)<br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, H. L. Nguyen, O. Y. Chén, L. Pham, P. Koch, I. McLoughlin, and A. Mertins. ___Multi-view Audio and Music Classification___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/pdf/2103.02420.pdf)
 
