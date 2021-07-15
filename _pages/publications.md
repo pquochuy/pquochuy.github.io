@@ -79,7 +79,7 @@ event classification___. *Circuits, Systems, and Signal Processing (CSSP)*: 39(3
 ------
 
 **H. Phan**, F. Andreotti, N. Cooray, O. Y. Chén, and M. De Vos. ___SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*: 27(3), pp. 400-410, 2019
-[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)<br/><span style="color:red">*(IEEE-EMBS Best Paper Award 2019-2020)*</span><span style="color:red">*(Featured in the published issue: [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672791))*</span>
+[[PDF]](https://arxiv.org/abs/1809.10932)[[CODE]](https://github.com/pquochuy/SeqSleepNet)<br/><span style="color:red">*(IEEE-EMBS Best Paper Award 2019-2020)*</span><span style="color:red">*(Cover featured in the published issue: [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672791))*</span>
 
 **H. Phan**, O. Y. Chén, L. Pham, P. Koch, M. De Vos, I. McLoughlin, and A. Mertins. ___Spatio-Temporal Attention Pooling for Audio Scene Classification___. *20th Annual Conference of the International Speech Communication Association (INTERSPEECH)*, 2019 [[PDF]](https://arxiv.org/pdf/1904.03543)
 
