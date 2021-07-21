@@ -6,6 +6,15 @@ author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
+External Examiner
+------
+* __Iris Kyranou__, Multi-modal upper limb classification control, PhD thesis, Heriot Watt University, 2021
+* __Phairot Autthasan__, MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification, PhD thesis proposal, Vidyasirimedhi Institute of Science and Technology (VISTEC), 2021
+
+Editor
+------
+* __Review Editor__, Frontiers in Signal Processing
+
 Journal Review
 ------
 * IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
@@ -15,7 +24,10 @@ Journal Review
 * IEEE Signal Processing Letters (SPL)
 * IEEE Access
 * IEEE Transactions on Emerging Topics in Computing (TETC)
+* The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+* ACM Transactions on Internet Technology (TOIT)
 * Nature Scientific Reports
+* pnj Digital Medicine
 * Speech Communication
 * PLOS ONE
 * SLEEP
