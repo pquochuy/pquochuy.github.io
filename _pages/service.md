@@ -14,6 +14,13 @@ External Examiner
 Editor
 ------
 * __Review Editor__, Frontiers in Signal Processing
+* __Guest Editor__, Frontiers in Computer Science
+
+Committee Membership
+------
+* __Associate member__, Technical Area Committee (TAC) in Biomedical Image & Signal Analytics, European Association for Signal Processing (EURASIP), 2021-2022
+* __Member__, Technical Program Committee, Annual Conference of the International Speech Communication
+Association (Interspeech), 2018-2021
 
 Journal Review
 ------
@@ -60,7 +67,7 @@ Technical Committee
 * INTERSPEECH 2019
 * INTERSPEECH 2018
 
-Session Chair/Co-Chair
+Session (Co-)Chair
 ------
 * EMBC 2018
 
