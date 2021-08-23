@@ -8,6 +8,9 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 
 Invited Talks
 ------
+
+* *The International Research Center for Artificial Intelligence, Hanoi University of Science & Technology.* Ha Noi, Vietnam, August 2021
+
 * *Institute of Applied Data Science, Queen Mary University of London.* London, UK, May 2021
 
 * *Advanced Institute of Engineering and Technology (AVITECH), VNU University of Engineering and Technology.* Hanoi, Vietnam. November 2020
