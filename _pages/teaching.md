@@ -24,9 +24,6 @@ Teaching
 
 * **Signal Processing**<br/>*Institute for Signal Processing, University of Lübeck*<br/>TA: Graduate course (Fall 2014, Fall 2015, Fall 2016)
 
-Supervised Thesis
-------
-* Momen Al Msalma. ___Methods for acoustic cough counting___. *Master Thesis, University of Lübeck*, 2017 (in German)
 
 {% include base_path %}
 
