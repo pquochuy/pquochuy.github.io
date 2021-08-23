@@ -32,7 +32,7 @@ My CV is available [here](https://drive.google.com/file/d/1AyTmzsFhJ4Rm789YbkaMM
 
 News
 ---
-* **18 Aug 2021:** <span style="color:#B22222">(New)</span> I have been appointed Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) from 1 October 2021.
+* **18 Aug 2021:** <span style="color:#B22222">(New)</span> I have been appointed Turing Fellow by [the Alan Turing Institute](https://www.turing.ac.uk/) in 2021/2022.
 * **25 Mar 2021:** <span style="color:#B22222">(New)</span> XSleepNet paper accepted in IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)
 * **29 Jan 2021:** <span style="color:#B22222">(New)</span> SeqSleepNet paper awarded Benelux's IEEE-EMBS Best Paper Award 2019-20
 * 17 Jun 2019: Two papers accepted for Interspeech 2019
