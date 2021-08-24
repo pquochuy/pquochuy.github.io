@@ -13,11 +13,13 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
-**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *arXiv preprint arXiv:2105.11043* 2021 [[PDF]](https://arxiv.org/abs/2105.11043)
+**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *arXiv preprint arXiv:2108.10211*, 2021 [[PDF]](https://arxiv.org/abs/2108.10211)
 
-K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Light-weight sleep monitoring: electrode distance matters more than placement for automatic scoring___. *arXiv preprint arXiv:2104.04567* 2021 [[PDF]](https://arxiv.org/abs/2104.04567)
+**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *arXiv preprint arXiv:2105.11043*, 2021 [[PDF]](https://arxiv.org/abs/2105.11043)
 
-P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N. Dilokthanakul, G. Bhakdisongkhram, **H. Phan**, C. Guan, and T. Wilaiprasitporn. ___MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification___. *arXiv preprint arXiv:2102.03814* 2021 [[PDF]](https://arxiv.org/abs/2102.03814)
+K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Light-weight sleep monitoring: electrode distance matters more than placement for automatic scoring___. *arXiv preprint arXiv:2104.04567*, 2021 [[PDF]](https://arxiv.org/abs/2104.04567)
+
+P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N. Dilokthanakul, G. Bhakdisongkhram, **H. Phan**, C. Guan, and T. Wilaiprasitporn. ___MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification___. *arXiv preprint arXiv:2102.03814*, 2021 [[PDF]](https://arxiv.org/abs/2102.03814)
 
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
