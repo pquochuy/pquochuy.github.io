@@ -27,6 +27,9 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 
 2021
 ------
+
+T. T. H. Duong, P.-L. Nguyen, H.-S. Nguyen, D.-C. Nguyen, **H. Phan**, N. Q. K. Duong. ___Speaker Count: A new building block for speaker diarization___. *Proc. 3th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
+
 P. Koch, K. Mohammad-Zadeh, M. Maass, M. Dreier, O. Thomsen, T. J. Parbs, **H. Phan**, and A. Mertins. ___sEMG-Based Hand Movement Regression via Prediction of Joint Angles___. *Proc. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
 
 L. Pham, **H. Phan**, A. Schindler, R. King, A. Mertins, and I. McLoughlin. ___Inception-Based Network and Multi-Spectrogram Ensemble Applied to Predicting Respiratory Anomalies and Lung Diseases___. *Proc. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2021 [[PDF]](https://arxiv.org/pdf/2012.13699.pdf)<br/><span style="color:red">*(accepted)*</span>
