@@ -16,6 +16,7 @@ PhD students
 * ___Inês de Almeida Nolasco___, *Automatic acoustic identification of individual animals in the wild*<br/>QMUL, 2020-present *(jointly with Emmanouil Benetos and Dan Stowell)*
 * ___Iacopo Ginassi___, *Semantic understanding of TV programme content and structure to enable automatic enhancement and adjustment*<br/>QMUL, 2020-present *(jointly with Matthew Purver)*
 * ___Harnick Khera___, *Informed source separation for multi-mic production*<br/>QMUL, 2020-present *(jointly with Mark Sandler)*
+* ___Nhan Nguyen___, *Detecting attended auditory events using ear-EEG: a new approach to auditory attention decoding*<br/>Aarhus University, 2021-present *(jointly with Preben Kidmose and Kaare Mikkelsen)*
 
 MSc students
 ------
