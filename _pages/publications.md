@@ -13,6 +13,10 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging: Recent Development, Challenges, and Future Directions___. *arXiv preprint*, 2021 [[PDF]]()
+
+M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *arXiv preprint arXiv:2110.09605*, 2021 [[PDF]](https://arxiv.org/abs/2110.09605)
+
 **H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *arXiv preprint arXiv:2108.10211*, 2021 [[PDF]](https://arxiv.org/abs/2108.10211)
 
 **H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *arXiv preprint arXiv:2105.11043*, 2021 [[PDF]](https://arxiv.org/abs/2105.11043)
@@ -26,7 +30,7 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2021
 ------
 
-K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Sleep monitoring using ear-centered setups: Investigating the influence from electrode configurations___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2021 [[PDF]](https://arxiv.org/abs/2104.04567)<br/>(arXiv preprint title: *Light-weight sleep monitoring: electrode distance matters more than placement for automatic scoring*)<br/><span style="color:red">*(accepted)*</span>
+K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Sleep monitoring using ear-centered setups: Investigating the influence from electrode configurations___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2021 [[Preprint]](https://arxiv.org/abs/2104.04567) [[PDF]](https://ieeexplore.ieee.org/document/9552560/)<br/>(arXiv preprint title: *Light-weight sleep monitoring: electrode distance matters more than placement for automatic scoring*)
 
 T. T. H. Duong, P.-L. Nguyen, H.-S. Nguyen, D.-C. Nguyen, **H. Phan**, N. Q. K. Duong. ___Speaker Count: A new building block for speaker diarization___. *Proc. 3th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
 
