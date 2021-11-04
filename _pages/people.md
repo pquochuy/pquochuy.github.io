@@ -9,6 +9,9 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 PhD students
 ------
 
+* ___Jinhua Liang___, *AI for everyday sounds*<br/>QMUL, 2021-present *(jointly with Emmanouil Benetos)*
+* ___Christoper Winnard___, *Music interestingness in the brain*<br/>QMUL, 2021-present *(jointly with Kaare Mikkelsen and Preben Kidmose)*
+* ___Bleiz Del Sette___, *Sound and deep learning for management of chronic pain condition*<br/>QMUL, 2021-present *(jointly with Charis Saitis)*
 * ___Shubhr Singh___, *Audio applications of novel mathematical methods in deep learning*<br/>QMUL, 2020-present *(jointly with Emmanouil Benetos and Dan Stowell)*
 * ___Marco Comunità___, *Machine learning applied to sound synthesis models*<br/>QMUL, 2020-present *(jointly with Joshua Reiss)*
 * ___Christian Steinmetz___, *End-to-end generative modeling of multitrack mixing with non-parallel data and adversarial networks*<br/>QMUL, 2020-present *(jointly with Joshua Reiss)*
