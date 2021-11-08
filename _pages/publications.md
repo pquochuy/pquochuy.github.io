@@ -30,13 +30,15 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2021
 ------
 
-K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Sleep monitoring using ear-centered setups: Investigating the influence from electrode configurations___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2021 [[Preprint]](https://arxiv.org/abs/2104.04567) [[PDF]](https://ieeexplore.ieee.org/document/9552560/)<br/>(arXiv preprint title: *Light-weight sleep monitoring: electrode distance matters more than placement for automatic scoring*)
-
 T. T. H. Duong, P.-L. Nguyen, H.-S. Nguyen, D.-C. Nguyen, **H. Phan**, N. Q. K. Duong. ___Speaker Count: A new building block for speaker diarization___. *Proc. 3th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
 
-P. Koch, K. Mohammad-Zadeh, M. Maass, M. Dreier, O. Thomsen, T. J. Parbs, **H. Phan**, and A. Mertins. ___sEMG-Based Hand Movement Regression via Prediction of Joint Angles___. *Proc. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
+O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
 
-L. Pham, **H. Phan**, A. Schindler, R. King, A. Mertins, and I. McLoughlin. ___Inception-Based Network and Multi-Spectrogram Ensemble Applied to Predicting Respiratory Anomalies and Lung Diseases___. *Proc. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2021 [[PDF]](https://arxiv.org/pdf/2012.13699.pdf)<br/><span style="color:red">*(accepted)*</span>
+K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Sleep monitoring using ear-centered setups: Investigating the influence from electrode configurations___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2021 [[Preprint]](https://arxiv.org/abs/2104.04567) [[PDF]](https://ieeexplore.ieee.org/document/9552560/)<br/>(arXiv preprint title: *Light-weight sleep monitoring: electrode distance matters more than placement for automatic scoring*)
+
+P. Koch, K. Mohammad-Zadeh, M. Maass, M. Dreier, O. Thomsen, T. J. Parbs, **H. Phan**, and A. Mertins. ___sEMG-Based Hand Movement Regression via Prediction of Joint Angles___. *Proc. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2021 [[PDF]]()
+
+L. Pham, **H. Phan**, A. Schindler, R. King, A. Mertins, and I. McLoughlin. ___Inception-Based Network and Multi-Spectrogram Ensemble Applied to Predicting Respiratory Anomalies and Lung Diseases___. *Proc. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 2021 [[PDF]](https://arxiv.org/pdf/2012.13699.pdf)
 
 **H. Phan**, H. L. Nguyen, O. Y. Chén, L. Pham, P. Koch, I. McLoughlin, and A. Mertins. ___Multi-view Audio and Music Classification___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/pdf/2103.02420.pdf)
 
