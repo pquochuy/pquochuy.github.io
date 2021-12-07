@@ -14,19 +14,8 @@ google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 <span style="color:red">**PhD opportunity**</span> in deep learning for joint audio and ear-EEG processing, working with [Preben Kidmose](https://eng.au.dk/en/research/research-programs-and-centres/center-for-ear-eeg/), [Kaare Mikkelsen](https://eng.au.dk/en/research/research-programs-and-centres/center-for-ear-eeg/) and myself. This position is based in Aarhus University. More detail can be found [HERE](https://eng.au.dk/fileadmin/DJF/ENG/Billeder/ECE/CenterforEarEEG/PhDPosition2_DeepLearningForJointProcessingOfAudioAndEEGSignals.pdf). <span style="color:red">* The position has been filled. *</span>
 <br/>
 -->
-<span style="color:red">**PhD opportunities**</span>: I am looking for three self-motivated students for full PhD scholarships in Computer Science, two [China Scholarship Council (CSC) Scholarships](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html) and one [UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM) scholarship](https://www.aim.qmul.ac.uk/apply/), working on the following topics:
-* Multitask modelling for overlapping sound sources (AIM), **deadline 31st January 2022**
-* Personalized scientific-grading sleep monitoring in home environments (CSC), **deadline 31st March 2022**
-* Discourse structure recognition for broadcast summarisation (CSC, jointly working with [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/)), **deadline 31st March 2022**
-
-Please visit [HERE](http://machine-listening.eecs.qmul.ac.uk/2021/12/call-for-phd-applications-at-the-machine-listening-lab-2/) for the description of the projects. If you are interested in applying, please get in touch with me via email. 
 <br/>
-For more PhD opportunities at the Machine Listening lab, please visit [HERE](http://machine-listening.eecs.qmul.ac.uk/2021/12/call-for-phd-applications-at-the-machine-listening-lab-2/)
-<br/>
-For More PhD opportunities at AIM CDT, please visit [HERE](https://www.aim.qmul.ac.uk/apply/)
-<br/>
-<br/>
-I am a Lecturer (roughly equivalent to Assistant Professor) in Artificial Intelligence at the [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/) (UK). I am a Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) (UK) and an Academic Fellow at the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/), QMUL in 2021/2022. I co-lead [the Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/) at [the Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/), QMUL. 
+I am a Lecturer (roughly equivalent to Assistant Professor) in Artificial Intelligence at the [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/) (UK). I am also a Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) (UK) and an Academic Fellow at the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/), QMUL in 2021/2022. I co-lead [the Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/) at [the Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/), QMUL. 
 <br/>
 <br/>
 Before I was a Lecturer at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK) and a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/) (UK), working with [Prof. Maarten De Vos](https://cibim.eng.ox.ac.uk/). I obtained my PhD (Dr.-Ing. in German system) with summa cum laude in the [Institute for Signal Processing](https://www.isip.uni-luebeck.de/), [University of Lübeck](https://www.uni-luebeck.de/) (Germany) under the supervision of [Prof. Alfred Mertins](https://www.isip.uni-luebeck.de/people/alfred-mertins.html). I received the [Bernd Fischer Award](https://www.uni-luebeck.de/en/graduation/graduate-service/doctoral-awards/professor-bernd-fischer-preis-mint.html) for the best PhD thesis from the University of Lübeck. In 2021, I was awarded Benelux's IEEE-EMBS Best Paper Award 2019-20.
@@ -43,6 +32,23 @@ My research interests include machine learning and signal processing with applic
 <br/>
 <br/>
 My CV is available [here](https://drive.google.com/file/d/1AyTmzsFhJ4Rm789YbkaMMZxDsHWe32X2/view?usp=sharing).
+
+<br/>
+<br/>
+
+<span style="color:red">**PhD opportunities**</span>
+---
+I am looking for three self-motivated students for full PhD scholarships in Computer Science, two [China Scholarship Council (CSC) Scholarships](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html) and one [UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM) scholarship](https://www.aim.qmul.ac.uk/apply/), working on the following topics:
+* Multitask modelling for overlapping sound sources (AIM), **deadline 31st January 2022**
+* Personalized scientific-grading sleep monitoring in home environments (CSC), **deadline 31st March 2022**
+* Discourse structure recognition for broadcast summarisation (CSC, jointly working with [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/)), **deadline 31st March 2022**
+
+Please visit [HERE](http://machine-listening.eecs.qmul.ac.uk/2021/12/call-for-phd-applications-at-the-machine-listening-lab-2/) for the description of the projects. If you are interested in applying, please get in touch with me via email. 
+<br/>
+For more PhD opportunities at the Machine Listening lab, please visit [HERE](http://machine-listening.eecs.qmul.ac.uk/2021/12/call-for-phd-applications-at-the-machine-listening-lab-2/)
+<br/>
+For More PhD opportunities at AIM CDT, please visit [HERE](https://www.aim.qmul.ac.uk/apply/)
+<br/>
 
 News
 ---
