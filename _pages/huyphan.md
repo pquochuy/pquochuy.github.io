@@ -32,16 +32,14 @@ My research interests include machine learning and signal processing with applic
 <br/>
 <br/>
 My CV is available [here](https://drive.google.com/file/d/1AyTmzsFhJ4Rm789YbkaMMZxDsHWe32X2/view?usp=sharing).
-
-<br/>
 <br/>
 
-<span style="color:red">**PhD opportunities**</span>
+<span style="color:#B22222">**PhD opportunities**</span>
 ---
 I am looking for three self-motivated students for full PhD scholarships in Computer Science, two [China Scholarship Council (CSC) Scholarships](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html) and one [UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM) scholarship](https://www.aim.qmul.ac.uk/apply/), working on the following topics:
-* Multitask modelling for overlapping sound sources (AIM), **deadline 31st January 2022**
-* Personalized scientific-grading sleep monitoring in home environments (CSC), **deadline 31st March 2022**
-* Discourse structure recognition for broadcast summarisation (CSC, jointly working with [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/)), **deadline 31st March 2022**
+* Multitask modelling for overlapping sound sources (AIM), <span style="color:#B22222">deadline 31st January 2022</span>
+* Personalized scientific-grading sleep monitoring in home environments (CSC), <span style="color:#B22222">deadline 31st March 2022</span>
+* Discourse structure recognition for broadcast summarisation (CSC, jointly working with [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/)), <span style="color:#B22222">deadline 31st March 2022</span>
 
 Please visit [HERE](http://machine-listening.eecs.qmul.ac.uk/2021/12/call-for-phd-applications-at-the-machine-listening-lab-2/) for the description of the projects. If you are interested in applying, please get in touch with me via email. 
 <br/>
