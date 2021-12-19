@@ -50,6 +50,7 @@ For More PhD opportunities at AIM CDT, please visit [HERE](https://www.aim.qmul.
 
 News
 ---
+* **17 Dec 2021:** <span style="color:#B22222">(New)</span> I have been elected as member in the Technical Area Committee (TAC) in Biomedical Image & Signal Analytics (BISA), the European Association for Signal Processing (EURASIP), term 2022-2024.
 * **18 Aug 2021:** <span style="color:#B22222">(New)</span> I have been appointed Turing Fellow by [the Alan Turing Institute](https://www.turing.ac.uk/) in 2021/2022.
 * **25 Mar 2021:** <span style="color:#B22222">(New)</span> XSleepNet paper accepted in IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)
 * **29 Jan 2021:** <span style="color:#B22222">(New)</span> SeqSleepNet paper awarded Benelux's IEEE-EMBS Best Paper Award 2019-20
