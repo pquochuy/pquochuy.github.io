@@ -13,7 +13,9 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
-**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging: Recent Development, Challenges, and Future Directions___. *arXiv preprint*, 2021 [[PDF]]()
+E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *arXiv preprint arXiv:2201.00644*, 2021 [[PDF]](https://arxiv.org/pdf/2201.00644.pdf)
+
+**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging: Recent Development, Challenges, and Future Directions___. *arXiv preprint arXiv:2111.08446*, 2021 [[PDF]](https://arxiv.org/pdf/2111.08446.pdf)
 
 M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *arXiv preprint arXiv:2110.09605*, 2021 [[PDF]](https://arxiv.org/abs/2110.09605)
 
