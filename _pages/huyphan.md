@@ -50,35 +50,10 @@ For More PhD opportunities at AIM CDT, please visit [HERE](https://www.aim.qmul.
 
 News
 ---
+* **21 Jan 2022:** <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2022.
 * **17 Dec 2021:** <span style="color:#B22222">(New)</span> I have been elected as member in the Technical Area Committee (TAC) in Biomedical Image & Signal Analytics (BISA), the European Association for Signal Processing (EURASIP), term 2022-2024.
-* **18 Aug 2021:** <span style="color:#B22222">(New)</span> I have been appointed Turing Fellow by [the Alan Turing Institute](https://www.turing.ac.uk/) in 2021/2022.
-* **25 Mar 2021:** <span style="color:#B22222">(New)</span> XSleepNet paper accepted in IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)
-* **29 Jan 2021:** <span style="color:#B22222">(New)</span> SeqSleepNet paper awarded Benelux's IEEE-EMBS Best Paper Award 2019-20
-* 17 Jun 2019: Two papers accepted for Interspeech 2019
-* 04 Jun 2019: Two papers accepted for EUSIPCO 2019
-* 10 Apr 2019: Two papers accepted for EMBC 2019
-* 03 Apr 2019: Two papers accepted for 2019 AES Conf. Audio Forensics
-* 11 Feb 2019: Work on "Resting-state brain information flow predicts cognitive flexibility in humans" accepted for  Nature Scientific Reports. Congrat~ O. Y. Chén
-* 01 Feb 2019: Two papers accepted for ICASSP 2019
-* 28 Jan 2019: Our work [SeqSleepNet](https://arxiv.org/abs/1809.10932) accepted to be published in IEEE Trans. Neural Systems and Rehabilitation Engineering (TNSRE). Source code available [here](https://github.com/pquochuy/SeqSleepNet)
-* 01 Jan 2019: I am now a Lecturer in the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK)
-* 14 Nov 2018: Received the Bernd Fischer award. News about the University of Lübeck's 2018 Awards online [here](https://www.uni-luebeck.de/aktuelles/nachricht/artikel/die-preise-der-universitaet-2018.html) and [here](http://www.ln-online.de/Lokales/Luebeck/Luebecker-Universitaet-vergibt-Wissenschaftspreis-an-Nachwuchsforscher)
-* 06 Nov 2018: New preprint on [Unifying Isolated and Overlapping Audio Event Detection](https://arxiv.org/pdf/1811.01092) available on arXiv.
-* 06 Nov 2018: New preprint, [Beyond Equal-Length Snippets: How Long is Sufficient to Recognize an Audio Scene?](https://arxiv.org/pdf/1811.01095), available on arXiv.
-* 01 Oct 2018: Our work, [SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for
-  Sequence-to-Sequence Automatic Sleep Staging](https://arxiv.org/abs/1809.10932), available on arXiv. Source code will be available shortly [here](https://github.com/pquochuy/SeqSleepNet)
-* 22 Sept 2018: Our [preprint](http://arxiv.org/abs/1805.06546) on automatic sleep staging accepted to be published in IEEE Trans. Biomedical Engineering (TBME).
-* 31 Aug 2018: Awarded the Bernd Fisher award, University of Lübeck, for best PhD thesis
-* 31 Aug 2018: [MultitaskSleepNet](https://github.com/pquochuy/MultitaskSleepNet) source code for automatic sleep staging available
-* 31 Aug 2018: New version of our [recent work](http://arxiv.org/abs/1805.06546) on automatic sleep staging available
-* 16 May 2018: Preprint of our [recent work](http://arxiv.org/abs/1805.06546) on automatic sleep staging available in arXiv
-* 04 May 2018: My PhD thesis approved for "summa cum laude"
-* 03 May 2018: I will serve as a session co-chair at EMBC 2018
-* 08 Apr 2018: Four papers accepted for EMBC 2018
-* 31 Jan 2018: Giving a talk on "Temporal Structure Modelling for Audio Event Detection" at Univesity of Kent (Medway)
-* 29 Jan 2018: Two papers accepted for ICASSP 2018
-* 16 Oct 2017: Joining the University of Oxford as a postdoctoral researcher
-* 23 Aug 2017: Successfully defending my PhD thesis, entitled "Audio Event Detection, Classification, and Beyond"
-* 02 Dec 2016: Giving a talk on "Some Perspectives on Audio Event Detection" at TU Dortmund
-* 18 Jul 2016: Released [Matlab code](https://github.com/pquochuy/regression_forest) for random regression forests
+* 18 Aug 2021: <span style="color:#B22222">(New)</span> I have been appointed Turing Fellow by [the Alan Turing Institute](https://www.turing.ac.uk/) in 2021/2022.
+* 25 Mar 2021: <span style="color:#B22222">(New)</span> XSleepNet paper accepted in IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)
+* 29 Jan 2021: <span style="color:#B22222">(New)</span> SeqSleepNet paper awarded Benelux's IEEE-EMBS Best Paper Award 2019-20
+
 

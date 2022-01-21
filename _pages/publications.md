@@ -27,6 +27,15 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
+2022
+------
+
+**H. Phan**, T. N. T. Nguyen, P. Koch, A. Mertins. ___Polyphonic audio event detection: multi-label or multi-class classification problem?___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022
+<br/><span style="color:red">*(accepted)*</span>
+
+T. N. T. Nguyen, D. L. Jones, K. N. Watcharasupat, **H. Phan**, W.-S. Gan. ___SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022 [[PDF]](https://arxiv.org/abs/2111.08192)
+<br/><span style="color:red">*(accepted)*</span>
+
 2021
 ------
 
