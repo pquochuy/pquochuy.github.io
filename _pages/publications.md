@@ -21,8 +21,6 @@ M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound E
 
 **H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *arXiv preprint arXiv:2108.10211*, 2021 [[PDF]](https://arxiv.org/abs/2108.10211)
 
-**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *arXiv preprint arXiv:2105.11043*, 2021 [[PDF]](https://arxiv.org/abs/2105.11043)
-
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
@@ -30,10 +28,13 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2022
 ------
 
-**H. Phan**, T. N. T. Nguyen, P. Koch, A. Mertins. ___Polyphonic audio event detection: multi-label or multi-class classification problem?___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022
+**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043)
 <br/><span style="color:red">*(accepted)*</span>
 
-T. N. T. Nguyen, D. L. Jones, K. N. Watcharasupat, **H. Phan**, W.-S. Gan. ___SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022 [[PDF]](https://arxiv.org/abs/2111.08192)
+**H. Phan**, T. N. T. Nguyen, P. Koch, A. Mertins. ___Polyphonic audio event detection: multi-label or multi-class classification problem?___. *Proc. 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022
+<br/><span style="color:red">*(accepted)*</span>
+
+T. N. T. Nguyen, D. L. Jones, K. N. Watcharasupat, **H. Phan**, W.-S. Gan. ___SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays___. *Proc. 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022 [[PDF]](https://arxiv.org/abs/2111.08192)
 <br/><span style="color:red">*(accepted)*</span>
 
 2021
@@ -42,9 +43,9 @@ T. N. T. Nguyen, D. L. Jones, K. N. Watcharasupat, **H. Phan**, W.-S. Gan. ___SA
 P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N. Dilokthanakul, G. Bhakdisongkhram, **H. Phan**, C. Guan, and T. Wilaiprasitporn. ___MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification___. *IEEE Transactions on Biomedical Engineering*, 2021 [[Preprint]](https://arxiv.org/abs/2102.03814)
 <br/><span style="color:red">*(accepted)*</span>
 
-T. T. H. Duong, P.-L. Nguyen, H.-S. Nguyen, D.-C. Nguyen, **H. Phan**, N. Q. K. Duong. ___Speaker Count: A new building block for speaker diarization___. *Proc. 3th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
-
 O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
+
+T. T. H. Duong, P.-L. Nguyen, H.-S. Nguyen, D.-C. Nguyen, **H. Phan**, N. Q. K. Duong. ___Speaker Count: A new building block for speaker diarization___. *Proc. 3th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, 2021 [[PDF]](https://www.researchgate.net/publication/357634590_Speaker_count_a_new_building_block_for_speaker_diarization)
 
 K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Sleep monitoring using ear-centered setups: Investigating the influence from electrode configurations___. *IEEE Transactions on Biomedical Engineering (TBME)*, 2021 [[Preprint]](https://arxiv.org/abs/2104.04567) [[PDF]](https://ieeexplore.ieee.org/document/9552560/)<br/>(arXiv preprint title: *Light-weight sleep monitoring: electrode distance matters more than placement for automatic scoring*)
 
