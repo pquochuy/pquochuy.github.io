@@ -15,11 +15,9 @@ Preprint(s)
 
 E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *arXiv preprint arXiv:2201.00644*, 2021 [[PDF]](https://arxiv.org/pdf/2201.00644.pdf)
 
-**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging: Recent Development, Challenges, and Future Directions___. *arXiv preprint arXiv:2111.08446*, 2021 [[PDF]](https://arxiv.org/pdf/2111.08446.pdf)
+**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging of EEG Signals: Recent Development, Challenges, and Future Directions___. *arXiv preprint arXiv:2111.08446*, 2021 [[PDF]](https://arxiv.org/pdf/2111.08446.pdf)
 
-M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *arXiv preprint arXiv:2110.09605*, 2021 [[PDF]](https://arxiv.org/abs/2110.09605)
-
-**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *arXiv preprint arXiv:2108.10211*, 2021 [[PDF]](https://arxiv.org/abs/2108.10211)
+**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: Deep Learning Ensemble Improves Accuracy and Reduces Predictive Uncertainty___. *arXiv preprint arXiv:2108.10211*, 2021 [[PDF]](https://arxiv.org/abs/2108.10211)
 
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
@@ -28,7 +26,7 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2022
 ------
 
-**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043)
+M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *152nd International Audio Engineering Convention*, 2022 [[PDF]](https://arxiv.org/abs/2110.09605)
 <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, T. N. T. Nguyen, P. Koch, A. Mertins. ___Polyphonic audio event detection: multi-label or multi-class classification problem?___. *Proc. 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022
@@ -36,6 +34,8 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 
 T. N. T. Nguyen, D. L. Jones, K. N. Watcharasupat, **H. Phan**, W.-S. Gan. ___SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays___. *Proc. 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022 [[PDF]](https://arxiv.org/abs/2111.08192)
 <br/><span style="color:red">*(accepted)*</span>
+
+**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043)
 
 2021
 ------
