@@ -15,8 +15,6 @@ Preprint(s)
 
 E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *arXiv preprint arXiv:2201.00644*, 2021 [[PDF]](https://arxiv.org/pdf/2201.00644.pdf)
 
-**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging of EEG Signals: Recent Development, Challenges, and Future Directions___. *arXiv preprint arXiv:2111.08446*, 2021 [[PDF]](https://arxiv.org/pdf/2111.08446.pdf)
-
 **H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: Deep Learning Ensemble Improves Accuracy and Reduces Predictive Uncertainty___. *arXiv preprint arXiv:2108.10211*, 2021 [[PDF]](https://arxiv.org/abs/2108.10211)
 
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
@@ -25,6 +23,9 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 
 2022
 ------
+
+**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging of EEG Signals: Recent Development, Challenges, and Future Directions___. *Physiological Measurement (Topical Review)*, 2022 [[PDF]](https://arxiv.org/pdf/2111.08446.pdf)
+<br/><span style="color:red">*(accepted)*</span>
 
 M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *152nd International Audio Engineering Convention*, 2022 [[PDF]](https://arxiv.org/abs/2110.09605)
 <br/><span style="color:red">*(accepted)*</span>
