@@ -24,7 +24,10 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2022
 ------
 
-**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging of EEG Signals: Recent Development, Challenges, and Future Directions___. *Physiological Measurement (Topical Review)*, 2022 [[PDF]](https://arxiv.org/pdf/2111.08446.pdf)
+**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging of EEG Signals: Recent Development, Challenges, and Future Directions___. *Physiological Measurement (Topical Review)*, 2022 [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6579/ac6049/pdf)
+<br/><span style="color:red">*(accepted)*</span>
+
+V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, T. Marsault . ___Deep learning based higher-order approximation for multiple knife edge diffraction___. *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2022 [[PDF]]
 <br/><span style="color:red">*(accepted)*</span>
 
 M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *152nd International Audio Engineering Convention*, 2022 [[PDF]](https://arxiv.org/abs/2110.09605)
@@ -42,7 +45,6 @@ T. N. T. Nguyen, D. L. Jones, K. N. Watcharasupat, **H. Phan**, W.-S. Gan. ___SA
 ------
 
 P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N. Dilokthanakul, G. Bhakdisongkhram, **H. Phan**, C. Guan, and T. Wilaiprasitporn. ___MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification___. *IEEE Transactions on Biomedical Engineering*, 2021 [[Preprint]](https://arxiv.org/abs/2102.03814)
-<br/><span style="color:red">*(accepted)*</span>
 
 O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
 
