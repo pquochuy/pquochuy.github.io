@@ -27,7 +27,7 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 E. R. M. Heremans, **H. Phan**, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___From unsupervised to semi-supervised adversarial domain adaptation in EEG-based sleep staging___. *Journal of Neural Engineering*, 2022
 <br/><span style="color:red">*(accepted)*</span>
 
-V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, T. Marsault . ___Deep learning based higher-order approximation for multiple knife edge diffraction___. *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2022 [[PDF]]
+V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, T. Marsault. ___Deep learning based higher-order approximation for multiple knife edge diffraction___. *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2022 [[PDF]]
 <br/><span style="color:red">*(accepted)*</span>
 
 M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *152nd International Audio Engineering Convention*, 2022 [[PDF]](https://arxiv.org/abs/2110.09605)
