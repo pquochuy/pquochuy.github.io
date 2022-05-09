@@ -15,8 +15,6 @@ Preprint(s)
 
 E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *arXiv preprint arXiv:2201.00644*, 2021 [[PDF]](https://arxiv.org/pdf/2201.00644.pdf)
 
-**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: Deep Learning Ensemble Improves Accuracy and Reduces Predictive Uncertainty___. *arXiv preprint arXiv:2108.10211*, 2021 [[PDF]](https://arxiv.org/abs/2108.10211)
-
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
@@ -24,14 +22,15 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2022
 ------
 
-E. R. M. Heremans, **H. Phan**, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___From unsupervised to semi-supervised adversarial domain adaptation in EEG-based sleep staging___. *Journal of Neural Engineering*, 2022
+**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, 2022 [[PDF]][[Preprint]](https://arxiv.org/abs/2108.10211)
 <br/><span style="color:red">*(accepted)*</span>
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, T. Marsault. ___Deep learning based higher-order approximation for multiple knife edge diffraction___. *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2022 [[PDF]]
 <br/><span style="color:red">*(accepted)*</span>
 
-M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *152nd International Audio Engineering Convention*, 2022 [[PDF]](https://arxiv.org/abs/2110.09605)
-<br/><span style="color:red">*(accepted)*</span>
+E. R. M. Heremans, **H. Phan**, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___From unsupervised to semi-supervised adversarial domain adaptation in EEG-based sleep staging___. *Journal of Neural Engineering*, 2022 [[PDF]](https://iopscience.iop.org/article/10.1088/1741-2552/ac6ca8)
+
+M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *152nd International Audio Engineering Convention*, 2022 [[PDF]](https://www.aes.org/e-lib/online/browse.cfm?elib=21696)[[Preprint]](https://arxiv.org/abs/2110.09605)
 
 **H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging of EEG Signals: Recent Development, Challenges, and Future Directions___. *Physiological Measurement (Topical Review)*, 2022 [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6579/ac6049/pdf)
 
