@@ -22,11 +22,13 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2022
 ------
 
-**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, 2022 [[PDF]]()[[Preprint]](https://arxiv.org/abs/2108.10211)
+S. Singh, **H. Phan**, E. Benetos. ___HyperNetworks for Sound Event Detection: A Proof-Of-Concept___. *30th European Signal Processing Conference (EUSIPCO 2022)*, 2022 [[PDF]]()
 <br/><span style="color:red">*(accepted)*</span>
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, T. Marsault. ___Deep learning based higher-order approximation for multiple knife edge diffraction___. *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2022 [[PDF]]()
 <br/><span style="color:red">*(accepted)*</span>
+
+**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, 2022 [[PDF]](https://ieeexplore.ieee.org/document/9773946)[[Preprint]](https://arxiv.org/abs/2108.10211)
 
 E. R. M. Heremans, **H. Phan**, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___From unsupervised to semi-supervised adversarial domain adaptation in EEG-based sleep staging___. *Journal of Neural Engineering*, 2022 [[PDF]](https://iopscience.iop.org/article/10.1088/1741-2552/ac6ca8)
 
