@@ -13,14 +13,15 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
-E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *arXiv preprint arXiv:2201.00644*, 2021 [[PDF]](https://arxiv.org/pdf/2201.00644.pdf)
-
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
 2022
 ------
+
+E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *Biomedical Signal Processing and Control*, 2022 [[Preprint]](https://arxiv.org/pdf/2201.00644.pdf)
+<br/><span style="color:red">*(accepted)*</span>
 
 S. Singh, **H. Phan**, E. Benetos. ___HyperNetworks for Sound Event Detection: A Proof-Of-Concept___. *30th European Signal Processing Conference (EUSIPCO 2022)*, 2022 [[PDF]]()
 <br/><span style="color:red">*(accepted)*</span>
