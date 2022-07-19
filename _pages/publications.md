@@ -20,6 +20,10 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2022
 ------
 
+E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos. ___Data augmentation in semi-supervised adversarial
+domain adaptation for EEG-based sleep staging___. *IEEE International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022
+<br/><span style="color:red">*(accepted)*</span>
+
 E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *Biomedical Signal Processing and Control*, 2022 [[Preprint]](https://arxiv.org/pdf/2201.00644.pdf)
 <br/><span style="color:red">*(accepted)*</span>
 
