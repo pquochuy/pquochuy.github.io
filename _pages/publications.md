@@ -24,36 +24,36 @@ E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos
 domain adaptation for EEG-based sleep staging___. *IEEE International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022
 <br/><span style="color:red">*(accepted)*</span>
 
-E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *Biomedical Signal Processing and Control*, 2022 [[Preprint]](https://arxiv.org/pdf/2201.00644.pdf)
-<br/><span style="color:red">*(accepted)*</span>
-
 S. Singh, **H. Phan**, E. Benetos. ___HyperNetworks for Sound Event Detection: A Proof-Of-Concept___. *30th European Signal Processing Conference (EUSIPCO 2022)*, 2022 [[PDF]]()
-<br/><span style="color:red">*(accepted)*</span>
-
-V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, T. Marsault. ___Deep learning based higher-order approximation for multiple knife edge diffraction___. *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2022 [[PDF]]()
 <br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, 2022 [[PDF]](https://ieeexplore.ieee.org/document/9773946)[[Preprint]](https://arxiv.org/abs/2108.10211)
 
-E. R. M. Heremans, **H. Phan**, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___From unsupervised to semi-supervised adversarial domain adaptation in EEG-based sleep staging___. *Journal of Neural Engineering*, 2022 [[PDF]](https://iopscience.iop.org/article/10.1088/1741-2552/ac6ca8)
+**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no.8, pp. 2456-2467, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043) [[PDF]](https://ieeexplore.ieee.org/document/9697331)
+
+**H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, vol. 44, no. 9, pp. 5903-5915, 2022 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
+
+V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, T. Marsault. ___Deep learning based higher-order approximation for multiple knife edge diffraction___. *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2022 [[PDF]]()
+
+E. R. M. Heremans, **H. Phan**, A. H. Ansari, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___Feature matching as improved transfer learning technique for wearable EEG___. *Biomedical Signal Processing and Control*, vol. 78, article ID 1040092022, 2022 [[Preprint]](https://arxiv.org/pdf/2201.00644.pdf)[[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809422004839)
+
+E. R. M. Heremans, **H. Phan**, P. Borzée, B. Buyse, D. Testelmans, M. De Vos. ___From unsupervised to semi-supervised adversarial domain adaptation in EEG-based sleep staging___. *Journal of Neural Engineering*, vol. 19, article ID 036044, 2022 [[PDF]](https://iopscience.iop.org/article/10.1088/1741-2552/ac6ca8)
 
 M. Comunità, **H. Phan**, J. D. Reiss. ___Neural Synthesis of Footsteps Sound Effects with Generative Adversarial Networks___. *152nd International Audio Engineering Convention*, 2022 [[PDF]](https://www.aes.org/e-lib/online/browse.cfm?elib=21696)[[Preprint]](https://arxiv.org/abs/2110.09605)
 
-**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging of EEG Signals: Recent Development, Challenges, and Future Directions___. *Physiological Measurement (Topical Review)*, 2022 [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6579/ac6049/pdf)
+**H. Phan**, K. Mikkelsen. ___Automatic Sleep Staging of EEG Signals: Recent Development, Challenges, and Future Directions___. *Physiological Measurement (Topical Review)*, vol. 43, article ID 04TR01, 2022 [[PDF]](https://iopscience.iop.org/article/10.1088/1361-6579/ac6049/pdf)
 
-**H. Phan**, T. N. T. Nguyen, P. Koch, A. Mertins. ___Polyphonic audio event detection: multi-label or multi-class classification problem?___. *Proc. 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022 [[Preprint]](https://arxiv.org/abs/2201.12557)
+**H. Phan**, T. N. T. Nguyen, P. Koch, A. Mertins. ___Polyphonic audio event detection: multi-label or multi-class classification problem?___. *Proc. 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 8877-8881, 2022 [[Preprint]](https://arxiv.org/abs/2201.12557) [[PDF]](https://ieeexplore.ieee.org/document/9746402)
 
-T. N. T. Nguyen, D. L. Jones, K. N. Watcharasupat, **H. Phan**, W.-S. Gan. ___SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays___. *Proc. 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2022 [[Preprint]](https://arxiv.org/abs/2111.08192)
+T. N. T. Nguyen, D. L. Jones, K. N. Watcharasupat, **H. Phan**, W.-S. Gan. ___SALSA-Lite: A Fast and Effective Feature for Polyphonic Sound Event Localization and Detection with Microphone Arrays___. *Proc. 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 716-720, 2022 [[Preprint]](https://arxiv.org/abs/2111.08192) [[PDF]](https://ieeexplore.ieee.org/document/9746132)
 
-**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043)
-
-K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Sleep monitoring using ear-centered setups: Investigating the influence from electrode configurations___. *IEEE Transactions on Biomedical Engineering (TBME)*, vol. 69, no. 5, pp. 1564-1572, 2022 [[Preprint]](https://arxiv.org/abs/2104.04567) [[PDF]](https://ieeexplore.ieee.org/document/9552560/)
+K. B. Mikkelsen, **H. Phan**, M. L. Rank, M. C. Hemmsen, M. de Vos, P. Kidmose. ___Sleep monitoring using ear-centered setups: Investigating the influence from electrode configurations___. *IEEE Transactions on Biomedical Engineering (TBME)*, vol. 69, no. 5, pp. 1564-1572, 2022 [[Preprint]](https://arxiv.org/abs/2104.04567)[[PDF]](https://ieeexplore.ieee.org/document/9552560/)
 <br/><span style="color:red">*(Featured Article)*</span>
+
+P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N. Dilokthanakul, G. Bhakdisongkhram, **H. Phan**, C. Guan, and T. Wilaiprasitporn. ___MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no. 6, pp. 2105-2118, 2022 [[Preprint]](https://arxiv.org/abs/2102.03814)[[PDF]](https://ieeexplore.ieee.org/abstract/document/9658165)
 
 2021
 ------
-
-P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N. Dilokthanakul, G. Bhakdisongkhram, **H. Phan**, C. Guan, and T. Wilaiprasitporn. ___MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification___. *IEEE Transactions on Biomedical Engineering*, 2021 [[Preprint]](https://arxiv.org/abs/2102.03814)
 
 O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
 
@@ -68,8 +68,6 @@ L. Pham, **H. Phan**, A. Schindler, R. King, A. Mertins, and I. McLoughlin. ___I
 **H. Phan**, H. L. Nguyen, O. Y. Chén, P. Koch, N. Q. K. Duong, I. McLoughlin, and A. Mertins. ___Self-Attention Generative Adversarial Network for Speech Enhancement___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2010.09132)[[CODE]](https://github.com/pquochuy/sasegan)
 
 T. N. T. Nguyen, N. K. Nguyen, **H. Phan**, L. Pham, K. Ooi, D. L. Jones, W.-S. Gan. ___A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network___. *Proc. 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2021 [[PDF]](https://arxiv.org/abs/2011.07859)[[CODE]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection)
-
-**H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2021 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, and T. Marsault. ___On the proof of recursive Vogler algorithm for multiple knife-edge diffraction___. *IEEE Transactions on Antennas and Propagation (TAP)*, vol. 69, no. 9, pp. 3617-3622, 2021 [[PDF]](https://ieeexplore.ieee.org/document/9263367)
 
