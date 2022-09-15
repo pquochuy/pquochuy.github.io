@@ -20,18 +20,21 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2022
 ------
 
-E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos. ___Data augmentation in semi-supervised adversarial
-domain adaptation for EEG-based sleep staging___. *IEEE International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022
-<br/><span style="color:red">*(accepted)*</span>
+R. Li, J. Liang, **H. Phan**. ___Few-Shot Bioacoustic Event Detection: Enhanced Classifiers for Prototypical Networks___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022<br/><span style="color:red">*(accepted)*</span>
 
-S. Singh, **H. Phan**, E. Benetos. ___HyperNetworks for Sound Event Detection: A Proof-Of-Concept___. *30th European Signal Processing Conference (EUSIPCO 2022)*, 2022 [[PDF]]()
-<br/><span style="color:red">*(accepted)*</span>
+J. Liang, **H. Phan**, E. Benetos. ___Leveraging Label Hierarchies for Few-shot Everyday Sound Recognition___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022<br/><span style="color:red">*(accepted)*</span>
+
+O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, 2022 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
+
+E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos. ___Data augmentation in semi-supervised adversarial domain adaptation for EEG-based sleep staging___. *IEEE International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022 <br/><span style="color:red">*(accepted)*</span>
+
+S. Singh, **H. Phan**, E. Benetos. ___HyperNetworks for Sound Event Detection: A Proof-Of-Concept___. *30th European Signal Processing Conference (EUSIPCO 2022)*, 2022 [[PDF]](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0000429.pdf)
 
 **H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, 2022 [[PDF]](https://ieeexplore.ieee.org/document/9773946)[[Preprint]](https://arxiv.org/abs/2108.10211)
 
 **H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no.8, pp. 2456-2467, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043) [[PDF]](https://ieeexplore.ieee.org/document/9697331)
 
-**H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos.  ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, vol. 44, no. 9, pp. 5903-5915, 2022 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
+**H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos. ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, vol. 44, no. 9, pp. 5903-5915, 2022 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
 
 V.-D. Nguyen, **H. Phan**, A. Mansour, A. Coatanhay, T. Marsault. ___Deep learning based higher-order approximation for multiple knife edge diffraction___. *IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting*, 2022 [[PDF]]()
 
@@ -54,8 +57,6 @@ P. Autthasan, R. Chaisaen, T. Sudhawiyangkul, P. Rangpong, S. Kiatthaveephong, N
 
 2021
 ------
-
-O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, 2021 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
 
 T. T. H. Duong, P.-L. Nguyen, H.-S. Nguyen, D.-C. Nguyen, **H. Phan**, N. Q. K. Duong. ___Speaker Count: A new building block for speaker diarization___. *Proc. 3th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, 2021 [[PDF]](https://www.researchgate.net/publication/357634590_Speaker_count_a_new_building_block_for_speaker_diarization)
 
