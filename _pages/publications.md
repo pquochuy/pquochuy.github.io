@@ -17,16 +17,20 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
+M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box audio effects with time-varying feature modulation___. *arXiv preprint arXiv:2211.00497*, 2022 [[PDF]](https://arxiv.org/pdf/2211.00497.pdf)
+
+O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M. Lindemann, M. de Vos. ___Personalized Longitudinal Assessment of Multiple Sclerosis Using Smartphones___. *arXiv preprint arXiv:2209.09692*, 2022 [[PDF]](https://arxiv.org/pdf/2209.09692.pdf)
+
 2022
 ------
 
-R. Li, J. Liang, **H. Phan**. ___Few-Shot Bioacoustic Event Detection: Enhanced Classifiers for Prototypical Networks___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022<br/><span style="color:red">*(accepted)*</span>
-
-J. Liang, **H. Phan**, E. Benetos. ___Leveraging Label Hierarchies for Few-shot Everyday Sound Recognition___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022<br/><span style="color:red">*(accepted)*</span>
-
 O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, 2022 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
 
-E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos. ___Data augmentation in semi-supervised adversarial domain adaptation for EEG-based sleep staging___. *IEEE International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022 <br/><span style="color:red">*(accepted)*</span>
+R. Li, J. Liang, **H. Phan**. ___Few-Shot Bioacoustic Event Detection: Enhanced Classifiers for Prototypical Networks___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022
+
+J. Liang, **H. Phan**, E. Benetos. ___Leveraging Label Hierarchies for Few-shot Everyday Sound Recognition___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022
+
+E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos. ___Data augmentation in semi-supervised adversarial domain adaptation for EEG-based sleep staging___. *IEEE-EMBS International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022
 
 S. Singh, **H. Phan**, E. Benetos. ___HyperNetworks for Sound Event Detection: A Proof-Of-Concept___. *30th European Signal Processing Conference (EUSIPCO 2022)*, 2022 [[PDF]](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0000429.pdf)
 
