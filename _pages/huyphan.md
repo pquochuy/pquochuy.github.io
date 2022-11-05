@@ -34,6 +34,7 @@ My research interests include machine learning and signal processing with applic
 My CV is available [here](https://drive.google.com/file/d/1AyTmzsFhJ4Rm789YbkaMMZxDsHWe32X2/view?usp=sharing).
 <br/>
 
+<!--- 
 <span style="color:#B22222">**PhD opportunities**</span>
 ---
 I am looking for self-motivated students for three full PhD scholarships in Computer Science, two [China Scholarship Council (CSC) Scholarships](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html) and one [UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM) scholarship](https://www.aim.qmul.ac.uk/apply/), working on the following topics:
@@ -47,6 +48,7 @@ For more PhD opportunities at the Machine Listening lab, please visit [HERE](htt
 <br/>
 For More PhD opportunities at AIM CDT, please visit [HERE](https://www.aim.qmul.ac.uk/apply/)
 <br/>
+-->
 
 News
 ---
