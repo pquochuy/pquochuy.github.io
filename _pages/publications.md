@@ -28,7 +28,7 @@ K. Borup, P. Kidmose, **H. Phan**, K. Mikkelsen. ___Automatic Sleep Scoring usin
 
 **H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no. 12, pp. 3612-3622, 2022 [[PDF]](https://ieeexplore.ieee.org/document/9773946)[[Preprint]](https://arxiv.org/abs/2108.10211)
 
-O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, vol. 13, Article ID 724498, 2022 [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.724498/full)<br/><span style="color:red">*(accepted)*</span>
+O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, vol. 13, Article ID 724498, 2022 [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.724498/full)
 
 R. Li, J. Liang, **H. Phan**. ___Few-Shot Bioacoustic Event Detection: Enhanced Classifiers for Prototypical Networks___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022
 
