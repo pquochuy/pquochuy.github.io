@@ -24,7 +24,11 @@ O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M
 2022
 ------
 
-O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, 2022 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
+K. Borup, P. Kidmose, **H. Phan**, K. Mikkelsen. ___Automatic Sleep Scoring using Patient-Specific Ensemble Models and Knowledge Distillation___. *Biomedical Signal Processing and Control*, 2022 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
+
+**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no. 12, pp. 3612-3622, 2022 [[PDF]](https://ieeexplore.ieee.org/document/9773946)[[Preprint]](https://arxiv.org/abs/2108.10211)
+
+O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, vol. 13, Article ID 724498, 2022 [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.724498/full)<br/><span style="color:red">*(accepted)*</span>
 
 R. Li, J. Liang, **H. Phan**. ___Few-Shot Bioacoustic Event Detection: Enhanced Classifiers for Prototypical Networks___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022
 
@@ -33,8 +37,6 @@ J. Liang, **H. Phan**, E. Benetos. ___Leveraging Label Hierarchies for Few-shot 
 E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos. ___Data augmentation in semi-supervised adversarial domain adaptation for EEG-based sleep staging___. *IEEE-EMBS International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022
 
 S. Singh, **H. Phan**, E. Benetos. ___HyperNetworks for Sound Event Detection: A Proof-Of-Concept___. *30th European Signal Processing Conference (EUSIPCO 2022)*, 2022 [[PDF]](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0000429.pdf)
-
-**H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, 2022 [[PDF]](https://ieeexplore.ieee.org/document/9773946)[[Preprint]](https://arxiv.org/abs/2108.10211)
 
 **H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no.8, pp. 2456-2467, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043) [[PDF]](https://ieeexplore.ieee.org/document/9697331)
 
