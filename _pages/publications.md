@@ -21,10 +21,13 @@ M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box 
 
 O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M. Lindemann, M. de Vos. ___Personalized Longitudinal Assessment of Multiple Sclerosis Using Smartphones___. *arXiv preprint arXiv:2209.09692*, 2022 [[PDF]](https://arxiv.org/pdf/2209.09692.pdf)
 
-2022
+2023
 ------
 
-K. Borup, P. Kidmose, **H. Phan**, K. Mikkelsen. ___Automatic Sleep Scoring using Patient-Specific Ensemble Models and Knowledge Distillation for Ear-EEG Data___. *Biomedical Signal Processing and Control*, 2022 [[PDF]]()<br/><span style="color:red">*(accepted)*</span>
+K. Borup, P. Kidmose, **H. Phan**, K. Mikkelsen. ___Automatic Sleep Scoring using Patient-Specific Ensemble Models and Knowledge Distillation for Ear-EEG Data___. *Biomedical Signal Processing and Control*, vol. 81, Article ID 104496, 2023 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809422009508)
+
+2022
+------
 
 **H. Phan**, A. Mertins, M. Baumert. ___Pediatric Automatic Sleep Staging: A comparative study of state-of-the-art deep learning methods___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no. 12, pp. 3612-3622, 2022 [[PDF]](https://ieeexplore.ieee.org/document/9773946)[[Preprint]](https://arxiv.org/abs/2108.10211)
 
