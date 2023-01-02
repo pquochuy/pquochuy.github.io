@@ -16,7 +16,8 @@ google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 -->
 <br/>
 I am a Senior Research Scientist at Amazon Alexa since January 2023. 
-
+<br/>
+<br/>
 From April 2020 to December 2022, I was a Lecturer (roughly equivalent to Assistant Professor) in Artificial Intelligence at the [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/) (UK) and a Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) (UK). At QMUL, I co-led [the Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/) at [the Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/). Before that, I was a Lecturer in Computing at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK) and a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/). 
 <br/>
 <br/>
