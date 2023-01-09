@@ -9,6 +9,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Invited Talks
 ------
 
+* *VinUni-Illinois Smart Health Center (VISHC), VinUniversity.* Ha Noi, Vietnam, November, 2022
+
 * *The International Research Center for Artificial Intelligence, Hanoi University of Science & Technology.* Ha Noi, Vietnam, August 2021
 
 * *Institute of Applied Data Science, Queen Mary University of London.* London, UK, May 2021
