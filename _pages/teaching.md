@@ -10,11 +10,11 @@ _"Develop a passion for learning. If you do, you will never cease to grow."_ - A
 
 Teaching
 ------
-* **ECS7013P: Deep Learning for Audio and Music**<br/>*School of Electronic Engineering & Computer Science, QMUL*<br/>Module Organizer & Lecturer: Graduate (Spring 2021)
+* **ECS7013P: Deep Learning for Audio and Music**<br/>*School of Electronic Engineering & Computer Science, QMUL*<br/>Module Organizer & Lecturer: Graduate (Spring 2021, Spring 2022)
 
 * **ECS7005A: Risk and Decision-Making in Big Data and AI**<br/>*School of Electronic Engineering & Computer Science, QMUL*<br/>Module Organizer & Lecturer: Graduate (Winter 2020)
 
-* **ECS759P: Artificial Intelligence**<br/>*School of Electronic Engineering & Computer Science, QMUL*<br/>Module Organizer & Lecturer: Graduate (Winter 2020)
+* **ECS759P: Artificial Intelligence**<br/>*School of Electronic Engineering & Computer Science, QMUL*<br/>Module Organizer & Lecturer: Graduate (Winter 2020, Winter 2021, Winter 2022)
 
 * **Final Year Project Module**<br/>*School of Computing, University of Kent*<br/>Module Organizer: Undergraduate
 
