@@ -13,13 +13,20 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+**H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *arXiv preprint arXiv:2301.03441*, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)
+
+J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *arXiv preprint arXiv:2212.08952*, 2022 [[PDF]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
+
+M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box audio effects with time-varying feature modulation___. *arXiv preprint arXiv:2211.00497*, 2022 [[PDF]](https://arxiv.org/pdf/2211.00497.pdf)
+
+R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving trajectory localization accuracy via direction-of-arrival derivative estimation___. *arXiv preprint arXiv:2212.03470*, 2022 [[PDF]](https://arxiv.org/pdf/2212.03470.pdf)
+
+O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M. Lindemann, M. de Vos. ___Personalized Longitudinal Assessment of Multiple Sclerosis Using Smartphones___. *arXiv preprint arXiv:2209.09692*, 2022 [[PDF]](https://arxiv.org/pdf/2209.09692.pdf) 
+
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
 
-M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box audio effects with time-varying feature modulation___. *arXiv preprint arXiv:2211.00497*, 2022 [[PDF]](https://arxiv.org/pdf/2211.00497.pdf)
-
-O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M. Lindemann, M. de Vos. ___Personalized Longitudinal Assessment of Multiple Sclerosis Using Smartphones___. *arXiv preprint arXiv:2209.09692*, 2022 [[PDF]](https://arxiv.org/pdf/2209.09692.pdf)
 
 2023
 ------
