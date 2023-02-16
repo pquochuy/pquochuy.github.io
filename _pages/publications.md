@@ -15,9 +15,9 @@ Preprint(s)
 
 **H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *arXiv preprint arXiv:2301.03441*, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)
 
-J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *arXiv preprint arXiv:2212.08952*, 2022 [[PDF]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
+J. Luo, **H. Phan**, J. D. Reiss. ___Deep learning of segment-level feature representation for speech emotion recognition in conversations___. *arXiv preprint arXiv:2302.02419*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02419)
 
-M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box audio effects with time-varying feature modulation___. *arXiv preprint arXiv:2211.00497*, 2022 [[PDF]](https://arxiv.org/pdf/2211.00497.pdf)
+J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *arXiv preprint arXiv:2212.08952*, 2022 [[PDF]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
 
 R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving trajectory localization accuracy via direction-of-arrival derivative estimation___. *arXiv preprint arXiv:2212.03470*, 2022 [[PDF]](https://arxiv.org/pdf/2212.03470.pdf)
 
@@ -30,6 +30,15 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 
 2023
 ------
+
+**H. Phan**, E. Heremans, O. Chén, P. Koch, A. Mertins, M. De Vos. ___Improving Automatic Sleep Staging via Temporal Smoothness Regularization___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]]()
+<br/><span style="color:red">*(accepted)*</span>
+
+J. Luo, **H. Phan**, J. D. Reiss. ___Cross-modal fusion techniques for utterance-level emotion recognition from text and speech___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02447)
+<br/><span style="color:red">*(accepted)*</span>
+
+M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box audio effects with time-varying feature modulation___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2211.00497.pdf)
+<br/><span style="color:red">*(accepted)*</span>
 
 K. Borup, P. Kidmose, **H. Phan**, K. Mikkelsen. ___Automatic Sleep Scoring using Patient-Specific Ensemble Models and Knowledge Distillation for Ear-EEG Data___. *Biomedical Signal Processing and Control*, vol. 81, Article ID 104496, 2023 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809422009508)
 
