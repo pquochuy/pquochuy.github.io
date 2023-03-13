@@ -31,6 +31,9 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2023
 ------
 
+I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 [[PDF]]()[[Preprint]]()
+<br/><span style="color:red">*(accepted)*</span>
+
 **H. Phan**, E. Heremans, O. Chén, P. Koch, A. Mertins, M. De Vos. ___Improving Automatic Sleep Staging via Temporal Smoothness Regularization___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]]()
 <br/><span style="color:red">*(accepted)*</span>
 
