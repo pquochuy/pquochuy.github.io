@@ -31,10 +31,13 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2023
 ------
 
-I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 [[PDF]]()[[Preprint]]()
+M. Baumert, S. Hartmannm, **H. Phan**. ___Automatic sleep staging for the young and the old – evaluating age bias in deep learning___. *Sleep Medicine*, 2023 
 <br/><span style="color:red">*(accepted)*</span>
 
-**H. Phan**, E. Heremans, O. Chén, P. Koch, A. Mertins, M. De Vos. ___Improving Automatic Sleep Staging via Temporal Smoothness Regularization___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]]()
+I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 
+<br/><span style="color:red">*(accepted)*</span>
+
+**H. Phan**, E. Heremans, O. Chén, P. Koch, A. Mertins, M. De Vos. ___Improving Automatic Sleep Staging via Temporal Smoothness Regularization___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 
 <br/><span style="color:red">*(accepted)*</span>
 
 J. Luo, **H. Phan**, J. D. Reiss. ___Cross-modal fusion techniques for utterance-level emotion recognition from text and speech___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02447)
