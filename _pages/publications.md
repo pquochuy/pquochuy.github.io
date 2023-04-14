@@ -13,6 +13,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *arXiv preprint arXiv:2304.06485*, 2023 [[PDF]](https://arxiv.org/pdf/2304.06485.pdf)
+
 **H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *arXiv preprint arXiv:2301.03441*, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)
 
 J. Luo, **H. Phan**, J. D. Reiss. ___Deep learning of segment-level feature representation for speech emotion recognition in conversations___. *arXiv preprint arXiv:2302.02419*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02419)
@@ -31,9 +33,6 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2023
 ------
 
-M. Baumert, S. Hartmannm, **H. Phan**. ___Automatic sleep staging for the young and the old – evaluating age bias in deep learning___. *Sleep Medicine*, 2023 
-<br/><span style="color:red">*(accepted)*</span>
-
 I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 
 <br/><span style="color:red">*(accepted)*</span>
 
@@ -45,6 +44,8 @@ J. Luo, **H. Phan**, J. D. Reiss. ___Cross-modal fusion techniques for utterance
 
 M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box audio effects with time-varying feature modulation___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2211.00497.pdf)
 <br/><span style="color:red">*(accepted)*</span>
+
+M. Baumert, S. Hartmannm, **H. Phan**. ___Automatic sleep staging for the young and the old – evaluating age bias in deep learning___. *Sleep Medicine*, 2023 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1389945723001260)
 
 K. Borup, P. Kidmose, **H. Phan**, K. Mikkelsen. ___Automatic Sleep Scoring using Patient-Specific Ensemble Models and Knowledge Distillation for Ear-EEG Data___. *Biomedical Signal Processing and Control*, vol. 81, Article ID 104496, 2023 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809422009508)
 
