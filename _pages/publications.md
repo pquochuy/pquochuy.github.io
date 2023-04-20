@@ -23,8 +23,6 @@ J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Sh
 
 R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving trajectory localization accuracy via direction-of-arrival derivative estimation___. *arXiv preprint arXiv:2212.03470*, 2022 [[PDF]](https://arxiv.org/pdf/2212.03470.pdf)
 
-O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M. Lindemann, M. de Vos. ___Personalized Longitudinal Assessment of Multiple Sclerosis Using Smartphones___. *arXiv preprint arXiv:2209.09692*, 2022 [[PDF]](https://arxiv.org/pdf/2209.09692.pdf) 
-
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
@@ -32,6 +30,9 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 
 2023
 ------
+
+O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M. Lindemann, M. de Vos. ___Personalized Longitudinal Assessment of Multiple Sclerosis Using Smartphones___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2023 [[PDF]](https://arxiv.org/pdf/2209.09692.pdf) 
+<br/><span style="color:red">*(accepted)*</span>
 
 I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 
 <br/><span style="color:red">*(accepted)*</span>
