@@ -31,20 +31,16 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2023
 ------
 
-O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M. Lindemann, M. de Vos. ___Personalized Longitudinal Assessment of Multiple Sclerosis Using Smartphones___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2023 [[PDF]](https://arxiv.org/pdf/2209.09692.pdf) 
-<br/><span style="color:red">*(accepted)*</span>
-
 I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 
 <br/><span style="color:red">*(accepted)*</span>
 
-**H. Phan**, E. Heremans, O. Chén, P. Koch, A. Mertins, M. De Vos. ___Improving Automatic Sleep Staging via Temporal Smoothness Regularization___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 
-<br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, E. Heremans, O. Chén, P. Koch, A. Mertins, M. De Vos. ___Improving Automatic Sleep Staging via Temporal Smoothness Regularization___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10095805)
 
-J. Luo, **H. Phan**, J. D. Reiss. ___Cross-modal fusion techniques for utterance-level emotion recognition from text and speech___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02447)
-<br/><span style="color:red">*(accepted)*</span>
+J. Luo, **H. Phan**, J. D. Reiss. ___Cross-modal fusion techniques for utterance-level emotion recognition from text and speech___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10096885)[[Preprint]](https://arxiv.org/pdf/2302.02447)
 
-M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box audio effects with time-varying feature modulation___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2211.00497.pdf)
-<br/><span style="color:red">*(accepted)*</span>
+M. Comunità, C. J. Steinmetz, **H. Phan**, J. D. Reiss. ___Modelling black-box audio effects with time-varying feature modulation___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10097173)[[Preprint]](https://arxiv.org/pdf/2211.00497.pdf)
+
+O. Y. Chén, F. Lipsmeier, **H. Phan**, F. Dondelinger, A. Creagh, C. Gossens, M. Lindemann, M. de Vos. ___Personalized Longitudinal Assessment of Multiple Sclerosis Using Smartphones___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10115049/) [[Preprint]](https://arxiv.org/pdf/2209.09692.pdf)
 
 M. Baumert, S. Hartmannm, **H. Phan**. ___Automatic sleep staging for the young and the old – evaluating age bias in deep learning___. *Sleep Medicine*, 2023 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1389945723001260)
 
