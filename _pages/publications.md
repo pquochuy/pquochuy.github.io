@@ -53,15 +53,15 @@ K. Borup, P. Kidmose, **H. Phan**, K. Mikkelsen. ___Automatic Sleep Scoring usin
 
 O. Y. Chén, **H. Phan**, H. Cao, T. Qian, M. De Vos. ___Probing Potential Priming: Defining, Quantifying, and Testing the Causal Priming Effect Using the Potential Outcomes Framework___. *Frontiers in Psychology*, vol. 13, Article ID 724498, 2022 [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.724498/full)
 
-R. Li, J. Liang, **H. Phan**. ___Few-Shot Bioacoustic Event Detection: Enhanced Classifiers for Prototypical Networks___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022
+R. Li, J. Liang, **H. Phan**. ___Few-Shot Bioacoustic Event Detection: Enhanced Classifiers for Prototypical Networks___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022 [[PDF]](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Li_50.pdf)
 
-J. Liang, **H. Phan**, E. Benetos. ___Leveraging Label Hierarchies for Few-shot Everyday Sound Recognition___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022
+J. Liang, **H. Phan**, E. Benetos. ___Leveraging Label Hierarchies for Few-shot Everyday Sound Recognition___. *7th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2022)*, 2022 [[PDF]](https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Liang_5.pdf)
 
-E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos. ___Data augmentation in semi-supervised adversarial domain adaptation for EEG-based sleep staging___. *IEEE-EMBS International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022
+E. R. M. Heremans, T. Osselaer, N. Seeuws, **H. Phan**, D. Testelmans, M. De Vos. ___Data augmentation in semi-supervised adversarial domain adaptation for EEG-based sleep staging___. *IEEE-EMBS International Conference on Biomedical and Health Informatics (IEEE BHI)*, 2022 [[PDF]](https://ieeexplore.ieee.org/document/9926942)
 
 S. Singh, **H. Phan**, E. Benetos. ___HyperNetworks for Sound Event Detection: A Proof-Of-Concept___. *30th European Signal Processing Conference (EUSIPCO 2022)*, 2022 [[PDF]](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0000429.pdf)
 
-**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no.8, pp. 2456-2467, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043) [[PDF]](https://ieeexplore.ieee.org/document/9697331)
+**H. Phan**, K. B. Mikkelsen, O. Y. Chén, P. Koch, A. Mertins, M. De Vos. ___SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification___. *IEEE Transactions on Biomedical Engineering*, vol. 69, no.8, pp. 2456-2467, 2022 [[Preprint]](https://arxiv.org/abs/2105.11043) [[PDF]](https://ieeexplore.ieee.org/document/9697331) [[Code]](https://github.com/pquochuy/SleepTransformer)
 
 **H. Phan**, O. Y. Chén, Minh C. Tran, P. Koch, A. Mertins, and M. De Vos. ___XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging___. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, vol. 44, no. 9, pp. 5903-5915, 2022 [[Preprint]](https://arxiv.org/abs/2007.05492)[[PDF]](https://ieeexplore.ieee.org/document/9392272)[[Code]](https://github.com/pquochuy/xsleepnet)
 
