@@ -31,6 +31,12 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2023
 ------
 
+J. Liang, X. Liu, H. Liu, **H. Phan**, E. Benetos, M. Plumbley, W. Wang. ___Adapting Language-Audio Models as Few-Shot Audio Learners___. *INTERSPEECH*, 2023
+<br/><span style="color:red">*(accepted)*</span>
+
+J. Luo, **H. Phan**, J. D. Reiss. ___Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition___. *INTERSPEECH*, 2023
+<br/><span style="color:red">*(accepted)*</span>
+
 I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 
 <br/><span style="color:red">*(accepted)*</span>
 
