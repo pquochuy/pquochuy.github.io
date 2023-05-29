@@ -21,8 +21,6 @@ J. Luo, **H. Phan**, J. D. Reiss. ___Deep learning of segment-level feature repr
 
 J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *arXiv preprint arXiv:2212.08952*, 2022 [[PDF]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
 
-R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving trajectory localization accuracy via direction-of-arrival derivative estimation___. *arXiv preprint arXiv:2212.03470*, 2022 [[PDF]](https://arxiv.org/pdf/2212.03470.pdf)
-
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
@@ -30,6 +28,9 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 
 2023
 ------
+
+R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving trajectory localization accuracy via direction-of-arrival derivative estimation___. *EUSIPCO*, 2023 [[PDF]](https://arxiv.org/pdf/2212.03470.pdf)
+<br/><span style="color:red">*(accepted)*</span>
 
 J. Liang, X. Liu, H. Liu, **H. Phan**, E. Benetos, M. Plumbley, W. Wang. ___Adapting Language-Audio Models as Few-Shot Audio Learners___. *INTERSPEECH*, 2023
 <br/><span style="color:red">*(accepted)*</span>
