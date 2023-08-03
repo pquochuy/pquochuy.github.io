@@ -15,8 +15,6 @@ Preprint(s)
 
 K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *arXiv preprint arXiv:2304.06485*, 2023 [[PDF]](https://arxiv.org/pdf/2304.06485.pdf)
 
-**H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *arXiv preprint arXiv:2301.03441*, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)[[Code]](https://github.com/pquochuy/l-seqsleepnet)
-
 J. Luo, **H. Phan**, J. D. Reiss. ___Deep learning of segment-level feature representation for speech emotion recognition in conversations___. *arXiv preprint arXiv:2302.02419*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02419)
 
 J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *arXiv preprint arXiv:2212.08952*, 2022 [[PDF]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
@@ -29,7 +27,9 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2023
 ------
 
-C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, H. Phan, M. Lagrange. __Perceptual Musical Similarity Metric Learning with Graph Neural Networks__. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023*
+**H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)[[Code]](https://github.com/pquochuy/l-seqsleepnet)
+
+C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, **H. Phan**, M. Lagrange. __Perceptual Musical Similarity Metric Learning with Graph Neural Networks__. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023*
 <br/><span style="color:red">*(accepted)*</span>
 
 R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving trajectory localization accuracy via direction-of-arrival derivative estimation___. *EUSIPCO*, 2023 [[PDF]](https://arxiv.org/pdf/2212.03470.pdf)
