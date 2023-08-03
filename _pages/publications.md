@@ -28,6 +28,7 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 ------
 
 **H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)[[Code]](https://github.com/pquochuy/l-seqsleepnet)
+<br/><span style="color:red">*(accepted)*</span>
 
 C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, **H. Phan**, M. Lagrange. __Perceptual Musical Similarity Metric Learning with Graph Neural Networks__. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023*
 <br/><span style="color:red">*(accepted)*</span>
