@@ -8,6 +8,7 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 
 Source code of some of my works can be found below
 
+* [L-SeqSleepNet](https://github.com/pquochuy/l-seqsleepnet): Whole-cycle Long Sequence Modelling for Automatic Sleep Staging.
 * [SleepTransformer](https://github.com/pquochuy/SleepTransformer): Automatic Sleep Staging With Interpretability and Uncertainty Quantification.
 * [XSleepNet](https://github.com/pquochuy/XSleepNet): Multi-view deep learning model for sleep stage classification
 * [sasegan](https://github.com/pquochuy/sasegan): Self-attention GAN for speech enhancement
