@@ -27,23 +27,27 @@ O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou
 2023
 ------
 
-**H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)[[Code]](https://github.com/pquochuy/l-seqsleepnet)
-<br/><span style="color:red">*(accepted)*</span>
-
 C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, **H. Phan**, M. Lagrange. __Perceptual Musical Similarity Metric Learning with Graph Neural Networks__. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023*
 <br/><span style="color:red">*(accepted)*</span>
 
-R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving trajectory localization accuracy via direction-of-arrival derivative estimation___. *EUSIPCO*, 2023 [[PDF]](https://arxiv.org/pdf/2212.03470.pdf)
+D. Ngo, L. Pham, **H. Phan**, D. Jarchi, S. Kolozali. ___An Inception-Residual-based Architecture with Multi-objective Loss for Detecting Respiratory Anomalies___. *IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)*, 2023
 <br/><span style="color:red">*(accepted)*</span>
 
-J. Liang, X. Liu, H. Liu, **H. Phan**, E. Benetos, M. Plumbley, W. Wang. ___Adapting Language-Audio Models as Few-Shot Audio Learners___. *INTERSPEECH*, 2023
+D. Ngo, L. Pham, **H. Phan**, M. Tran, D. Jarchi. ___A Deep Learning Architecture with Spatio-Temporal Focusing for Detecting Respiratory Anomalies___. *2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)*, 2023
 <br/><span style="color:red">*(accepted)*</span>
 
-J. Luo, **H. Phan**, J. D. Reiss. ___Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition___. *INTERSPEECH*, 2023
-<br/><span style="color:red">*(accepted)*</span>
+**H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 27, no. 10, pp. 1-10, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)[[Code]](https://github.com/pquochuy/l-seqsleepnet)
 
-I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 
-<br/><span style="color:red">*(accepted)*</span>
+J. Luo, **H. Phan**, L. Wang, J. Reiss. ___Mutual Cross-Attention in Dyadic Fusion Networks for Audio-Video Emotion Recognition___. *Proc. Affective Computing + Intelligent Interaction (ACII)*, 2023
+<br/><span style="color:red">*(Spotlight)*</span>
+
+R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving Audio Event Localization via Derivative Prediction___. *Proc. EUSIPCO*, 2023
+
+J. Liang, X. Liu, H. Liu, **H. Phan**, E. Benetos, M. Plumbley, W. Wang. ___Adapting Language-Audio Models as Few-Shot Audio Learners___. *Proc. INTERSPEECH*, 2023 [[PDF]](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liang23c_interspeech.pdf)
+
+J. Luo, **H. Phan**, J. D. Reiss. ___Fine-tuned RoBERTa Model with a CNN-LSTM Network for Conversational Emotion Recognition___. *Proc. INTERSPEECH*, 2023 [[PDF]](https://www.isca-speech.org/archive/pdfs/interspeech_2023/luo23_interspeech.pdf)
+
+I. Ghinassi, M. Purver, **H. Phan**, C. Newell. ___Exploring Pre-Trained Neural Audio Representations for Audio Topic Segmentation___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2023 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219739)
 
 **H. Phan**, E. Heremans, O. Chén, P. Koch, A. Mertins, M. De Vos. ___Improving Automatic Sleep Staging via Temporal Smoothness Regularization___. *Proc. 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10095805)
 
