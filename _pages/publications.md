@@ -13,6 +13,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+S. Singh, C. J. Steinmetz, E. Benetos, **H. Phan**, D. Stowell, ATGNN: Audio Tagging Graph Neural Network, *arXiv preprint arXiv:2311.01526*, 2023 [[PDF]](https://arxiv.org/pdf/2311.01526.pdf)
+
 K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *arXiv preprint arXiv:2304.06485*, 2023 [[PDF]](https://arxiv.org/pdf/2304.06485.pdf)
 
 J. Luo, **H. Phan**, J. D. Reiss. ___Deep learning of segment-level feature representation for speech emotion recognition in conversations___. *arXiv preprint arXiv:2302.02419*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02419)
@@ -21,20 +23,17 @@ J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Sh
 
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
-O. Y. Chén, R. G. Saraiva, G. Nagels, **H. Phan**, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, M. de Vos. ___Thou Shalt Not Reject the P-value___. *arXiv preprint arXiv:2002.07270*, 2020 [[PDF]](https://arxiv.org/pdf/2002.07270.pdf)
-
-
 2023
 ------
 
-C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, **H. Phan**, M. Lagrange. __Perceptual Musical Similarity Metric Learning with Graph Neural Networks__. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023*
+O. Y. Chén, J. S. Bodelet, R. G. Saraiva, **H. Phan**, J. Di, G. Nagels, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, B. Zhi, X. Wang, M. de Vos. ___The roles, challenges, and merits of the p value___. *Patterns*, 2023 [[PDF]]()
 <br/><span style="color:red">*(accepted)*</span>
+
+C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, **H. Phan**, M. Lagrange. ___Perceptual Musical Similarity Metric Learning with Graph Neural Networks___. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023*
 
 D. Ngo, L. Pham, **H. Phan**, D. Jarchi, S. Kolozali. ___An Inception-Residual-based Architecture with Multi-objective Loss for Detecting Respiratory Anomalies___. *IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)*, 2023
-<br/><span style="color:red">*(accepted)*</span>
 
 D. Ngo, L. Pham, **H. Phan**, M. Tran, D. Jarchi. ___A Deep Learning Architecture with Spatio-Temporal Focusing for Detecting Respiratory Anomalies___. *2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)*, 2023
-<br/><span style="color:red">*(accepted)*</span>
 
 **H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 27, no. 10, pp. 1-10, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)[[Code]](https://github.com/pquochuy/l-seqsleepnet)
 
