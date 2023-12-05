@@ -13,7 +13,7 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
-J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *arXiv preprint arXiv:2312.00249*, 2023
+J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *arXiv preprint arXiv:2312.00249*, 2023 [[PDF]](https://arxiv.org/pdf/2312.00249.pdf)
 
 S. Singh, C. J. Steinmetz, E. Benetos, **H. Phan**, D. Stowell, ___ATGNN: Audio Tagging Graph Neural Network___, *arXiv preprint arXiv:2311.01526*, 2023 [[PDF]](https://arxiv.org/pdf/2311.01526.pdf)
 
