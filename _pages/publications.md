@@ -28,8 +28,7 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 2023
 ------
 
-O. Y. Chén, J. S. Bodelet, R. G. Saraiva, **H. Phan**, J. Di, G. Nagels, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, B. Zhi, X. Wang, M. de Vos. ___The roles, challenges, and merits of the p value___. *Patterns*, 2023 [[PDF]]()
-<br/><span style="color:red">*(accepted)*</span>
+O. Y. Chén, J. S. Bodelet, R. G. Saraiva, **H. Phan**, J. Di, G. Nagels, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, B. Zhi, X. Wang, M. de Vos. ___The roles, challenges, and merits of the p value___. *Patterns*, vol. 4, no. 12, article no. 100878, 2023 [[PDF]](https://www.cell.com/patterns/fulltext/S2666-3899(23)00270-2)
 
 C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, **H. Phan**, M. Lagrange. ___Perceptual Musical Similarity Metric Learning with Graph Neural Networks___. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023*
 
