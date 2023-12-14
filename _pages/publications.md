@@ -21,9 +21,16 @@ K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep
 
 J. Luo, **H. Phan**, J. D. Reiss. ___Deep learning of segment-level feature representation for speech emotion recognition in conversations___. *arXiv preprint arXiv:2302.02419*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02419)
 
-J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *arXiv preprint arXiv:2212.08952*, 2022 [[PDF]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
-
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
+
+2024
+------
+
+**H. Phan**, B. Kim, V. Nguyen, A. Bydlon, Q. Tang, C.-C. Kao, C. Wang. ___Cross-triggering Issue in Audio Event Detection and Mitigation___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024
+<br/><span style="color:red">*(Accepted)*</span>
+
+J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[Preprint]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
+<br/><span style="color:red">*(Accepted)*</span>
 
 2023
 ------
