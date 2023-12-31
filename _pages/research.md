@@ -11,15 +11,13 @@ My current research activities involve in the following topics:
 
 * **Deep learning/machine learning**<br/>*Representation learning and algorithms for temporal signal analysis (e.g. audio, speech, EEG, sEMG, fMRI, etc.)*
 
-* **Machine hearing**<br/>*Audio event detection/classification, audio scene analysis*
+* **Machine hearing**<br/>*Audio event detection, audio scene analysis, speech enhancement*
 
 * **Brain monitoring**<br/>*Automatic sleep staging, sleep micro-event detection, mobile EEG*
 
 * **Pathological voice/speech/language analysis**<br/>*Parkinson's disease, personality disorder, etc.*
 
 * **Hand prosthetics**<br/>*sEMG-based low-latency hand movement recognition/prediction, low-cost alternative sensors*
-
-* **Building fMRI biomarkers for brain diseases**<br/>*Parkinson’s disease, psychosis, etc.*
 
 * **Digital biomarkers for mental health monitoring**<br/>
 
