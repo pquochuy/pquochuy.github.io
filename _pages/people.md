@@ -32,6 +32,11 @@ MSc students
 
 Collaborators
 ------
+
+* [Emmanouil Benetos](https://www.eecs.qmul.ac.uk/~emmanouilb/), Queen Mary University of London, UK
+* [Dan Stowell](https://www.tilburguniversity.edu/staff/d-stowell), Tilburg University, Netherlands
+* [Josh Reiss](http://www.eecs.qmul.ac.uk/people/profiles/reissjosh.html), Queen Mary University of London, UK
+* [Lin Wang](http://www.eecs.qmul.ac.uk/~linwang/), Queen Mary University of London, UK
 * [Ian McLoughlin](https://sites.google.com/view/mcloughlin), Singapore Institute of Technology (SIT), Singapore
 * [Alfred Mertins](https://www.isip.uni-luebeck.de/people/alfred-mertins.html), University of Lübeck, Germany
 * [Maarten de Vos](https://www.esat.kuleuven.be/stadius/person.php?id=203), KU Leuven, Belgium
