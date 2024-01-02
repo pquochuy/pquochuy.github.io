@@ -15,7 +15,7 @@ google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 <br/>
 -->
 <br/>
-I am a Senior Research Scientist at Alexa AI, Amazon. Before joining Amazon, I was a Lecturer (Assistant Professor) in AI at the [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/) (UK) and a Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) (UK). At QMUL, I co-led [the Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/) at [the Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/). Before that, I was a Lecturer in Computing at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK) and a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/). 
+I am a Sr. Research Scientist at Amazon. Before joining Amazon, I was a Lecturer (Assistant Professor) in AI at the [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/) (UK) and a Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) (UK). At QMUL, I co-led [the Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/) at [the Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/). Before that, I was a Lecturer in Computing at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK) and a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/). 
 <br/>
 <br/>
 I did PhD (summa cum laude) in Computer Science at the [Institute for Signal Processing](https://www.isip.uni-luebeck.de/), [University of Lübeck](https://www.uni-luebeck.de/) (Germany) under the supervision of [Prof. Alfred Mertins](https://www.isip.uni-luebeck.de/people/alfred-mertins). My PhD thesis on audio event detection was awarded the [Bernd Fischer Award](https://www.uni-luebeck.de/en/graduation/graduate-service/doctoral-awards/professor-bernd-fischer-preis-mint.html) for the best PhD thesis in 2018. In 2021, I was awarded IEEE-EMBS Best Paper Award 2019-20.
@@ -54,8 +54,9 @@ For More PhD opportunities at AIM CDT, please visit [HERE](https://www.aim.qmul.
 
 News
 ---
+* **13 12 2023:** <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2024.
 * **3 August 2023:** <span style="color:#B22222">(New)</span> L-SeqSleepNet paper accepted for publication in IEEE Journal of Biomedical and Health Informatics (JBHI)
-* **16 Feb 2023:** <span style="color:#B22222">(New)</span> Three papers accepted to IEEE ICASSP 2023.
+* 16 Feb 2023: <span style="color:#B22222">(New)</span> Three papers accepted to IEEE ICASSP 2023.
 * 21 Jan 2022: <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2022.
 * 17 Dec 2021: <span style="color:#B22222">(New)</span> I have been elected as member in the Technical Area Committee (TAC) in Biomedical Image & Signal Analytics (BISA), the European Association for Signal Processing (EURASIP), term 2022-2024.
 * 18 Aug 2021: <span style="color:#B22222">(New)</span> I have been appointed Turing Fellow by [the Alan Turing Institute](https://www.turing.ac.uk/) in 2021/2022.
