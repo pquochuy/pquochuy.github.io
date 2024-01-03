@@ -15,14 +15,15 @@ Preprint(s)
 
 J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *arXiv preprint arXiv:2312.00249*, 2023 [[PDF]](https://arxiv.org/pdf/2312.00249.pdf)
 
-K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *arXiv preprint arXiv:2304.06485*, 2023 [[PDF]](https://arxiv.org/pdf/2304.06485.pdf)
-
 J. Luo, **H. Phan**, J. D. Reiss. ___Deep learning of segment-level feature representation for speech emotion recognition in conversations___. *arXiv preprint arXiv:2302.02419*, 2023 [[PDF]]()[[Preprint]](https://arxiv.org/pdf/2302.02419)
 
 O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis of Brain Variability___. *Preprints* 2020, 2020080428 [[PDF]](https://www.preprints.org/manuscript/202008.0428/v1)
 
 2024
 ------
+
+K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2024 [[Preprint]](https://arxiv.org/pdf/2304.06485.pdf)
+<br/><span style="color:red">*(Accepted)*</span>
 
 S. Singh, C. J. Steinmetz, E. Benetos, **H. Phan**, D. Stowell, ___ATGNN: Audio Tagging Graph Neural Network___, *IEEE Signal Processing Letters*, 2024 [[Preprint]](https://arxiv.org/pdf/2311.01526.pdf)
 <br/><span style="color:red">*(Accepted)*</span>
