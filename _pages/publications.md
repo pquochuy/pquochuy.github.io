@@ -23,6 +23,7 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 ------
 
 **H. Phan**, B. Kim, V. Nguyen, A. Bydlon, Q. Tang, C.-C. Kao, C. Wang. ___Cross-triggering Issue in Audio Event Detection and Mitigation___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[PDF]](https://www.amazon.science/publications/cross-triggering-issue-in-audio-event-detection-and-mitigation)
+<br/><span style="color:red">*(Accepted)*</span>
 
 J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[Preprint]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
 <br/><span style="color:red">*(Accepted)*</span>
