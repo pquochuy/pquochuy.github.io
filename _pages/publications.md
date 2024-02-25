@@ -28,7 +28,7 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[Preprint]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
 <br/><span style="color:red">*(Accepted)*</span>
 
-V.-D. Nguyen, **H. Phan**, O. Y. Chén, A. Mansour, A. Coatanhay, T. Marsault, “On the relationship between Vogler algorithm derivation and parabolic equation for multiple knife edge diffraction,” IEEE Transactions on Antennas and Propagation, 2024
+V.-D. Nguyen, **H. Phan**, O. Y. Chén, A. Mansour, A. Coatanhay, T. Marsault, “On the relationship between Vogler algorithm derivation and parabolic equation for multiple knife edge diffraction,” *IEEE Transactions on Antennas and Propagation*, 2024
 <br/><span style="color:red">*(Accepted)*</span>
 
 K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2024 [[Preprint]](https://arxiv.org/pdf/2304.06485.pdf) [[PDF]](https://ieeexplore.ieee.org/document/10400520)
@@ -41,18 +41,18 @@ S. Singh, C. J. Steinmetz, E. Benetos, **H. Phan**, D. Stowell, ___ATGNN: Audio 
 
 O. Y. Chén, J. S. Bodelet, R. G. Saraiva, **H. Phan**, J. Di, G. Nagels, T. Schwantje, H. Cao, J. Gou, J. M. Reinen, B. Xiong, B. Zhi, X. Wang, M. de Vos. ___The roles, challenges, and merits of the p value___. *Patterns*, vol. 4, no. 12, article no. 100878, 2023 [[PDF]](https://www.cell.com/patterns/fulltext/S2666-3899(23)00270-2)
 
-C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, **H. Phan**, M. Lagrange. ___Perceptual Musical Similarity Metric Learning with Graph Neural Networks___. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023*
+C. Vahidi, S. Singh, G. Fazekas, E. Benetos, D. Stowell, **H. Phan**, M. Lagrange. ___Perceptual Musical Similarity Metric Learning with Graph Neural Networks___. *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA), 2023* [[PDF]](https://ieeexplore.ieee.org/document/10248151)
 
-D. Ngo, L. Pham, **H. Phan**, D. Jarchi, S. Kolozali. ___An Inception-Residual-based Architecture with Multi-objective Loss for Detecting Respiratory Anomalies___. *IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)*, 2023
+D. Ngo, L. Pham, **H. Phan**, D. Jarchi, S. Kolozali. ___An Inception-Residual-based Architecture with Multi-objective Loss for Detecting Respiratory Anomalies___. *IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10337717)
 
-D. Ngo, L. Pham, **H. Phan**, M. Tran, D. Jarchi. ___A Deep Learning Architecture with Spatio-Temporal Focusing for Detecting Respiratory Anomalies___. *2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)*, 2023
+D. Ngo, L. Pham, **H. Phan**, M. Tran, D. Jarchi. ___A Deep Learning Architecture with Spatio-Temporal Focusing for Detecting Respiratory Anomalies___. *2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10388598)
 
 **H. Phan**, K. P. Lorenzen, E. Heremans, O. Y. Chén, M. C. Tran, P. Koch, A. Mertins, M. Baumert, K. Mikkelsen, M. De Vos. ___L-SeqSleepNet: Whole-cycle Long Sequence Modelling for Automatic Sleep Staging___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 27, no. 10, pp. 1-10, 2023 [[PDF]](https://arxiv.org/pdf/2301.03441.pdf)[[Code]](https://github.com/pquochuy/l-seqsleepnet)
 
-J. Luo, **H. Phan**, L. Wang, J. Reiss. ___Mutual Cross-Attention in Dyadic Fusion Networks for Audio-Video Emotion Recognition___. *Proc. Affective Computing + Intelligent Interaction (ACII)*, 2023
+J. Luo, **H. Phan**, L. Wang, J. Reiss. ___Mutual Cross-Attention in Dyadic Fusion Networks for Audio-Video Emotion Recognition___. *Proc. Affective Computing + Intelligent Interaction (ACII)*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10388147)
 <br/><span style="color:red">*(Spotlight)*</span>
 
-R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving Audio Event Localization via Derivative Prediction___. *Proc. EUSIPCO*, 2023
+R. Pandey, S. Jaiswal, **H. Phan**, S. Nannuru. ___Improving Audio Event Localization via Derivative Prediction___. *Proc. EUSIPCO*, 2023 [[PDF]](https://ieeexplore.ieee.org/document/10289907)
 
 J. Liang, X. Liu, H. Liu, **H. Phan**, E. Benetos, M. Plumbley, W. Wang. ___Adapting Language-Audio Models as Few-Shot Audio Learners___. *Proc. INTERSPEECH*, 2023 [[PDF]](https://www.isca-speech.org/archive/pdfs/interspeech_2023/liang23c_interspeech.pdf)
 
