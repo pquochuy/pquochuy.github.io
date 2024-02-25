@@ -22,17 +22,18 @@ O. Y. Chén, **H. Phan**, G. Nagels, and M. De Vos. ___On Statistical Analysis o
 2024
 ------
 
-K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2024 [[Preprint]](https://arxiv.org/pdf/2304.06485.pdf)
-<br/><span style="color:red">*(Accepted)*</span>
-
-S. Singh, C. J. Steinmetz, E. Benetos, **H. Phan**, D. Stowell, ___ATGNN: Audio Tagging Graph Neural Network___, *IEEE Signal Processing Letters*, 2024 [[Preprint]](https://arxiv.org/pdf/2311.01526.pdf)
-<br/><span style="color:red">*(Accepted)*</span>
-
-**H. Phan**, B. Kim, V. Nguyen, A. Bydlon, Q. Tang, C.-C. Kao, C. Wang. ___Cross-triggering Issue in Audio Event Detection and Mitigation___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024
-<br/><span style="color:red">*(Accepted)*</span>
+**H. Phan**, B. Kim, V. Nguyen, A. Bydlon, Q. Tang, C.-C. Kao, C. Wang. ___Cross-triggering Issue in Audio Event Detection and Mitigation___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[PDF]](https://www.amazon.science/publications/cross-triggering-issue-in-audio-event-detection-and-mitigation)
 
 J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[Preprint]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
 <br/><span style="color:red">*(Accepted)*</span>
+
+V.-D. Nguyen, **H. Phan**, O. Y. Chén, A. Mansour, A. Coatanhay, T. Marsault, “On the relationship between Vogler algorithm derivation and parabolic equation for multiple knife edge diffraction,” IEEE Transactions on Antennas and Propagation, 2024
+<br/><span style="color:red">*(Accepted)*</span>
+
+K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2024 [[Preprint]](https://arxiv.org/pdf/2304.06485.pdf) [[PDF]](https://ieeexplore.ieee.org/document/10400520)
+
+S. Singh, C. J. Steinmetz, E. Benetos, **H. Phan**, D. Stowell, ___ATGNN: Audio Tagging Graph Neural Network___, *IEEE Signal Processing Letters*, 2024 [[Preprint]](https://arxiv.org/pdf/2311.01526.pdf) [[PDF]](https://ieeexplore.ieee.org/document/10403650)
+
 
 2023
 ------
