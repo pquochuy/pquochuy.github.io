@@ -19,6 +19,10 @@ J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prom
 2024
 ------
 
+J. Liang, H. Zhang, H. Liu, Y. Cao, Q. Kong, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos. ___WavCraft: Audio Editing and Generation with Large Language Models___ *ICLR 2024 Workshop on Large Language Model (LLM) Agents*, 2024 <br/><span style="color:red">*(Accepted)*</span>
+
+J. Luo, **H. Phan**, L. Wang, J. Reiss. ___Enhanced speech emotion recognition incorporating speaker-sensitive interactions in conversations___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2024 <br/><span style="color:red">*(Accepted)*</span>
+
 **H. Phan**, B. Kim, V. Nguyen, A. Bydlon, Q. Tang, C.-C. Kao, C. Wang. ___Cross-triggering Issue in Audio Event Detection and Mitigation___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[PDF]](https://www.amazon.science/publications/cross-triggering-issue-in-audio-event-detection-and-mitigation)
 <br/><span style="color:red">*(Accepted)*</span>
 
