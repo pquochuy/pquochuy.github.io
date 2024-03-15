@@ -19,7 +19,7 @@ J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prom
 2024
 ------
 
-J. Liang, H. Zhang, H. Liu, Y. Cao, Q. Kong, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos. ___WavCraft: Audio Editing and Generation with Large Language Models___ *ICLR 2024 Workshop on Large Language Model (LLM) Agents*, 2024 <br/><span style="color:red">*(Accepted)*</span>
+J. Liang, H. Zhang, H. Liu, Y. Cao, Q. Kong, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos. ___WavCraft: Audio Editing and Generation with Large Language Models___ *ICLR 2024 Workshop on Large Language Model (LLM) Agents*, 2024 [[Preprint]](https://arxiv.org/abs/2403.09527) <br/><span style="color:red">*(Accepted)*</span> 
 
 J. Luo, **H. Phan**, L. Wang, J. Reiss. ___Enhanced speech emotion recognition incorporating speaker-sensitive interactions in conversations___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2024 <br/><span style="color:red">*(Accepted)*</span>
 
