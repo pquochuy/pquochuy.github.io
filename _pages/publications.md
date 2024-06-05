@@ -15,7 +15,7 @@ Preprint(s)
 
 J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *arXiv preprint arXiv:2312.00249*, 2023 [[PDF]](https://arxiv.org/pdf/2312.00249.pdf)
 
-O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D. Nguyen, H. Cao, X. He, Y. Müller, B. Zhi, H. Shou, H. Zhang, W. He, X. Wang, M. Munafò, N. L. Trung, G. Nagels, P. Ryvlin, G. Pantaleo. ___Residual Partial Least Squares Learning: Brain Cortical Thickness Simultaneously Predicts Eight Non-pairwise-correlated Behavioural and Disease Outcomes in Alzheimer’s Disease___. *bioRxiv*, DOI:2024.03.11.584383, 2024
+O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D. Nguyen, H. Cao, X. He, Y. Müller, B. Zhi, H. Shou, H. Zhang, W. He, X. Wang, M. Munafò, N. L. Trung, G. Nagels, P. Ryvlin, G. Pantaleo. ___Residual Partial Least Squares Learning: Brain Cortical Thickness Simultaneously Predicts Eight Non-pairwise-correlated Behavioural and Disease Outcomes in Alzheimer’s Disease___. *bioRxiv*, DOI:2024.03.11.584383, 2024 [[PDF]](https://www.biorxiv.org/content/10.1101/2024.03.11.584383v3)
 
 2024
 ------
