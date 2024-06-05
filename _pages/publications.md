@@ -15,22 +15,26 @@ Preprint(s)
 
 J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *arXiv preprint arXiv:2312.00249*, 2023 [[PDF]](https://arxiv.org/pdf/2312.00249.pdf)
 
+O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D. Nguyen, H. Cao, X. He, Y. Müller, B. Zhi, H. Shou, H. Zhang, W. He, X. Wang, M. Munafò, N. L. Trung, G. Nagels, P. Ryvlin, G. Pantaleo. ___Residual Partial Least Squares Learning: Brain Cortical Thickness Simultaneously Predicts Eight Non-pairwise-correlated Behavioural and Disease Outcomes in Alzheimer’s Disease___. *bioRxiv*, DOI:2024.03.11.584383, 2024
 
 2024
 ------
 
-J. Liang, H. Zhang, H. Liu, Y. Cao, Q. Kong, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos. ___WavCraft: Audio Editing and Generation with Large Language Models___ *ICLR 2024 Workshop on Large Language Model (LLM) Agents*, 2024 [[Preprint]](https://arxiv.org/abs/2403.09527) <br/><span style="color:red">*(Accepted)*</span> 
-
 J. Luo, **H. Phan**, L. Wang, J. Reiss. ___Enhanced speech emotion recognition incorporating speaker-sensitive interactions in conversations___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2024 <br/><span style="color:red">*(Accepted)*</span>
 
+M. Chen, H. Zhang, Y. Li, J. Luo, W. Wu, Z. Ma, P. Bell, C. Lai, J. Reiss, L. Wang, P. C. Woodland, X. Chen, **H. Phan**, T. Hain. ___1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem___. *Proc. Odyssey*, 2024 [[Preprint]](https://arxiv.org/pdf/2405.20064) <br/><span style="color:red">*(Accepted)*</span>
+
+M. Baumert, **H. Phan**. ___A perspective on automated rapid eye movement sleep assessment___. *Journal of Sleep Research*, article ID e14223, 2024 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533256) [[PDF]](https://onlinelibrary.wiley.com/doi/10.1111/jsr.14223)
+
+P. Autthasan, R. Chaisaen, **H. Phan**, M. De Vos, T. Wilaiprasitporn. ___MixNet: Joining Force of Classical and Modern Approaches toward The Comprehensive Pipeline in Motor Imagery EEG Classification___. *IEEE Internet of Things Journal*, 2024 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533256)
+
+J. Liang, H. Zhang, H. Liu, Y. Cao, Q. Kong, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos. ___WavCraft: Audio Editing and Generation with Large Language Models___. *ICLR 2024 Workshop on Large Language Model (LLM) Agents*, 2024 [[Preprint]](https://arxiv.org/abs/2403.09527) [[Code]](https://github.com/JinhuaLiang/WavCraft)
+
 **H. Phan**, B. Kim, V. Nguyen, A. Bydlon, Q. Tang, C.-C. Kao, C. Wang. ___Cross-triggering Issue in Audio Event Detection and Mitigation___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[PDF]](https://www.amazon.science/publications/cross-triggering-issue-in-audio-event-detection-and-mitigation)
-<br/><span style="color:red">*(Accepted)*</span>
 
-J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[Preprint]](https://arxiv.org/pdf/2212.08952.pdf)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
-<br/><span style="color:red">*(Accepted)*</span>
+J. Liang, **H. Phan**, E. Benetos. ___Learning from Taxonomy: Multi-label Few-Shot Classification for Everyday Sound Recognition___. *Proc. 49th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024 [[Preprint]](https://arxiv.org/pdf/2212.08952.pdf)[[PDF]](https://ieeexplore.ieee.org/document/10446908)[[Dataset]](https://zenodo.org/record/7452708#.Y71SQOx_rOR)
 
-V.-D. Nguyen, **H. Phan**, O. Y. Chén, A. Mansour, A. Coatanhay, T. Marsault, “On the relationship between Vogler algorithm derivation and parabolic equation for multiple knife edge diffraction,” *IEEE Transactions on Antennas and Propagation*, 2024
-<br/><span style="color:red">*(Accepted)*</span>
+V.-D. Nguyen, **H. Phan**, O. Y. Chén, A. Mansour, A. Coatanhay, T. Marsault, “On the relationship between Vogler algorithm derivation and parabolic equation for multiple knife edge diffraction,” *IEEE Transactions on Antennas and Propagation*, vol. 72, no. 5, pp. 4682-4686, 2024
 
 K. Kontras, C. Chatzichristos, **H. Phan**, J. Suykens, M. De Vos. ___CoRe-Sleep: A Multimodal Fusion Framework for Time Series Robust to Imperfect Modalities___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, 2024 [[Preprint]](https://arxiv.org/pdf/2304.06485.pdf) [[PDF]](https://ieeexplore.ieee.org/document/10400520)
 
