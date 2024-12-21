@@ -6,16 +6,11 @@ author_profile: true
 redirect_from: /huyphan/
 google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
-<!--- 
-<span style="color:#B22222">I am looking for students interested in doing a Ph.D. with me at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK). The research topics should focus on machine learning/deep learning for audio and/or biosignal analysis. Please get in touch in case you have any questions. Full scholarships are available for EU/UK students. Note to international students, in the UK an international student needs to pay international fee.</span>
--->
-<!--- 
+
+**Last updated: 21 Dec 2024**
 <br/>
-<span style="color:red">**PhD opportunity**</span> in deep learning for joint audio and ear-EEG processing, working with [Preben Kidmose](https://eng.au.dk/en/research/research-programs-and-centres/center-for-ear-eeg/), [Kaare Mikkelsen](https://eng.au.dk/en/research/research-programs-and-centres/center-for-ear-eeg/) and myself. This position is based in Aarhus University. More detail can be found [HERE](https://eng.au.dk/fileadmin/DJF/ENG/Billeder/ECE/CenterforEarEEG/PhDPosition2_DeepLearningForJointProcessingOfAudioAndEEGSignals.pdf). <span style="color:red">* The position has been filled. *</span>
 <br/>
--->
-<br/>
-I am a Sr. Research Scientist at Amazon, AGI. Before joining Amazon, I was a Lecturer (Assistant Professor) in AI at the [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/) (UK) and a Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) (UK). At QMUL, I co-led [the Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/) at [the Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/). Before that, I was a Lecturer in Computing at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK) and a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/). 
+I am a Research Scientist at Reality Labs @ Meta. Before joining Meta, I was a Sr. Research Scientist at Amazon Alexa/AGI. Before moving to industry, I was a Lecturer (Assistant Professor) in AI at the [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/) (UK) and a Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) (UK). At QMUL, I co-led [the Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/) at [the Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/). Before that, I was a Lecturer in Computing at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK) and a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/). 
 <br/>
 <br/>
 I did PhD (summa cum laude) in Computer Science at the [Institute for Signal Processing](https://www.isip.uni-luebeck.de/), [University of Lübeck](https://www.uni-luebeck.de/) (Germany) under the supervision of [Prof. Alfred Mertins](https://www.isip.uni-luebeck.de/people/alfred-mertins). My PhD thesis on audio event detection was awarded the [Bernd Fischer Award](https://www.uni-luebeck.de/en/graduation/graduate-service/doctoral-awards/professor-bernd-fischer-preis-mint.html) for the best PhD thesis in 2018. In 2021, I was awarded IEEE-EMBS Best Paper Award 2019-20.
@@ -36,26 +31,11 @@ My CV is available [here](https://drive.google.com/file/d/1AyTmzsFhJ4Rm789YbkaMM
 -->
 <br/>
 
-<!--- 
-<span style="color:#B22222">**PhD opportunities**</span>
----
-I am looking for self-motivated students for three full PhD scholarships in Computer Science, two [China Scholarship Council (CSC) Scholarships](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html) and one [UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM) scholarship](https://www.aim.qmul.ac.uk/apply/), working on the following topics:
-* Multitask modelling for overlapping sound sources (AIM), <span style="color:#B22222">deadline 31st January 2022</span>
-* Personalized scientific-grading sleep monitoring in home environments (CSC), <span style="color:#B22222">deadline 31st March 2022</span>
-* Discourse structure recognition for broadcast summarisation (CSC, jointly working with [Prof. Matthew Purver](http://www.eecs.qmul.ac.uk/~mpurver/)), <span style="color:#B22222">deadline 31st March 2022</span>
-
-Please visit [HERE](http://machine-listening.eecs.qmul.ac.uk/2021/12/call-for-phd-applications-at-the-machine-listening-lab-2/) for the description of the projects. If you are interested in applying, please get in touch with me via email. 
-<br/>
-For more PhD opportunities at the Machine Listening lab, please visit [HERE](http://machine-listening.eecs.qmul.ac.uk/2021/12/call-for-phd-applications-at-the-machine-listening-lab-2/)
-<br/>
-For More PhD opportunities at AIM CDT, please visit [HERE](https://www.aim.qmul.ac.uk/apply/)
-<br/>
--->
-
 News
 ---
-* **13 12 2023:** <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2024.
-* **3 August 2023:** <span style="color:#B22222">(New)</span> L-SeqSleepNet paper accepted for publication in IEEE Journal of Biomedical and Health Informatics (JBHI)
+* **21 Dec 2024:** <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2025.
+* **13 Dec 2023:** <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2024.
+* **3 Aug 2023:** <span style="color:#B22222">(New)</span> L-SeqSleepNet paper accepted for publication in IEEE Journal of Biomedical and Health Informatics (JBHI)
 * 16 Feb 2023: <span style="color:#B22222">(New)</span> Three papers accepted to IEEE ICASSP 2023.
 * 21 Jan 2022: <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2022.
 * 17 Dec 2021: <span style="color:#B22222">(New)</span> I have been elected as member in the Technical Area Committee (TAC) in Biomedical Image & Signal Analytics (BISA), the European Association for Signal Processing (EURASIP), term 2022-2024.
