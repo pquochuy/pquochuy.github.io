@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
-
+**Last updated: 21 Dec 2024**
+ <br>
+ 
   _<u>Note:</u> PDF is for personal use only. Copyrights are reserved by Publishers_
   
   You can find my Google Scholar profile [here](https://scholar.google.com/citations?hl=en&user=RegoACcAAAAJ&view_op=list_works&sortby=pubdate).
@@ -13,18 +15,35 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 Preprint(s)
 ------
 
+N. D. T. Nguyen, **H. Phan**, K. Mikkelsen, P. Kidmose. ___Single-word Auditory Attention Classification Using Deep Learning Models___, *arXiv preprint arXiv:2410.19793*, 2024 [[PDF]](https://arxiv.org/abs/2410.19793)
+
+N. D. T. Nguyen, **H. Phan**, S. Geirnaert, K. Mikkelsen, P. Kidmose. ___AADNet: An End-to-End Deep Learning Model for Auditory Attention Decoding___, *arXiv preprint arXiv:2410.13059*, 2024 [[PDF]](https://arxiv.org/abs/2410.13059)
+
+H. A. Just, M. Jin, A. K. Sahu, **H. Phan**, R. Jia, ___Data-Centric Human Preference Optimization with Rationales___, *arXiv preprint arXiv:2407.14477*, 2024 [[PDF]](https://arxiv.org/abs/2407.14477)
+
 J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *arXiv preprint arXiv:2312.00249*, 2023 [[PDF]](https://arxiv.org/pdf/2312.00249.pdf)
 
 O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D. Nguyen, H. Cao, X. He, Y. Müller, B. Zhi, H. Shou, H. Zhang, W. He, X. Wang, M. Munafò, N. L. Trung, G. Nagels, P. Ryvlin, G. Pantaleo. ___Residual Partial Least Squares Learning: Brain Cortical Thickness Simultaneously Predicts Eight Non-pairwise-correlated Behavioural and Disease Outcomes in Alzheimer’s Disease___. *bioRxiv*, DOI:2024.03.11.584383, 2024 [[PDF]](https://www.biorxiv.org/content/10.1101/2024.03.11.584383v3)
 
+2025
+------
+
+B. Kim, A. Bydlon, Q. Tang, **H. Phan**, C.-C. Kao, T. Zhang, C. Wang. ___Effective Techniques for Scaling Audio Encoder Pretraining___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025<br/><span style="color:red">*(Accepted)*</span>
+
+S. Singh, E. Benetos, **H. Phan**, D. Stowell. ___LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025<br/><span style="color:red">*(Accepted)*</span>
+
 2024
 ------
 
-J. Luo, **H. Phan**, L. Wang, J. Reiss. ___Enhanced speech emotion recognition incorporating speaker-sensitive interactions in conversations___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2024 <br/><span style="color:red">*(Accepted)*</span>
+J. Wang, X. Wang, X. Ning, Y. Lin, **H. Phan**, Z. Jia. ___Subject-Adaptation Salient Wave Detection Network for Multimodal Sleep Stage Classification___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2024 [[PDF]](https://ieeexplore.ieee.org/document/10787148)
 
-M. Chen, H. Zhang, Y. Li, J. Luo, W. Wu, Z. Ma, P. Bell, C. Lai, J. Reiss, L. Wang, P. C. Woodland, X. Chen, **H. Phan**, T. Hain. ___1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem___. *Proc. Odyssey*, 2024 [[Preprint]](https://arxiv.org/pdf/2405.20064) <br/><span style="color:red">*(Accepted)*</span>
+J. Liang, I. Nolasco, B. Ghani, **H. Phan**, E. Benetos, D. Stowell. ___Mind the Domain Gap: a Systematic Analysis on Bioacoustic Sound Event Detection___. *Proc. EUSIPCO*, 2024 [[PDF]](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001257.pdf)
 
-M. Baumert, **H. Phan**. ___A perspective on automated rapid eye movement sleep assessment___. *Journal of Sleep Research*, article ID e14223, 2024 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533256) [[PDF]](https://onlinelibrary.wiley.com/doi/10.1111/jsr.14223)
+J. Luo, **H. Phan**, L. Wang, J. Reiss. ___Enhanced speech emotion recognition incorporating speaker-sensitive interactions in conversations___. *Proc. IEEE International Conference on Multimedia & Expo (ICME)*, 2024 [[PDF]](https://ieeexplore.ieee.org/document/10687895)
+
+M. Chen, H. Zhang, Y. Li, J. Luo, W. Wu, Z. Ma, P. Bell, C. Lai, J. Reiss, L. Wang, P. C. Woodland, X. Chen, **H. Phan**, T. Hain. ___1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem___. *Proc. Odyssey*, 2024 [[Preprint]](https://arxiv.org/pdf/2405.20064) [[PDF]](https://www.isca-archive.org/odyssey_2024/chen24_odyssey.pdf)
+
+M. Baumert, **H. Phan**. ___A perspective on automated rapid eye movement sleep assessment___. *Journal of Sleep Research*, article ID e14223, 2024 [[PDF]](https://onlinelibrary.wiley.com/doi/10.1111/jsr.14223)
 
 P. Autthasan, R. Chaisaen, **H. Phan**, M. De Vos, T. Wilaiprasitporn. ___MixNet: Joining Force of Classical and Modern Approaches toward The Comprehensive Pipeline in Motor Imagery EEG Classification___. *IEEE Internet of Things Journal*, 2024 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533256)
 
