@@ -6,20 +6,16 @@ author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
+**Last updated: 21 Dec 2024**
+</br>
+
 PhD students
 ------
-
+* ___Xuan Phu Nguyen___, *ECG Foundation Models*<br/>KU Leuven, 2024-present *(jointly with Maarten de Vos)*
 * ___Jinhua Liang___, *AI for everyday sounds*<br/>QMUL, 2021-present *(jointly with Emmanouil Benetos)*
-* ___Christoper Winnard___, *Music interestingness in the brain*<br/>QMUL, 2021-present *(jointly with Kaare Mikkelsen and Preben Kidmose)*
-* ___Bleiz Del Sette___, *Sound and deep learning for management of chronic pain condition*<br/>QMUL, 2021-present *(jointly with Charis Saitis)*
 * ___Shubhr Singh___, *Audio applications of novel mathematical methods in deep learning*<br/>QMUL, 2020-present *(jointly with Emmanouil Benetos and Dan Stowell)*
-* ___Marco Comunità___, *Machine learning applied to sound synthesis models*<br/>QMUL, 2020-present *(jointly with Joshua Reiss)*
-* ___Christian Steinmetz___, *End-to-end generative modeling of multitrack mixing with non-parallel data and adversarial networks*<br/>QMUL, 2020-present *(jointly with Joshua Reiss)*
-* ___Jiachen Luo___, *Voice and language analysis for personality disorder detection*<br/>QMUL, 2020-present *(jointly with Joshua Reiss)*
-* ___Inês de Almeida Nolasco___, *Automatic acoustic identification of individual animals in the wild*<br/>QMUL, 2020-present *(jointly with Emmanouil Benetos and Dan Stowell)*
-* ___Iacopo Ginassi___, *Semantic understanding of TV programme content and structure to enable automatic enhancement and adjustment*<br/>QMUL, 2020-present *(jointly with Matthew Purver)*
-* ___Harnick Khera___, *Informed source separation for multi-mic production*<br/>QMUL, 2020-present *(jointly with Mark Sandler)*
-* ___Nhan Nguyen___, *Detecting attended auditory events using ear-EEG: a new approach to auditory attention decoding*<br/>Aarhus University, 2021-present *(jointly with Preben Kidmose and Kaare Mikkelsen)*
+* ___Jiachen Luo___, *Speech emotion recognition in conversations*<br/>QMUL, 2020-present *(jointly with Joshua Reiss and Lin Wang)*
+* ___Nhan Nguyen___, *Detecting attended auditory events using ear-EEG: a new approach to auditory attention decoding*<br/>Aarhus University, 2021-2024 *(jointly with Preben Kidmose and Kaare Mikkelsen)*
 
 MSc students
 ------
