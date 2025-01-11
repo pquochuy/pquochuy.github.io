@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
-**Last updated: 21 Dec 2024**
+**Last updated: 11 Jan 2025**
  <br>
  
   _<u>Note:</u> PDF is for personal use only. Copyrights are reserved by Publishers_
@@ -21,12 +21,12 @@ N. D. T. Nguyen, **H. Phan**, S. Geirnaert, K. Mikkelsen, P. Kidmose. ___AADNet:
 
 H. A. Just, M. Jin, A. K. Sahu, **H. Phan**, R. Jia, ___Data-Centric Human Preference Optimization with Rationales___, *arXiv preprint arXiv:2407.14477*, 2024 [[PDF]](https://arxiv.org/abs/2407.14477)
 
-J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *arXiv preprint arXiv:2312.00249*, 2023 [[PDF]](https://arxiv.org/pdf/2312.00249.pdf)
-
 O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D. Nguyen, H. Cao, X. He, Y. Müller, B. Zhi, H. Shou, H. Zhang, W. He, X. Wang, M. Munafò, N. L. Trung, G. Nagels, P. Ryvlin, G. Pantaleo. ___Residual Partial Least Squares Learning: Brain Cortical Thickness Simultaneously Predicts Eight Non-pairwise-correlated Behavioural and Disease Outcomes in Alzheimer’s Disease___. *bioRxiv*, DOI:2024.03.11.584383, 2024 [[PDF]](https://www.biorxiv.org/content/10.1101/2024.03.11.584383v3)
 
 2025
 ------
+
+J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*, 2025 [[Preprint]](https://arxiv.org/pdf/2312.00249.pdf)<br/><span style="color:red">*(Accepted)*</span>
 
 B. Kim, A. Bydlon, Q. Tang, **H. Phan**, C.-C. Kao, T. Zhang, C. Wang. ___Effective Techniques for Scaling Audio Encoder Pretraining___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025<br/><span style="color:red">*(Accepted)*</span>
 
