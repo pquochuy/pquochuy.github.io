@@ -13,3 +13,7 @@ London E1 4NS<br/>United Kingdom<br/>
 
 Email: h[dot]phan[at]qmul.ac.uk
 -->
+<br/>
+**Huy Phan**<br/>Meta<br/>6 Rue Ménars<br/>75002 Paris<br/>France<br/>
+
+Email: huyphan[at]meta.com, huy[dot]phan[at]ieee.org
