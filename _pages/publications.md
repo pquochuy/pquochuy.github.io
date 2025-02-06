@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
-**Last updated: 11 Jan 2025**
+**Last updated: 6 Feb 2025**
  <br>
  
   _<u>Note:</u> PDF is for personal use only. Copyrights are reserved by Publishers_
@@ -25,8 +25,9 @@ O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D.
 
 2025
 ------
+J. Liang, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*, 2025 [[Preprint]](https://arxiv.org/pdf/2312.00249.pdf)<br/><span style="color:red">*(Accepted)*</span>
 
-J. Liang, X. Liu, W. Wang, M. D. Plumbley, H. Phan, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*, 2025 [[Preprint]](https://arxiv.org/pdf/2312.00249.pdf)<br/><span style="color:red">*(Accepted)*</span>
+B. Zhai, H. Duan, Y. Guan, **H. Phan**, W. L. Woo, ___DSleepNet: Disentanglement Learning for Personal Attribute-agnostic Three-stage Sleep Classification Using Wearable Sensing Data___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025<br/><span style="color:red">*(Accepted)*</span>
 
 B. Kim, A. Bydlon, Q. Tang, **H. Phan**, C.-C. Kao, T. Zhang, C. Wang. ___Effective Techniques for Scaling Audio Encoder Pretraining___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025<br/><span style="color:red">*(Accepted)*</span>
 
