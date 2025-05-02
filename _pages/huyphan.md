@@ -7,7 +7,7 @@ redirect_from: /huyphan/
 google_site_verification: qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 
-**Last updated: 21 Dec 2024**
+**Last updated: 2 May 2024**
 <br/>
 <br/>
 I am a Research Scientist at Reality Labs @ Meta. Before joining Meta, I was a Sr. Research Scientist at Amazon Alexa/AGI. Before moving to industry, I was a Lecturer (Assistant Professor) in AI at the [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](https://www.qmul.ac.uk/) (UK) and a Turing Fellow at [the Alan Turing Institute](https://www.turing.ac.uk/) (UK). At QMUL, I co-led [the Machine Listening Lab](http://machine-listening.eecs.qmul.ac.uk/) at [the Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/). Before that, I was a Lecturer in Computing at the [School of Computing](https://www.cs.kent.ac.uk/), [University of Kent](https://www.kent.ac.uk/) (UK) and a postdoctoral researcher in the [CIBIM lab](https://cibim.eng.ox.ac.uk/) at the [Department of Engineering Science](http://www.eng.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/). 
@@ -33,6 +33,7 @@ My CV is available [here](https://drive.google.com/file/d/1AyTmzsFhJ4Rm789YbkaMM
 
 News
 ---
+* **1 May 2025:** <span style="color:#B22222">(New)</span> Two papers accepted to ICML 2025.
 * **21 Dec 2024:** <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2025.
 * **13 Dec 2023:** <span style="color:#B22222">(New)</span> Two papers accepted to IEEE ICASSP 2024.
 * **3 Aug 2023:** <span style="color:#B22222">(New)</span> L-SeqSleepNet paper accepted for publication in IEEE Journal of Biomedical and Health Informatics (JBHI)
