@@ -37,11 +37,11 @@ J. Liang, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos, ___Acoustic 
 
 J. Wang, X. Wang, X. Ning, Y. Lin, **H. Phan**, Z. Jia. ___Subject-Adaptation Salient Wave Detection Network for Multimodal Sleep Stage Classification___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 29, no. 3, 2025 [[PDF]](https://ieeexplore.ieee.org/document/10787148)
 
-B. Zhai, H. Duan, Y. Guan, **H. Phan**, W. L. Woo, ___DSleepNet: Disentanglement Learning for Personal Attribute-agnostic Three-stage Sleep Classification Using Wearable Sensing Data___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025
+B. Zhai, H. Duan, Y. Guan, **H. Phan**, W. L. Woo, ___DSleepNet: Disentanglement Learning for Personal Attribute-agnostic Three-stage Sleep Classification Using Wearable Sensing Data___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025 [[PDF]](https://ieeexplore.ieee.org/document/10884774)
 
-B. Kim, A. Bydlon, Q. Tang, **H. Phan**, C.-C. Kao, T. Zhang, C. Wang. ___Effective Techniques for Scaling Audio Encoder Pretraining___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025
+B. Kim, A. Bydlon, Q. Tang, **H. Phan**, C.-C. Kao, T. Zhang, C. Wang. ___Effective Techniques for Scaling Audio Encoder Pretraining___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025 [[PDF]](https://assets.amazon.science/44/1b/bb7b0f2b4b02af36c3b81c08aa23/effective-techniques-for-scaling-audio-encoder-pretraining.pdf)
 
-S. Singh, E. Benetos, **H. Phan**, D. Stowell. ___LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025
+S. Singh, E. Benetos, **H. Phan**, D. Stowell. ___LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025 [[PDF]](https://arxiv.org/pdf/2501.03464)
 
 2024
 ------
