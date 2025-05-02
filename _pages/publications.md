@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
-**Last updated: 6 Feb 2025**
+**Last updated: 2 May 2025**
  <br>
  
   _<u>Note:</u> PDF is for personal use only. Copyrights are reserved by Publishers_
@@ -14,6 +14,10 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
   
 Preprint(s)
 ------
+
+J. Luo, H. Phan, L. Wang, J. Reiss. ___Heterogeneous bimodal attention fusion for speech emotion recognition___, *arXiv preprint arXiv:2503.06405*, 2025 [[PDF]](https://arxiv.org/abs/2503.06405)
+
+J. Luo, H. Phan, L. Wang, J. Reiss. ___Bimodal Connection Attention Fusion for Speech Emotion Recognition___, *arXiv preprint arXiv:2503.05858*, 2025 [[PDF]](https://arxiv.org/abs/2503.05858)
 
 N. D. T. Nguyen, **H. Phan**, K. Mikkelsen, P. Kidmose. ___Single-word Auditory Attention Classification Using Deep Learning Models___, *arXiv preprint arXiv:2410.19793*, 2024 [[PDF]](https://arxiv.org/abs/2410.19793)
 
@@ -25,18 +29,22 @@ O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D.
 
 2025
 ------
+K.-P. Huang, S.-W. Yang, **H. Phan**, B.-R. Lu, B. Kim, S. Macha, Q. Tang, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang, ___IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling___. *International Conference on Machine Learning*, 2025<br/><span style="color:red">*(Accepted)*</span>
+
+S.-W. Yang, B. Kim, K.-P. Huang, Q. Tang, **H. Phan**, S. Ghosh, B.-R. Lu, H. Sundar, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang, ___Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction___. *International Conference on Machine Learning*, 2025<br/><span style="color:red">*(Accepted)*</span>
+
 J. Liang, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*, 2025 [[Preprint]](https://arxiv.org/pdf/2312.00249.pdf)<br/><span style="color:red">*(Accepted)*</span>
 
-B. Zhai, H. Duan, Y. Guan, **H. Phan**, W. L. Woo, ___DSleepNet: Disentanglement Learning for Personal Attribute-agnostic Three-stage Sleep Classification Using Wearable Sensing Data___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025<br/><span style="color:red">*(Accepted)*</span>
+J. Wang, X. Wang, X. Ning, Y. Lin, **H. Phan**, Z. Jia. ___Subject-Adaptation Salient Wave Detection Network for Multimodal Sleep Stage Classification___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 29, no. 3, 2025 [[PDF]](https://ieeexplore.ieee.org/document/10787148)
 
-B. Kim, A. Bydlon, Q. Tang, **H. Phan**, C.-C. Kao, T. Zhang, C. Wang. ___Effective Techniques for Scaling Audio Encoder Pretraining___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025<br/><span style="color:red">*(Accepted)*</span>
+B. Zhai, H. Duan, Y. Guan, **H. Phan**, W. L. Woo, ___DSleepNet: Disentanglement Learning for Personal Attribute-agnostic Three-stage Sleep Classification Using Wearable Sensing Data___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025
 
-S. Singh, E. Benetos, **H. Phan**, D. Stowell. ___LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025<br/><span style="color:red">*(Accepted)*</span>
+B. Kim, A. Bydlon, Q. Tang, **H. Phan**, C.-C. Kao, T. Zhang, C. Wang. ___Effective Techniques for Scaling Audio Encoder Pretraining___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025
+
+S. Singh, E. Benetos, **H. Phan**, D. Stowell. ___LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025
 
 2024
 ------
-
-J. Wang, X. Wang, X. Ning, Y. Lin, **H. Phan**, Z. Jia. ___Subject-Adaptation Salient Wave Detection Network for Multimodal Sleep Stage Classification___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2024 [[PDF]](https://ieeexplore.ieee.org/document/10787148)
 
 J. Liang, I. Nolasco, B. Ghani, **H. Phan**, E. Benetos, D. Stowell. ___Mind the Domain Gap: a Systematic Analysis on Bioacoustic Sound Event Detection___. *Proc. EUSIPCO*, 2024 [[PDF]](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001257.pdf)
 
