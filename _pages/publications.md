@@ -29,9 +29,9 @@ O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D.
 
 2025
 ------
-K.-P. Huang, S.-W. Yang, **H. Phan**, B.-R. Lu, B. Kim, S. Macha, Q. Tang, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang, ___IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling___. *International Conference on Machine Learning*, 2025<br/><span style="color:red">*(Accepted)*</span>
+K.-P. Huang, S.-W. Yang, **H. Phan**, B.-R. Lu, B. Kim, S. Macha, Q. Tang, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang, ___IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling___. *International Conference on Machine Learning (ICML)*, 2025<br/><span style="color:red">*(Accepted)*</span>
 
-S.-W. Yang, B. Kim, K.-P. Huang, Q. Tang, **H. Phan**, S. Ghosh, B.-R. Lu, H. Sundar, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang, ___Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction___. *International Conference on Machine Learning*, 2025<br/><span style="color:red">*(Accepted)*</span>
+S.-W. Yang, B. Kim, K.-P. Huang, Q. Tang, **H. Phan**, S. Ghosh, B.-R. Lu, H. Sundar, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang, ___Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction___. *International Conference on Machine Learning (ICML)*, 2025<br/><span style="color:red">*(Accepted)*</span>
 
 J. Liang, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*, 2025 [[Preprint]](https://arxiv.org/pdf/2312.00249.pdf)<br/><span style="color:red">*(Accepted)*</span>
 
