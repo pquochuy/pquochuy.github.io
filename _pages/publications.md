@@ -21,23 +21,26 @@ J. Luo, H. Phan, L. Wang, J. Reiss. ___Bimodal Connection Attention Fusion for S
 
 N. D. T. Nguyen, **H. Phan**, K. Mikkelsen, P. Kidmose. ___Single-word Auditory Attention Classification Using Deep Learning Models___, *arXiv preprint arXiv:2410.19793*, 2024 [[PDF]](https://arxiv.org/abs/2410.19793)
 
-N. D. T. Nguyen, **H. Phan**, S. Geirnaert, K. Mikkelsen, P. Kidmose. ___AADNet: An End-to-End Deep Learning Model for Auditory Attention Decoding___, *arXiv preprint arXiv:2410.13059*, 2024 [[PDF]](https://arxiv.org/abs/2410.13059)
-
-H. A. Just, M. Jin, A. K. Sahu, **H. Phan**, R. Jia, ___Data-Centric Human Preference Optimization with Rationales___, *arXiv preprint arXiv:2407.14477*, 2024 [[PDF]](https://arxiv.org/abs/2407.14477)
-
 O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D. Nguyen, H. Cao, X. He, Y. Müller, B. Zhi, H. Shou, H. Zhang, W. He, X. Wang, M. Munafò, N. L. Trung, G. Nagels, P. Ryvlin, G. Pantaleo. ___Residual Partial Least Squares Learning: Brain Cortical Thickness Simultaneously Predicts Eight Non-pairwise-correlated Behavioural and Disease Outcomes in Alzheimer’s Disease___. *bioRxiv*, DOI:2024.03.11.584383, 2024 [[PDF]](https://www.biorxiv.org/content/10.1101/2024.03.11.584383v3)
 
 2025
 ------
-K.-P. Huang, S.-W. Yang, **H. Phan**, B.-R. Lu, B. Kim, S. Macha, Q. Tang, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang, ___IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling___. *International Conference on Machine Learning (ICML)*, 2025<br/><span style="color:red">*(Accepted)*</span>
 
-S.-W. Yang, B. Kim, K.-P. Huang, Q. Tang, **H. Phan**, S. Ghosh, B.-R. Lu, H. Sundar, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang, ___Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction___. *International Conference on Machine Learning (ICML)*, 2025<br/><span style="color:red">*(Accepted)*</span>
+H. A. Just, M. Jin, A. K. Sahu, **H. Phan**, R. Jia. ___Data-Centric Human Preference with Rationales for Direct Preference Alignment___. *Second Conference on Language Modeling (COLM)*, 2025 [[Preprint]](https://arxiv.org/pdf/2407.14477)<br/><span style="color:red">*(Accepted)*</span>
 
-J. Liang, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos, ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*, 2025 [[Preprint]](https://arxiv.org/pdf/2312.00249.pdf)<br/><span style="color:red">*(Accepted)*</span>
+N. D. T. Nguyen, **H. Phan**, S. Geirnaert, K. Mikkelsen, P. Kidmose. ___AADNet: An End-to-End Deep Learning Model for Auditory Attention Decoding___. *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)*, 2025 [[Preprint]](https://arxiv.org/abs/2410.13059)<br/><span style="color:red">*(Accepted)*</span>
+
+H. Zhang, J. Liang, **H. Phan**, W. Wang, E. Benetos, ___From Aesthetics to Human Preferences: Comparative Perspectives of Evaluating Text-to-Music Systems___. *35th IEEE International Workshop on Machine Learning for Signal Processing (MLSP)*, 2025 [[Preprint]](https://arxiv.org/abs/2504.21815)<br/><span style="color:red">*(Accepted)*</span>
+
+K.-P. Huang, S.-W. Yang, **H. Phan**, B.-R. Lu, B. Kim, S. Macha, Q. Tang, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang. ___IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling___. *International Conference on Machine Learning (ICML)*, 2025 [[PDF]](https://www.amazon.science/publications/impact-iterative-mask-based-parallel-decoding-for-text-to-audio-generation-with-diffusion-modeling)
+
+S.-W. Yang, B. Kim, K.-P. Huang, Q. Tang, **H. Phan**, S. Ghosh, B.-R. Lu, H. Sundar, S. Ghosh, H.-Y. Lee, C.-C. Kao, C. Wang. ___Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction___. *International Conference on Machine Learning (ICML)*, 2025 [[PDF]](https://www.amazon.science/publications/generative-audio-language-modeling-with-continuous-valued-tokens-and-masked-next-token-prediction)
+
+J. Liang, X. Liu, W. Wang, M. D. Plumbley, **H. Phan**, E. Benetos. ___Acoustic Prompt Tuning: Empowering Large Language Models with Audition Capabilities___, *IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)*, vol. 33, pp. 949-961, 2025 [[Preprint]](https://arxiv.org/pdf/2312.00249.pdf) [[PDF]](https://ieeexplore.ieee.org/document/10852359) [[Code]](https://github.com/JinhuaLiang/APT)
 
 J. Wang, X. Wang, X. Ning, Y. Lin, **H. Phan**, Z. Jia. ___Subject-Adaptation Salient Wave Detection Network for Multimodal Sleep Stage Classification___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 29, no. 3, 2025 [[PDF]](https://ieeexplore.ieee.org/document/10787148)
 
-B. Zhai, H. Duan, Y. Guan, **H. Phan**, W. L. Woo, ___DSleepNet: Disentanglement Learning for Personal Attribute-agnostic Three-stage Sleep Classification Using Wearable Sensing Data___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025 [[PDF]](https://ieeexplore.ieee.org/document/10884774)
+B. Zhai, H. Duan, Y. Guan, **H. Phan**, W. L. Woo, ___DSleepNet: Disentanglement Learning for Personal Attribute-agnostic Three-stage Sleep Classification Using Wearable Sensing Data___. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 29, no. 7, pp. 4861-4872, 2025 [[PDF]](https://ieeexplore.ieee.org/document/10884774)
 
 B. Kim, A. Bydlon, Q. Tang, **H. Phan**, C.-C. Kao, T. Zhang, C. Wang. ___Effective Techniques for Scaling Audio Encoder Pretraining___. *Proc. 50th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025 [[PDF]](https://assets.amazon.science/44/1b/bb7b0f2b4b02af36c3b81c08aa23/effective-techniques-for-scaling-audio-encoder-pretraining.pdf)
 
