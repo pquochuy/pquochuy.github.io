@@ -8,6 +8,8 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 
 _"Develop a passion for learning. If you do, you will never cease to grow."_ - Anthony J. D'Angelo
 
+**Last updated: 1 Dec 2022*
+
 Teaching
 ------
 * **ECS7013P: Deep Learning for Audio and Music**<br/>*School of Electronic Engineering & Computer Science, QMUL*<br/>Module Organizer & Lecturer: Graduate (Spring 2021, Spring 2022)
