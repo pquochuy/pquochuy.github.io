@@ -7,19 +7,17 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
 _“We do not have knowledge of a thing until we have grasped its why”_ - Aristotle
 
+**Last updated: 21 Dec 2024**
+
 My current research activities involve in the following topics:
 
 * **Deep learning/machine learning**<br/>*Representation learning and algorithms for temporal signal analysis (e.g. audio, speech, EEG, sEMG, fMRI, etc.)*
 
-* **Machine hearing**<br/>*Audio event detection, audio scene analysis, speech enhancement*
+* **Audio/speech**<br/>*Audio event detection, audio scene analysis, speech enhancement, audio generation, emotion recognition in conversations*
 
-* **Brain monitoring**<br/>*Automatic sleep staging, sleep micro-event detection, mobile EEG*
-
-* **Pathological voice/speech/language analysis**<br/>*Parkinson's disease, personality disorder, etc.*
+* **Brain monitoring**<br/>*Sleep staging, sleep micro-event detection, mobile EEG*
 
 * **Hand prosthetics**<br/>*sEMG-based low-latency hand movement recognition/prediction, low-cost alternative sensors*
-
-* **Digital biomarkers for mental health monitoring**<br/>
 
 <!--- 
 * Building biomarkers for brain diseases
