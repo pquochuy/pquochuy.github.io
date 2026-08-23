@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
 ---
-**Last updated: 1 March 2026**
+**Last updated: 23 August 2026**
  <br>
  
   _<u>Note:</u> PDF is for personal use only. Copyrights are reserved by Publishers_
@@ -14,6 +14,10 @@ google_site_verification : qLmB3ZHKKYmvqD7qykfvK5XK4WaMZYXM-dFR-ZyAkmo
   
 Preprint(s)
 ------
+
+P. X. Nguyen, K. Kontras, W. Dai, **H. Phan**, C. Chatzichristos, P. P. Liang, B. Vandenberk, M. De Vos. ___Information-theoretic Multimodal Representation Learning for Electrocardiogram Signals___, *arXiv preprint arXiv:2605.27583*, 2026 [[PDF]](https://arxiv.org/pdf/2605.27583)
+
+J. Luo, Q. Yang, J. He, Y. Hua, Z. Lian, Y. Li, S. Song, W. Wu, D. Wang, S. Shen, J. Wu, G. Hu, H. Hu, Y. Li, Z. Zhang, J. Wang, S. Zhou, Z. Tang, C. Xiao, S. Xu, Z. Zhao, X. Xue, S. Zhao, Y. Dai, T. Toda, L. Sun, K. Yang, L. Zhang, C. Cai, J. Du, Z. Ma, M. Chen, C. Qian, Z. Yuan, X. Chen, **H. Phan**, L. Wang, B. Schuller, J. Reiss. ___A Comprehensive Review in Unimodal and Multimodal Emotion Recognition___, *PsyArXiv pny2b*, 2026 [[PDF]](https://osf.io/preprints/psyarxiv/pny2b_v1)
 
 P. X. Nguyen, **H. Phan**, H. Pham, C. Chatzichristos, B. Vandenberk, M. De Vos. ___ECG-Soup: Harnessing Multi-Layer Synergy for ECG Foundation Models___, *arXiv preprint arXiv:2509.00102*, 2025 [[PDF]](https://arxiv.org/pdf/2509.00102v2)
 
@@ -24,7 +28,13 @@ O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D.
 2026
 ------
 
-J. Luo, **H. Phan**, L. Wang, J. Reiss. ___BCAF: Bimodal Connection Attention Fusion for Speech Emotion Recognition___, *IEEE Transactions on Multimedia (TMM)*, 2026 [[Preprint]](https://arxiv.org/abs/2503.05858)<br/><span style="color:red">*(Accepted)*</span>
+J. Zhang, Z. Pang, M. Li, Y. Wang, G. Dong, C. Xue, Y. Wu, Z. Li, H. Phan, S. Zhao, B. Schuller, J Luo. ___Modality Disentangled Learning for Incomplete Multimodal Emotion Recognition: A Primitive Memory Distillation Perspective___, *Proc. EMNLP (Findings)*, 2026 <br/><span style="color:red">*(Accepted)*</span>
+
+J. Luo, J. He, S. Shen, L. Wang, **H. Phan**, J. Reiss, L. Haijun, B. Schuller, Z. Fu, S. Song. ___MReactor: Offline Multiple Appropriate Facial Reaction Generation with Hierarchical Cognitive Disentanglement___, *Proc. CVPR (Findings)*, 2026 [[PDF]](https://openaccess.thecvf.com/content/CVPR2026F/papers/Luo_MReactor_Offline_Multiple_Appropriate_Facial_Reaction_Generation_with_Hierarchical_Cognitive_CVPRF_2026_paper.pdf)
+
+V.-C. Nguyen, T.-H. Tran, T.-K. Doan, Q. H. Pham, N.-S. Vu, D. H. Le, **H. Phan**, P. L. Nguyen, N. Simidjievski, S. Tardieu, V.-T. Nguyen. ___Balanced Latent Semantics and Signal Fidelity for EEG representation learning___, *1st ICLR Workshop on Time Series in the Age of Large Models*, 2026 [[PDF]](https://openreview.net/pdf?id=ofwQZjoI4c)
+
+J. Luo, **H. Phan**, L. Wang, J. Reiss. ___BCAF: Bimodal Connection Attention Fusion for Speech Emotion Recognition___, *IEEE Transactions on Multimedia (TMM)*, 2026 [[Preprint]](https://arxiv.org/abs/2503.05858)
 
 I. McLoughlin, L. Pham, Y. Song, X. Miao, **H. Phan**, P. Cai, Q. Gu, J. Nan, H. Song, D. Soh, ___Spectrogram Features for Audio and Speech Analysis___, *Applied Sciences*, 2026 [[PDF]](https://www.mdpi.com/2076-3417/16/2/572)
 
