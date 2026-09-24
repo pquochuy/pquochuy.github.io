@@ -28,7 +28,9 @@ O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D.
 2026
 ------
 
-J. Zhang, Z. Pang, M. Li, Y. Wang, G. Dong, C. Xue, Y. Wu, Z. Li, H. Phan, S. Zhao, B. Schuller, J Luo. ___Modality Disentangled Learning for Incomplete Multimodal Emotion Recognition: A Primitive Memory Distillation Perspective___, *Proc. EMNLP (Findings)*, 2026 <br/><span style="color:red">*(Accepted)*</span>
+T.-K. Doan, V.-C. Nguyen, T.-H. Tran, Q. H. Pham, N.-S. Vu, H. P., P. L. Nguyen, D. H. Le, N. Simidjievski, V.-T. Nguyen. ___MAGE: Towards Generalizable Multi-timescale EEG Representations___, *Proc. NeurIPS*, 2026 <br/><span style="color:red">*(Accepted)*</span>
+
+J. Zhang, Z. Pang, M. Li, Y. Wang, G. Dong, C. Xue, Y. Wu, Z. Li, **H. Phan**, S. Zhao, B. Schuller, J Luo. ___Modality Disentangled Learning for Incomplete Multimodal Emotion Recognition: A Primitive Memory Distillation Perspective___, *Proc. EMNLP (Findings)*, 2026 <br/><span style="color:red">*(Accepted)*</span>
 
 J. Luo, J. He, S. Shen, L. Wang, **H. Phan**, J. Reiss, L. Haijun, B. Schuller, Z. Fu, S. Song. ___MReactor: Offline Multiple Appropriate Facial Reaction Generation with Hierarchical Cognitive Disentanglement___, *Proc. CVPR (Findings)*, 2026 [[PDF]](https://openaccess.thecvf.com/content/CVPR2026F/papers/Luo_MReactor_Offline_Multiple_Appropriate_Facial_Reaction_Generation_with_Hierarchical_Cognitive_CVPRF_2026_paper.pdf)
 
