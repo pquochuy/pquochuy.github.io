@@ -28,7 +28,7 @@ O. Y. Chén, D. T. Vũ, C. S. Diaz, J. S. Bodelet, **H. Phan**, G. Allali, V.-D.
 2026
 ------
 
-T.-K. Doan, V.-C. Nguyen, T.-H. Tran, Q. H. Pham, N.-S. Vu, H. P., P. L. Nguyen, D. H. Le, N. Simidjievski, V.-T. Nguyen. ___MAGE: Towards Generalizable Multi-timescale EEG Representations___, *Proc. NeurIPS*, 2026 <br/><span style="color:red">*(Accepted)*</span>
+T.-K. Doan, V.-C. Nguyen, T.-H. Tran, Q. H. Pham, N.-S. Vu, **H. Phan**, P. L. Nguyen, D. H. Le, N. Simidjievski, V.-T. Nguyen. ___MAGE: Towards Generalizable Multi-timescale EEG Representations___, *Proc. NeurIPS*, 2026 <br/><span style="color:red">*(Accepted)*</span>
 
 J. Zhang, Z. Pang, M. Li, Y. Wang, G. Dong, C. Xue, Y. Wu, Z. Li, **H. Phan**, S. Zhao, B. Schuller, J Luo. ___Modality Disentangled Learning for Incomplete Multimodal Emotion Recognition: A Primitive Memory Distillation Perspective___, *Proc. EMNLP (Findings)*, 2026 <br/><span style="color:red">*(Accepted)*</span>
 
